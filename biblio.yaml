@@ -1,0 +1,1536 @@
+---
+references:
+- id: 'lins:1996gonzaga25'
+  type: article-journal
+  title: 'Gonzaga Duque: crítica e utopia na virada do século'
+  container-title: Fundação Casa de Rui Barbosa
+  collection-title: Papéis avulsos
+  volume: '25'
+  abstract: >-
+    Os textos de Gonzaga Duque revelam uma consciência trágica da moder− nidade,
+    incomum na literatura brasileira. Trágico não é o patético, mas, sim, a
+    crítica radical que propõe a reversão da ordem das coisas. Vê−se o mundo
+    como aparência, ilusão, e se pretende virá−lo do avesso, o que se traduz na
+    busca de uma outra linguagem com a imaginação livre para ultrapassar o
+    sensível. Essa consciência trágica é a única possibilidade de contraposição
+    ao otimismo progressista, às tentativas modernizadoras, à identificação do
+    pen− samento como cálculo.
+  URL: 'http://www.casaruibarbosa.gov.br/dados/DOC/literatura/gonzaga_duque/PA25.pdf'
+  author:
+    - family: Lins
+      given: Vera
+  issued:
+    - year: 1996
+  accessed:
+    - year: 2018
+      month: 2
+      day: 15
+
+- id: 'santos:1983legado'
+  type: book
+  title: 'O Legado de Vicente Licínio Cardoso: as leis básicas da filosofia da arte'
+  publisher: Editora UFRJ
+  source: BnF Tolbiac
+  call-number: '927.3'
+  note: 'OCLC: 582985477'
+  language: Portuguese
+  author:
+    - family: Santos
+      given: Sydney Martins Gomes
+      dropping-particle: dos
+  issued:
+    - year: 1983
+  publisher-place: Rio de Janeiro
+  title-short: O Legado de Vicente Licínio Cardoso
+
+- id: 'needell:1983rio25'
+  type: article-journal
+  title: >-
+    Rio de Janeiro at the Turn of the Century: Modernization and the Parisian
+    Ideal
+  container-title: Journal of Interamerican Studies and World Affairs
+  page: 83-103
+  volume: '25'
+  issue: '1'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/165535'
+  DOI: 10.2307/165535
+  ISSN: 0022-1937
+  author:
+    - family: Needell
+      given: Jeffrey D.
+  issued:
+    - year: 1983
+  accessed:
+    - year: 2018
+      month: 2
+      day: 9
+  title-short: Rio de Janeiro at the Turn of the Century
+
+- id: 'needell:2010tropical'
+  type: book
+  title: >-
+    A tropical belle epoque: elite culture and society in turm-of-the-century
+    Rio de Janeiro
+  publisher: Cambridge University Press
+  source: Open WorldCat
+  ISBN: 978-0-521-12601-4 0-521-12601-0 978-0-521-33374-0 0-521-33374-1
+  note: 'OCLC: 940827738'
+  language: English
+  author:
+    - family: Needell
+      given: Jeffrey D
+  issued:
+    - year: 2010
+  publisher-place: New York
+  title-short: A tropical belle epoque
+
+- id: 'allain:1900rio-de-janeiro'
+  type: book
+  title: >-
+    Rio-de-Janeiro, quelques données sur la capitale et sur l'administration du
+    Brésil
+  publisher: 'L. Frinzine : Lachaud'
+  source: Open WorldCat
+  note: 'OCLC: 22017010'
+  language: French
+  author:
+    - family: Allain
+      given: Émile
+  issued:
+    - year: 1900
+  publisher-place: 'Paris : Rio de Janeiro'
+
+- id: 'araujo:1997nature'
+  type: book
+  title: >-
+    D'une nature à l’autre : technique, construction de l’espace et
+    transformation sociale (Brésil, 1850–1910)
+  number-of-pages: '1 vol., 423'
+  source: >-
+    Bibliothèque en ligne de Paris Diderot : catalogue + ressources
+    électroniques, Summon 2.0
+  abstract: >-
+    LA THESE TRAITE DE L'INTRODUCTION DES EQUIPEMENTS ET DES SAVOIRS ISSUS DE LA
+    REVOLUTION INDUSTRIELLE AU BRESIL DURANT LA DEUXIEME MOITIE DU XIXE SIECLE.
+    LA RECHERCHE PORTE NOTAMMENT SUR LE DEVELOPPEMENT DES CHEMINS DE FER, DE
+    L'INDUSTRIALISATION ET DE L'ELECTRICITE EN PLUSIEURS REGIONS DU PAYS. SI
+    D'UN COTE L'INTRODUCTION DE CES EQUIPEMENTS TECHNIQUES A REPRESENTE UN ESSOR
+    DE MODERNISATION ECONOMIQUE SUR PLUSIEURS REGIONS DU TERRITOIRE NATIONAL,
+    D'UN AUTRE COTE, CETTE INTRODUCTION N'A PAS REPRESENTE UNE VERITABLE
+    MODERNISATION POLITIQUE. LES NOUVELLES TECHNOLOGIES N'ONT PAS ETE
+    ACCOMPAGNEES PAR UNE TRANSFORMATION APPROFONDIE DES MOEURS POLITIQUES
+    TRADITIONELLES. THIS THESIS TREATS THE INTRODUCTION OF EQUIPMENTS AND
+    KNOWLEDGES COMING FROM INDUSTRIAL REVOLUTION IN BRAZIL DURING THE SECOND
+    HALF OF THE XIX CENTURY. THE RESEARCH INSISTS ON THE DEVELOPMENT OF THE
+    RAILWAYS, INDUSTRIALISATION AND ELECTRICAL EQUIPEMENTS IN MANY AREAS OF THE
+    COUNTRY. IF, FROM ONE POINT, THE INTRODUCTION OF THESES TECHNICAL EQUIPMENTS
+    HAS REPRESENTED AN STARUP OF MODERNISATION, ON THE OTHER ONE, THESES
+    EQUIPMENTS DID NOT REPRESENTED A REAL POLITICAL MODERNISATION. THE NEW
+    TECHNOLOGIES DID NOT WENT TOGHETER WITH AN EVOLUTION OF THE POLITICAL
+    TRADITIONS.
+  language: French
+  author:
+    - family: Araújo
+      given: Hermetes Reis
+      dropping-particle: de
+  issued:
+    - year: 1997
+  title-short: D'une nature à l’autre
+
+- id: 'gonzagaduque:2001impressoes'
+  type: book
+  title: 'Impressões de um amador: textos esparsos de crítica, 1882-1909'
+  publisher: Editora UFMG ; Fundação Casa de Rui Barbosa
+  source: Open WorldCat
+  ISBN: 85-7041-272-X 978-85-7041-272-0
+  note: 'OCLC: 50065005'
+  language: Portuguese
+  author:
+    - family: Gonzaga Duque
+      given: Luís
+  editor:
+    - family: Guimarães
+      given: Júlio Castañon
+    - family: Lins
+      given: Vera
+  issued:
+    - year: 2001
+  publisher-place: Belo Horizonte; Rio de Janeiro
+  title-short: Impressões de um amador
+
+- id: 'heizer:2001ciencia'
+  type: book
+  title: 'Ciência, civilização e império nos trópicos'
+  publisher: Access
+  source: BnF
+  call-number: 50(81)
+  note: 'OCLC: 49984352'
+  language: Portuguese
+  editor:
+    - family: Heizer
+      given: Alda
+    - family: Videira
+      given: Antonio Augusto Passos
+  issued:
+    - year: 2001
+  publisher-place: Rio de Janeiro
+
+- id: 'cancinotroncoso:2005intelectuales'
+  type: book
+  title: >-
+    Los intelectuales latinoamericanos entre la modernidad y la tradición,
+    siglos XIX y XX
+  publisher: M. Wiener Publishers
+  source: Open WorldCat
+  ISBN: 0-945179-26-X 978-0-945179-26-9
+  note: 'OCLC: 58831289'
+  language: Spanish
+  author:
+    - family: Cancino Troncoso
+      given: Hugo
+  issued:
+    - year: 2005
+  publisher-place: Princeton
+
+- id: 'priego:2007paradigmas'
+  type: book
+  title: >-
+    Paradigmas, culturas y saberes: la transmisión del conocimiento científico a
+    Latinoamérica
+  publisher: Iberoamericana ; Vervuert
+  source: Open WorldCat
+  ISBN: 978-84-8489-329-5 84-8489-329-4
+  note: 'OCLC: 892143645'
+  language: 'Textos pricipalment en portuguès, alguns en castellà i un en francès.'
+  author:
+    - family: Priego
+      given: Natalia
+    - family: Lozano
+      given: Sonia
+    - literal: Asociación de Historiadores Latinoamericanistas Europeos
+  issued:
+    - year: 2007
+  publisher-place: Madrid; Frankfurt am Main
+  title-short: 'Paradigmas, culturas y saberes'
+
+- id: 'figueiredo:1863reforme'
+  type: book
+  title: 'La Réforme de l''École des beaux-arts et l''opposition, par un élève'
+  publisher: A. Morel
+  source: 'http://catalogue.bnf.fr/ark:/12148/cb30435176d'
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - VP-17366
+  language: fre
+  author:
+    - family: Figueiredo
+      given: Pedro Americo
+      dropping-particle: de
+  issued:
+    - year: 1863
+  publisher-place: Paris
+  title-short: La Réforme de l'École des beaux-arts
+
+- id: 'figueiredoemello:1869science'
+  type: thesis
+  title: >-
+    La science et les systèmes : questions d'histoire et de philosophie
+    naturelle
+  publisher: Université de Bruxelles
+  genre: Thèse (doctorat)
+  URL: 'https://archive.org/details/bub_gb_cLN0IqtXYZEC'
+  author:
+    - family: Figueiredo e Mello
+      given: Pedro Américo
+  issued:
+    - year: 1869
+  accessed:
+    - year: 2018
+      month: 1
+      day: 21
+  publisher-place: Bruxelles
+
+- id: 'costa:1924alma'
+  type: article-newspaper
+  title: >-
+    A alma dos nossos lares: Porque é erronea a orientação da architectura do
+    Rio
+  container-title: A Noite
+  page: '1'
+  edition: '4421'
+  abstract: Fala-nos um verdadeiro e commovido artista
+  URL: 'http://memoria.bn.br/pdf/348970/per348970_1924_04421.pdf'
+  call-number: 72.035.9(81)
+  author:
+    - family: Costa
+      given: Lucio
+  issued:
+    - year: 1924
+      month: 3
+      day: 19
+  accessed:
+    - year: 2014
+      month: 11
+      day: 10
+  publisher-place: Rio de Janeiro
+  title-short: A alma dos nossos lares
+
+- id: 'magalhaes:1834resume'
+  type: article-journal
+  title: 'Résumé de l’histoire de la littérature, des sciences et des arts au Brésil'
+  container-title: Journal de l'Institut historique
+  collection-title: '1'
+  page: 47–53
+  volume: '1'
+  issue: '1'
+  source: Internet Archive
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  URL: 'http://archive.org/details/journaldelinsti02fragoog'
+  call-number: 7.03 (81)
+  language: French
+  author:
+    - family: Gonçalves de Magalhães
+      given: Domingos José
+    - family: Homem
+      given: Francisco de Sales Torres
+    - family: Porto Alegre
+      given: Manuel de Araújo
+  issued:
+    - year: 1834
+  accessed:
+    - year: 2014
+      month: 11
+      day: 9
+
+- id: 'instituthistoriquefrance:1834'
+  type: book
+  title: Journal de l'Institut historique
+  publisher: L'Institut historique
+  volume: '1'
+  number-of-pages: '1018'
+  source: Internet Archive
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  URL: 'http://archive.org/details/journaldelinsti02fragoog'
+  language: French
+  author:
+    - family: Institut historique (France)
+      given: Institut historique (France
+  issued:
+    - year: 1834
+  accessed:
+    - year: 2014
+      month: 11
+      day: 9
+
+- id: 'matos:2007encontro'
+  type: paper-conference
+  title: 'Um Encontro, um Desencontro. Lucio Costa, Raul Lino e Carlos Ramos'
+  container-title: 7º Seminário Docomomo Brasil
+  publisher: FAU-UFRGS
+  abstract: |-
+    No dealbar do Movimento Moderno nos seus
+    países, o brasileiro Lucio Costa (1902-1998)
+    e os portugueses
+    Carlos Ramos (1897-1969) e Raul Lino (1879-1974) assumi
+    ram posições combativas em prol dos valores
+    em que acreditavam. Os dois primeiros, favoráveis
+    e arautos do Movimento; o terceiro, em oposição. Cada
+    um desempenhou, nos anos conturbados em que o moderni
+    smo era um combate,
+    um papel fundamental na
+    pedagogia da arquitectura do respectivo país. Todos trav
+    aram conhecimento mútuo, em períodos diferentes
+    e separadamente. Desses contactos resultou algo ma
+    is do que relações correntes de profissionais do
+    mesmo ofício, tais como a cortesia distante num
+    dos lados do triângulo assim formado: nos outros lados,
+    achamos a veemência de um encontro e de um desencontro.
+    Num período em que a procura premente dos elementos
+    identificadores da cultura arquitectónica nacional
+    se conjuga, em Portugal e no Brasil, com a disput
+    a entre tradição e modernidade, Costa, Lino e Ramos
+    emergem como teóricos da arquitectura. A int
+    ensa preocupação pedagógica presente em cada um viria a
+    ter influência de grande longevidade na opinião pública ou
+    no meio restrito da arquitectura; significando
+    preferência persistente por um universo formal, ou
+    formação dos arquitectos modernos cuja produção se
+    insere no arco temporal de 1920 a 1970. A sua actuação
+    prática e teórica, no meio académico e nos textos
+    produzidos, reflecte entretanto uma elasticidade própria
+    de cada um para encarar a relação histórica com o
+    passado e a sua reconstrução apoiada no racionalismo m
+    oderno. O artigo analisa os diferentes modos de
+    actuação: a revalorização da arquitectura colonial br
+    asileira, a busca de raízes nacionais e das tradições
+    históricas como elemento estruturante da ‘casa por
+    tuguesa’ e o combate contra a modernidade, passando
+    pela abertura do ensino de arquitectura para o ‘moderno’
+    . Procura-se sistematizar os paralelismos e
+    divergências dos percursos
+    vivenciais destes autores.
+  URL: 'http://www.docomomo.org.br/seminario%207%20pdfs/034.pdf'
+  author:
+    - family: Matos
+      given: Madalena Cunha
+    - family: Ramos
+      given: Tânia Beisl
+  issued:
+    - year: 2007
+  accessed:
+    - year: 2014
+      month: 6
+      day: 8
+  publisher-place: Porto Alegre
+  title-short: 'Um Encontro, um Desencontro'
+
+- id: 'silva:2013modernidade'
+  type: article-journal
+  title: >-
+    A modernidade em Monteiro Lobato: Cidades Mortas e o retrato de um Brasil
+    decadente no início do século XX
+  container-title: Revista Virtual de Letras
+  page: 293–308
+  volume: '5'
+  issue: '1'
+  abstract: >-
+    A obra Cidade Mortas, publicada em 1919, é o retrato da decadência das
+    cidades e do homem do interior do Brasil, utilizando-se como matéria-prima a
+    região do Vale do Paraíba. Apesar de demonstrar nesses contos alguns traços
+    realistas, o intuito de Monteiro Lobato estava atrelado a uma produção
+    regionalista preocupada em promover a nacionalização da literatura
+    brasileira, e tal inquietação em renovar as letras do país conferiu a este
+    livro inquestionáveis traços modernistas. O objetivo deste estudo repousa em
+    identificar nos contos “Cidades Mortas”, “A vidinha ociosa – Pé no chão”,
+    “Cabelos compridos”, “Por que Lopes se casou”, “O plágio” e “Café! Café!”
+    aspectos tem áticos inovadores que marcariam a literatura moderna do século
+    XX.
+  URL: 'http://www.revlet.com.br/artigos/188.pdf'
+  call-number: 869.0(81) M775
+  author:
+    - family: Silva
+      given: Marcela Verônica
+      dropping-particle: da
+  issued:
+    - literal: jan.–jul. 2013
+  accessed:
+    - year: 2014
+      month: 6
+      day: 4
+  title-short: A modernidade em Monteiro Lobato
+  container-title-short: RevLet
+
+- id: 'thiengo:2010questao'
+  type: article-journal
+  title: >-
+    A questão da tradição em Monteiro Lobato: breve comentário à margem de
+    Urupês
+  container-title: Linguagens e Diálogos
+  page: 104–115
+  volume: '1'
+  issue: '1'
+  abstract: >-
+    Partindo da conturbada relação de Monteiro Lobato com o grupo modernista,
+    pretende-se discutir, tomando por base o livro de contos Urupês, como o
+    autor, no papel de criador e empreendedor cultural, captou um momento
+    preciso e conflituoso do processo de modernização do Brasil, flagrando, no
+    interior, situações de decadência e mor
+
+    te que indicariam antes um choque entre uma tradição agonizante e uma
+    modernização conservadora. Nesse sentido, a periodização literária, ao
+    colocar Lobato como pré-modernista, tenderia a desvalorizar sua obra face
+    aos avanços  vanguardistas dos modernistas, quando de fato Lobato nunca quis
+    ser modernista, sem por isso deixar de ser moderno em sua visão da realidade
+    sócio - econômica e cultural do país, pois teria percebido um vácuo entre o
+    declínio da tradição e o que vislumbrava como modernidade. Nesse vácuo
+    movimentam - se suas personagens decadentes e em lugar no processo de
+    odernização do país.
+  URL: 'http://linguagensedialogos.com.br/2010.1/textos/07art-Thiengo.pdf'
+  call-number: 869.0(81) M775
+  author:
+    - family: Thiengo
+      given: Mariana
+  issued:
+    - year: 2010
+  accessed:
+    - year: 2014
+      month: 6
+      day: 4
+  title-short: A questão da tradição em Monteiro Lobato
+
+- id: 'gonzaga-duque:1995arte'
+  type: book
+  title: A arte brasileira
+  publisher: Mercado de Letras
+  source: Open WorldCat
+  ISBN: 85-85725-14-1 978-85-85725-14-3
+  language: Portuguese
+  author:
+    - family: Gonzaga Duque Estrada
+      given: Luís
+  editor:
+    - family: Chiarelli
+      given: Tadeu
+  issued:
+    - year: 1995
+  publisher-place: Campinas
+
+- id: 'silva:critica'
+  type: webpage
+  title: A crítica de Gonzaga-Duque e a reprodução do real nas artes plásticas
+  abstract: A crítica de Gonzaga-Duque e a reprodução do real nas artes plásticas
+  URL: >-
+    https://www.academia.edu/3279316/A_critica_de_Gonzaga-Duque_e_a_reproducao_do_real_nas_artes_plasticas
+  author:
+    - family: Silva
+      given: Elizeu
+  accessed:
+    - year: 2014
+      month: 6
+      day: 8
+
+- id: 'gonzaga-duque:1929contemporaneos'
+  type: book
+  title: 'Contemporaneos: pintores e esculptores'
+  publisher: Benedicto de Souza
+  number-of-pages: '284'
+  source: Google Books
+  language: pt
+  author:
+    - family: Gonzaga Duque Estrada
+      given: Luís
+  issued:
+    - year: 1929
+  title-short: Contemporaneos
+
+- id: 'macedo:1861licoes'
+  type: book
+  title: >-
+    Lições de historia do Brazil para uso dos alumnos do Imperial Collegio de
+    Pedro Segundo
+  publisher: Typographia Imparcial
+  URL: 'http://www2.senado.leg.br/bdsf/handle/id/242433'
+  language: por
+  author:
+    - family: Macedo
+      given: Joaquim Manuel
+      dropping-particle: de
+  issued:
+    - year: 1861
+  accessed:
+    - year: 2017
+      month: 1
+      day: 23
+  publisher-place: Rio de Janeiro
+
+- id: 'kunzle:2003brasil'
+  type: article-journal
+  title: >-
+    O Brasil em lições: a história como disciplina escolar em Joaquim Manuel de
+    Macedo
+  container-title: Educar em Revista
+  page: 401-404
+  issue: '22'
+  source: SciELO
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0104-40602003000200018&lng=en&nrm=iso&tlng=pt
+  DOI: 10.1590/0104-40602189
+  ISSN: 0104-4060
+  author:
+    - family: Künzle
+      given: Maria Rosa Chaves
+  issued:
+    - year: 2003
+      month: 12
+  accessed:
+    - year: 2017
+      month: 1
+      day: 23
+  title-short: O Brasil em lições
+
+- id: 'macedo:2017biblioteca'
+  type: thesis
+  title: 'Biblioteca brasileira de arquitetura : 1551-1750'
+  publisher: Universidade de Brasília
+  genre: Tese (doutorado em Arquitetura e Urbanismo)
+  abstract: >-
+    O objetivo desta tese é identificar, localizar e analisar um conjunto
+    consistente de publicações impressas de Arquitetura no Brasil desde as
+    primeiras ações portuguesas de colonização até 1750 – final do reinado de D.
+    João V – tratando-se tanto dos livros que comprovadamente circularam em
+    nosso território quanto daqueles cujos autores ou aqui nasceram ou aqui
+    trabalharam. O Capítulo 1 é uma narrativa que trata os livros afeitos à
+    Arquitetura que circularam no Brasil colonial, conforme levantados em
+    inventários de acervos locais. São mencionados: algumas das primeiras obras
+    impressas sobre o Brasil, a contribuição dos jesuítas na construção dos
+    edifícios e capacitação dos artífices; guias de peregrinação, tratados
+    geográficos, Theatra Mundi, tratados históricos, academias científicas e
+    literárias, a contribuição da Engenharia Militar europeia, os tratados
+    clássicos de arquitetura e a legislação impressa – sobretudo as Ordenações
+    do Reino. O Capítulo 2 é composto uma série de verbetes dispondo em ordem
+    cronológica as obras dos profissionais que nasceram ou trabalharam no
+    território brasileiro: ficha catalográfica; dados editoriais; dados
+    biográficos de autores e condições de produção da obra; sumário e análise de
+    seu conteúdo; dados sobre a circulação da obra. Complementam o trabalho
+    apêndices com listas de livros circulantes e de autores, bem como um índice
+    cronológico da legislação afeita ao tema então vigente.
+  URL: 'http://repositorio.unb.br/handle/10482/24932'
+  language: por
+  author:
+    - family: Macedo
+      given: Danilo Matoso
+  issued:
+    - year: 2017
+  publisher-place: Brasília
+  title-short: Biblioteca brasileira de Arquitetura
+
+- id: 'pacheco:1734divertimento'
+  type: book
+  title: >-
+    Divertimento erudito para os curiosos de noticias historicas, escolasticas,
+    politicas, naturaes, sagradas, e profanas: De scobertas em todas as idades,
+    e estados do mundo até o presente
+  publisher: Officina de Antonio de Sousa da Sylva
+  source: Open WorldCat
+  note: 'OCLC: 651247158'
+  language: Portuguese
+  author:
+    - family: Pacheco
+      given: João
+  issued:
+    - year: 1734
+  publisher-place: Lisboa Occidental
+  title-short: >-
+    Divertimento erudito para os curiosos de noticias historicas, escolasticas,
+    politicas, naturaes, sagradas, e profanas
+
+- id: 'lima:2016digne'
+  type: article-journal
+  title: >-
+    « Mon digne successeur et ami » : Debret, Porto-Alegre et l’invention d’un
+    héritage
+  container-title: Brésil(s). Sciences humaines et sociales
+  issue: '10'
+  source: journals.openedition.org
+  abstract: >-
+    La Bibliothèque nationale de Rio de Janeiro détient une liasse de lettres
+    envoyées de Paris par Jean-Baptiste Debret à Manuel de Araújo Porto-Alegre,
+    entre 1837 et 1844. Le premier est peintre d’histoire et membre de la
+    colonie d’artistes et d’ingénieurs arrivée au Brésil en 1816, et désignée
+    sous le nom de « Mission artistique française ». Le second, son élève à
+    l’Académie impériale des beaux-arts de Rio de Janeiro, s’est distingué dans
+    l’histoire de l’art et de la culture brésilienne du XIXe siècle. Cet article
+    s’inspire des catégories analytiques de Reinhart Koselleck, et propose une
+    interprétation des relations de Debret avec le Brésil après son retour en
+    France, ainsi que de ses efforts pour impliquer Porto-Alegre dans ses
+    projets, ce qui est particulièrement manifeste à la lecture de ses lettres.
+    The National Library in Rio de Janeiro holds a set of letters sent from
+    Paris by Jean-Baptiste Debret to Manuel de Araújo Porto-Alegre between 1837
+    and 1844. The former was a historical painter and member of the group of
+    French artists and engineers who arrived in Brazil in 1816, the so-called
+    “French Artistic Mission.” The latter was his student at the Imperial
+    Academy of Fine Arts in Rio de Janeiro and a renowned figure in the history
+    of Brazilian art and culture in the nineteenth century. Inspired by the
+    analytical categories of Reinhart Koselleck, this article presents an
+    interpretation of Debret’s relations with Brazil after his return to France
+    and of his efforts to involve Porto-Alegre in his projects, a topic that
+    stands out in the epistolary set., A Biblioteca Nacional do Rio de Janeiro
+    possui um conjunto de cartas enviadas de Paris por Jean-Baptiste Debret a
+    Manuel de Araújo Porto-Alegre, entre 1837 e 1844. O primeiro, pintor
+    histórico e membro da colônia de artistas e artífices franceses chegada ao
+    Brasil em 1816, a assim chamada « Missão Artística Francesa ». O segundo,
+    seu aluno na Academia Imperial de Belas Artes do Rio de Janeiro e personagem
+    destacado da história artística e cultural brasileira oitocentista.
+    Inspirado pelas categorias analíticas de Reinhart Koselleck, este artigo
+    elabora uma interpretação das relações de Debret com o Brasil, após seu
+    retorno à França, e dos esforços para envolver Porto-Alegre em seus
+    projetos, tema que salta aos olhos no conjunto epistolar.
+  URL: 'http://journals.openedition.org/bresils/2022'
+  DOI: 10.4000/bresils.2022
+  ISSN: 2257-0543
+  language: fr
+  author:
+    - family: Lima
+      given: Valéria Alves Esteves
+  issued:
+    - year: 2016
+      month: 11
+      day: 30
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+  title-short: « Mon digne successeur et ami »
+
+- id: 'coli:2013fabrique'
+  type: article-journal
+  title: 'Fabrique et promotion de la brésilianité : art et enjeux nationaux'
+  container-title: Perspective. Actualité en histoire de l’art
+  page: 213-223
+  issue: '2'
+  source: journals.openedition.org
+  abstract: >-
+    Première constatation : la production artistique du Brésil, depuis le début
+    de son histoire, n’a jamais été fondée sur l’observation. Tant dans les arts
+    plastiques qu’en littérature, artistes, intellectuels et écrivains, aveugles
+    à la réalité de ce qui les entourait, se sont enfermés dans un monde
+    imaginaire. Cette remarque liminaire, simple et générique annonce les
+    caractéristiques fondamentales de l’art brésilien ; cette spécificité est
+    issue de croyances idéologiques, et en particulier de ...
+  URL: 'http://journals.openedition.org/perspective/3865'
+  DOI: 10.4000/perspective.3865
+  ISSN: 1777-7852
+  language: fr
+  author:
+    - family: Coli
+      given: Jorge
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+  title-short: Fabrique et promotion de la brésilianité
+
+- id: 'marques:2013existe-t-il'
+  type: article-journal
+  title: Existe-t-il un art brésilien ?
+  container-title: Perspective. Actualité en histoire de l’art
+  page: 251-268
+  issue: '2'
+  source: journals.openedition.org
+  abstract: >-
+    Luiz Marques | Fragilité et apories de l’historiographie artistique
+    brésilienne Proposer une vue d’ensemble sur les rapports entre l’histoire
+    des arts visuels au Brésil et l’histoire des réflexions qu’elle a suscitées
+    chez nous (et, plus rarement, ailleurs) relève de la gageure, car il s’agit
+    d’un dossier difficile. Et cela, peut-on dire, pour trois raisons. Avant
+    tout, cette historiographie n’a pas fait jusqu’à présent l’objet de bilans
+    ou mêmes de réflexions d’ensemble. Or, dès que l’on s’y...
+  URL: 'http://journals.openedition.org/perspective/3879'
+  DOI: 10.4000/perspective.3879
+  ISSN: 1777-7852
+  language: fr
+  author:
+    - family: Marques
+      given: Luiz
+    - family: Conduru
+      given: Roberto
+    - family: Mattos
+      given: Claudia
+    - family: Zielinsky
+      given: Mônica
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+
+- id: 'baumgarten:2013baroque'
+  type: article-journal
+  title: >-
+    Le baroque colonisateur : principales orientations théoriques dans la
+    production historiographique
+  container-title: Perspective. Actualité en histoire de l’art
+  page: 288-307
+  issue: '2'
+  source: journals.openedition.org
+  abstract: >-
+    Le présent article a pour but de présenter un panorama général des travaux
+    historiographiques et artistiques concernant l’art colonial ou baroque au
+    Brésil. Une subdivision thématique, chronologique et géographique ne permet
+    plus une « histoire totale » englobant la production dans son ensemble. Nous
+    avons donc choisi de montrer les axes principaux de l’activité scientifique.
+    Les travaux critiques et la recherche sur le baroque au Brésil sont des
+    champs d’investigation vastes et dynamiques. Le thème intéresse les
+    historiens d’art depuis le xixe siècle et, au xxe siècle, le baroque,
+    symbole de l’art national et de l’origine de la spécificité esthétique
+    brésilienne, s’est transformé en un vaste champ d’investigation. Cette
+    opération n’était pas habituelle en ce qui concerne la production artistique
+    latino-américaine. L’identification du baroque en tant qu’art national et
+    les multiples débats sur les échanges plus ou moins importants avec les
+    sources internationales, tout comme avec les syncrétismes formels locaux,
+    européens, africains ou asiatiques, ont entraîné récemment un élargissement
+    du débat et provoqué une révision des approches traditionnelles. De leur
+    côté, celles-ci se sont transformées et perfectionnées grâce à la mise à
+    disposition et à la systématisation accrues des données sur les arts des
+    xviie et xviiie siècles., The present article aims to present a general
+    panorama of historiographical and artistic literature on colonial, or
+    baroque, art in Brazil. Thematic, chronological, or geographical
+    subdivisions are no longer sufficient for writing a “total history”
+    embracing this production in its entirety. The authors have therefore chosen
+    to focus on the principal orientations of scholarly output. Critical
+    analyses and research on baroque in Brazil are vast and vibrant fields of
+    investigation. A topic of interest to art historians beginning in the
+    nineteenth century, the baroque, a symbol of national art and the origins of
+    a specific Brazilian aesthetic, became in the twentieth century an extensive
+    field of study. Such an operation was unusual for the artistic production of
+    Latin America. The equation of baroque with a national art and the numerous
+    debates on the extent of exchanges with international sources, as well as
+    syncretism with local, European, African, and Asian formal elements, caused
+    the debate to expand and traditional approaches to be revised. These
+    approaches, in turn, were transformed and perfected by the increasing
+    accessibility and systematization of data on arts from the seventeenth and
+    eighteenth centuries., O presente artigo pretende, assim, apresentar uma
+    visão geral sobre a produção historiográfica e artística sobre a arte
+    colonial ou arte barroca no Brasil. Qualquer subárea temática, cronológica e
+    geográfica não permite mais uma “histoire total” que engloba a produção
+    completa, mas optamos de mostrar os eixos principais da produção científica.
+    A produção crítica e a pesquisa sobre o Barroco no Brasil são, ambas, campos
+    vastos e dinâmicos. O tema interessa aos historiadores da arte desde o
+    século xix e, no século xx o Barroco transforma-se numa grade area de
+    interesse, símbolo do nacional e da origem da especificidade estética
+    brasileira, numa operação que nem sempre era regra no que tange a produção
+    artística latinoamericana. A identificação do barroco com o nacional e os
+    múltiplos debates sobre o maior ou menor intercâmbio com as fontes
+    internacionais, assim como os sincretismos formais do local e do europeu,
+    africano ou asiático determinam, recentemente, a ampliação do debate,
+    provocando uma revisão das abordagens tradicionais. Estas, por sua vez,
+    transformam-se, aperfeiçoam-se com a disponibilidade e a sistematização cada
+    vez maior de dados referentes às artes dos séculos xvii e xviii., Der
+    vorliegende Artikel versucht, einen generellen Überblick über die
+    historiographischen und künstlerischen Arbeiten im Bereich der
+    Kolonialkunst, oder Kunst des Barock, in Brasilien zu geben. Eine
+    thematische, chronologische und geographische Unterteilung kann jedoch
+    keiner „totalen Geschichte“ mehr von der Produktion in ihrem Ganzen
+    entsprechen. Dementsprechend konzentriert sich der Artikel auf den
+    Hauptachsen der Forschung. Die kritischen Untersuchungen und die Forschung
+    im Bereich des Barock in Brasilien sind ein vielfältiges und dynamisches
+    Feld. Das Thema interessiert die Kunsthistoriker seit dem 19. Jahrhundert,
+    während sich der Barock im 20. Jahrhundert als Symbol nationaler Kunst und
+    als Ursprung der spezifisch brasilianischen Ästhetik zu einem umfangreichen
+    Forschungsfeld gewandelt hat. Eine ungewöhnliche Entwicklung im Blick auf
+    die künstlerische Produktion Lateinamerikas. Die Identifizierung des Barock
+    als nationale Kunst, die zahlreichen Diskussionen über den mehr oder minder
+    starken Austausch mit internationalen Quellen und mit formalen Synkretismen,
+    seien sie lokaler, europäischer, afrikanischer oder asiatischer Natur, haben
+    unlängst zur Erweiterung der wissenschaftlichen Diskussion beigetragen und
+    ein kritisches Überdenken der traditionellen Herangehensweisen mit sich
+    gebracht. Letztere wiederum verändern und verbessern sich dank der
+    verstärkten Zugänglichkeit und Systematisierung der Daten, die die Künste
+    des 17. und 18. Jahrhunderts betreffen., Questo articolo vuol presentare un
+    panorama generale dei lavori storiografici e artistici relativi all’arte
+    coloniale, o arte barocca, in Brasile. Una suddivisione tematica,
+    cronologica e geografica non consente più di scrivere una “storia totale”
+    che abbracci la produzione nel suo insieme. L’autore del saggio ha pertanto
+    scelto di mostrare gli assi principali della ricerca scientifica. Gli studi
+    critici sul barocco in Brasile costituiscono dei campi di investigazione
+    vasti e dinamici. Il tema interessa gli storici dell’arte dall’Ottocento e,
+    nel Novecento, il barocco, simbolo dell’arte nazionale e dell’origine della
+    specificità estetica brasiliana, è divenuto un vasto spazio di
+    investigazione – un’operazione che non era frequente per la produzione
+    artistica latino-americana. L’identificazione del barocco con l’arte
+    nazionale e i molteplici dibattiti sullo scambio più o meno profondo con le
+    fonti internazionali, o ancora con i sincretismi formali locali, europei,
+    africani o asiatici, hanno condotto di recente ad un allargamento del
+    dibattito e hanno provocato una revisione degli approcci tradizionali. Dal
+    canto loro, questi ultimi si sono trasformati e perfezionati grazie alle
+    sempre maggiori messa a disposizione e sistematizzazione dei dati relativi
+    alle arti del XVII e del XVIII secolo., Este artículo pretende dar un
+    panorama general de los trabajos historiográficos y artísticos relacionados
+    con el arte colonial, o arte barroco, en Brasil. Una subdivisión temática,
+    cronológica y geográfica ya no permite una “historia total”, que abarque el
+    conjunto de la producción. Por lo tanto se tomó el partido de presentar los
+    principales ejes de la actividad científica. En efecto, los trabajos
+    críticos y de investigación sobre el barroco en Brasil son abundantes y
+    dinámicos. Tema de interés para los historiadores del arte desde el siglo
+    xix, el barroco, símbolo del arte nacional y de los orígenes de la
+    especificidad estética brasileña, se ha convertido en un amplio espacio de
+    investigación en el s. xx; fenómeno nada habitual en lo que a la producción
+    artística latinoamericana se refiere. La identificación del barroco como
+    arte nacional y los numerosos debates sobre el intercambio más o menos
+    importante con las fuentes internacionales, con los sincretismos formales
+    locales, europeos, africanos o asiáticos, han acarreado recientemente una
+    ampliación del debate y una revisión de los enfoques tradicionales. Éstos, a
+    su vez, se han visto transformados y perfeccionados gracias al acceso y a la
+    cada vez mayor sistematización de los datos referentes a las artes de los
+    siglos xvii y xviii.
+  URL: 'http://journals.openedition.org/perspective/3888'
+  DOI: dx.doi.org/10.4000/perspective.3888
+  ISSN: 1777-7852
+  language: fr
+  author:
+    - family: Baumgarten
+      given: Jens
+    - family: Tavares
+      given: André
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+  title-short: Le baroque colonisateur
+
+- id: 'cardoso:2013histories'
+  type: article-journal
+  title: >-
+    Histories of nineteenth-century Brazilian art: a critical review of
+    bibliography, 2000-2012
+  container-title: Perspective. Actualité en histoire de l’art
+  page: 308-324
+  issue: '2'
+  source: journals.openedition.org
+  abstract: >-
+    L’histoire de l’art brésilien du xixe siècle a subi, pendant les douze
+    dernières années, de si importantes transformations qu’il est possible de
+    dire qu’elle a été réécrite, si l’on s’en réfère à ce qui a été produit au
+    cours du siècle précédent. Le présent essai vise à fournir une révision
+    critique de la biographie établie entre 2000 et 2012 en se concentrant en
+    particulier sur les livres mais aussi en prenant en considération les
+    catalogues, les revues, les articles académiques et les sites Internet.
+    Ceux-ci sont situés dans un contexte institutionnel et professionnel qui a
+    pour but de répertorier les études publiées actuellement. Cet examen se
+    subdivise de la façon suivante : évaluations de l’état de l’art dans les
+    années 1990 ; études générales ; paysage et autres genres ; biographies et
+    monographies ; approches thématiques ; sources Internet. Il contient en
+    outre un résumé du panorama institutionnel. Une attention particulière est
+    attribuée aux questions d’histoires non élitistes de l’art et de la
+    transdisciplinarité en tant qu’opportunités qui représentent un défi pour le
+    développement futur du champ d’investigation., The history of
+    nineteenth-century Brazilian art has undergone enormous transformation over
+    the past twelve years, to the point where it has been arguably re-written
+    with regard to the output of the preceding century. The present essay
+    attempts to provide a critical overview of the bibliography produced during
+    the interval between 2000 and 2012, focusing primarily on books but also
+    taking into account catalogues, journals, scholarly articles and websites.
+    These are situated, in turn, in their institutional and professional
+    contexts, so as to map the scholarship currently being produced. The review
+    is broken down into evaluations of the state of the art in the 1990s;
+    general surveys; landscape and other genres; biographies and monographs;
+    thematic approaches; internet resources; and a brief summary of the
+    institutional landscape. Special attention is given to non-elite histories
+    of art and trans-disciplinarity as fronts that still pose a particular
+    challenge to the further development of the field., A história da arte
+    brasileira do século xix tem passado por enormes transformações ao longo dos
+    últimos doze anos, ao ponto de ser possível argumentar que foi reescrita com
+    relação ao que foi produzido nos cem anos anteriores. O presente ensaio visa
+    fornecer uma revisão crítica da bibliografia produzida entre 2000-2012,
+    enfocando especialmente livros, mas também levando em consideração
+    catálogos, revistas, artigos acadêmicos e sites da internet. Estes são
+    situados, por sua vez, em seu contexto institucional e profissional, a fim
+    de mapear os estudos produzidos atualmente. A resenha é subdividida em
+    avaliações do estado da arte na década de 1990; estudos gerais; paisagem e
+    outros gêneros; biografias e monografias; abordagens temáticas; fontes da
+    internet; assim como um resumo do cenário institucional. Dedica-se especial
+    atenção às questões de histórias não-elitistas da arte e da
+    trans-disciplinaridade como frentes que ainda representam um desafio para o
+    desenvolvimento futuro do campo., Die Geschichte der brasilianischen Kunst
+    des 19. Jahrhunderts hat im Laufe der letzten zwölf Jahre so starke
+    Veränderungen erfahren, dass man im Vergleich zur theoretischen Produktion
+    der vorhergehenden hundert Jahre von einer Umschreibung sprechen kann. Der
+    vorliegende Artikel versucht, eine kritische Bestandsaufnahme der zwischen
+    2000 und 2012 entstandenen Bibliographie zu liefern, indem er sich besonders
+    mit den monographischen Schriften, aber auch mit den Katalogen,
+    Zeitschriften, wissenschaftlichen Artikeln und Internetseiten
+    auseinandersetzt. Letztere stehen in einem institutionellen und
+    professionellen Kontext, um die aktuellen Veröffentlichungen zu sichten und
+    zu ordnen. Die hier vorliegende kritische Betrachtung ist in folgende
+    Abschnitte gegliedert: Evaluierung des Wissenschaftsstands in den 1990er
+    Jahren; allgemeine Studien; Landschaft und andere Bildgattungen; Biographien
+    und Monographien; thematische Untersuchungen; Internetquellen. Darüber
+    hinaus enthält dieser Artikel einen Überblick über das institutionelle
+    Spektrum. Besonderes Augenmerk liegt auf den Fragen und Möglichkeiten einer
+    nicht elitären Kunstgeschichte und ihrer Transdisziplinarität als
+    Herausforderungen für die weitere Entwicklung dieses Forschungsgebiets.,
+    Durante gli ultimi dodici anni, la storia dell’arte brasiliana
+    dell’Ottocento ha conosciuto delle trasformazioni così importanti da poter
+    affermare che essa è stata riscritta, in particolare in riferimento a ciò
+    che era stato prodotto nei cento anni precedenti. Questo saggio intende
+    fornire una revisione critica della bibliografia pubblicata tra il 2000 e il
+    2012; per far ciò, si concentra soprattutto sulle monografie, ma prende in
+    considerazione anche cataloghi, riviste, articoli accademici e siti
+    internet. Questi si inseriscono in un contesto istituzionale e professionale
+    che ha per scopo di recensire gli studi attualmente pubblicati. L’analisi si
+    compone delle seguenti parti: valutazione dello stato degli studi negli anni
+    Novanta; studi generali; paesaggio e altri generi; biografie e monografie;
+    approcci tematici; fonti internet. Essa contiene inoltre un riassunto del
+    panorama istituzionale. Un’attenzione particolare è assegnata alle storie
+    non elitarie dell’arte e dell’interdisciplinarietà – due strade che
+    costituiscono una sfida per lo sviluppo futuro del campo di indagine., La
+    historia del arte brasileño del siglo xix ha experimentado transformaciones
+    tales, a lo largo de los últimos doce años, que podría decirse que ha sido
+    reescrita, si nos atenemos a lo producido en los cien años anteriores. Este
+    estudio aspira a ofrecer una revisión crítica de la biografía establecida
+    entre 2000 y 2012, basándose sobre todo en los libros pero también teniendo
+    en cuenta los catálogos, las revistas, los artículos académicos y los sitios
+    web. Éstos se sitúan en un contexto institucional y profesional cuyo
+    propósito es catalogar los estudios publicados en la actualidad. Se
+    subdivide el examen de la forma siguiente: evaluaciones del estado del arte
+    en la década de 1990; estudios generales; paisajes y otros géneros;
+    biografías y monografías; enfoques temáticos; fuentes en Internet. A esto se
+    añade un resumen del panorama institucional. Se ha prestado una atención
+    específica a las cuestiones de historias no elitistas del arte y de la
+    transdisciplinaridad en tanto que oportunidades que representan un desafío
+    para el futuro desarrollo del campo de investigación.
+  URL: 'http://journals.openedition.org/perspective/3891'
+  DOI: 10.4000/perspective.3891
+  ISSN: 1777-7852
+  language: en
+  author:
+    - family: Cardoso
+      given: Rafael
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+  title-short: Histories of nineteenth-century Brazilian art
+
+- id: 'dasilvapereira:2013l''architecture'
+  type: article-journal
+  title: >-
+    L’architecture et l’urbanisme au Brésil, une réflexion sur trente ans
+    d’histoire
+  container-title: Perspective. Actualité en histoire de l’art
+  page: 343-364
+  issue: '2'
+  source: journals.openedition.org
+  abstract: >-
+    Durant la dernière décennie, les études dans le domaine de l’architecture et
+    de l’urbanisme se sont largement manifestées publiquement au Brésil. Cette
+    tendance se traduit non seulement par un nombre croissant de programmes de
+    formation en architecture et en urbanisme, qui offrent une qualification en
+    histoire, mais aussi par la création de maisons d’édition spécialisées dans
+    ces domaines et la présence d’historiens et de critiques d’architecture et
+    d’urbanisme dans les journaux à grande diffusion. Elle a permis aussi
+    l’organisation de congrès et de cours magistraux sur les villes et leurs
+    histoires et privilégié les études des biographies professionnelles
+    d’architectes et d’urbanistes. Enfin, elle permet aujourd’hui la circulation
+    de dizaines de chercheurs brésiliens qui remplissent les auditoriums ou
+    présentent les résultats de leurs investigations dans les circuits
+    internationaux de colloques et de séminaires.Cet article traite donc des
+    contours récents de la professionnalisation dans le domaine de l’histoire de
+    l’architecture et de l’urbanisme. Il cherche à répertorier les pratiques des
+    acteurs et des groupes qui travaillent dans le pays, leurs contributions à
+    différents niveaux et les tensions entre les orientations théoriques
+    maintenues ou déplacées. En filigrane, il s’agit d’une invitation à
+    réfléchir sur les interactions multiples et fluides qui, à chaque époque et
+    dans chaque lieu, ont construit un champ de connaissance et d’action
+    indissociable d’une histoire conjuguée et construite au présent., Over the
+    past decade, studies on architecture and urbanism have gained in visibility
+    in Brazil. This tendency is illustrated not only by the increasing number of
+    vocational and academic programs related to these two fields offering a
+    concentration in history, but also by the creation of specialized publishing
+    houses and the presence of historians and critics of architecture and
+    urbanism in mainstream newspapers. It has also led to the organization of
+    conferences and lectures on cities and their histories and brought to light
+    studies by the professional biographers of architects and urban planners. In
+    addition, it has also resulted in the circulation of dozens of Brazilian
+    scholars, who fill auditoriums and present the results of their
+    investigations during international colloquiums and seminars. This article
+    discusses recent developments shaping professionalization in the fields of
+    architectural and urban history. It seeks to record the practices of
+    individual protagonists and groups working in Brazil, their different
+    contributions, and the tensions between sustained or shifting theoretical
+    orientations. In a more implicit fashion, it invites reflection on the many
+    and fluid interactions that, in a given period and place, comprise a field
+    of thought and action that cannot be dissociated from a history conjugated
+    and constructed in the present., Os estudos na área da história da
+    arquitetura e do urbanismo vêm exibindo na última década uma grande
+    expressão pública no Brasil. Essa tendência se traduz não só no número
+    crescente de programas de formação em arquitetura e urbanismo que oferecem
+    capacitação em história mas também na criação de editoras especializadas
+    nessas áreas, na presença de historiadores e críticos de arquitetura e
+    urbanismo em jornais de grande circulação, na organização de congressos e
+    cátedras nacionais sobre as cidades e sua história e que privilegiam os
+    estudos das biografias profissionais de arquitetos e urbanistas, enfim, na
+    circulação internacional, hoje, de dezenas de pesquisadores brasileiros que
+    enchem os auditórios ou apresentam resultados de suas investigações nos
+    circuitos internacionais de colóquios e seminários.Este artigo trata, assim,
+    do delineamento recente da profissionalização na área da história da
+    arquitetura e do urbanismo, buscando mapear as práticas de diferentes atores
+    e grupos atuantes no país, suas contribuições em diferentes planos e as
+    tensões e entre as orientações teóricas mantidas e deslocadas. Em suas
+    entrelinhas, trata-se de um convite à reflexão sobre as múltiplas e fluídas
+    interações que, a cada tempo e lugar, têm construído um campo de
+    conhecimento e ação indissociável de uma história conjugada e construída no
+    presente., Während des letzten Jahrzehnts haben die Forschungen im Bereich
+    der Architektur und des Urbanismus in Brasilien wesentlich an Sichtbarkeit
+    gewonnen. Diese Tendenz zeigt sich nicht nur anhand der wachsenden Zahl von
+    Studienprogrammen im Bereich der Architektur und des Urbanismus, die vor
+    allem einen historischen Standpunkt vertreten, sondern auch anhand der
+    Verlagsgründungen, die sich auf diese Bereiche spezialisieren, und der
+    Präsenz von Historikern und Kritikern für Architektur und Urbanismus in der
+    breiten Presse. Diese Entwicklung geht einher mit der Organisation von
+    Kongressen und Vorlesungen zum Thema der Stadt- und Städtebaugeschichte und
+    dem Interesse für biographische Studien über Architekten und Städteplaner.
+    Daraus hat sich schließlich ein Netzwerk von heute ungefähr einem Dutzend
+    brasilianischen Wissenschaftlern entwickelt, die in gefüllten Hörsälen oder
+    in internationalen Veranstaltungen, wie Symposien und Workshops, ihre
+    Ergebnisse darlegen. Dieser Artikel behandelt dementsprechend die jüngsten
+    Konturen der Professionalisierung im Bereich der Architektur- und
+    Städtebaugeschichte. Er versucht, die in Brasilien agierenden Akteure und
+    Gruppen aufzuzeigen und ihre unterschiedlichen Beteiligungen und Spannungen
+    zwischen altbewährten und erneuerten theoretischen Standpunkten einzuordnen.
+    Zwischen den Zeilen versteht sich dieser Artikel als eine Einladung, über
+    die zahlreichen verflochtenen Interaktionen nachzudenken, die zu jeder Zeit
+    und an jedem Ort ein Wissens-und Aktionsfeld aufbauen, das untrennbar von
+    einer sich in der Gegenwart konstruierenden Geschichte ist., Nell’ultimo
+    decennio, gli studi di architettura e di urbanismo hanno raggiunto un’ampia
+    visibilità pubblica. Questa tendenza si traduce non solo nel numero
+    crescente di programmi di formazione di architettura e di urbanismo, che
+    offrono una qualifica in storia, ma anche nella creazione di case editrici
+    specializzate in questi campi, e nella presenza di storici e critici
+    dell’architettura e dell’urbanismo nei giornali di ampia diffusione. Essa ha
+    inoltre permesso di organizzare dei congressi e dei corsi cattedratici sulle
+    città e sulla loro storia, ed ha privilegiato gli studi delle carriere
+    professionali di architetti e urbanisti. Infine, essa consente oggi la
+    circolazione di decine di ricercatori brasiliani che affollano le sale di
+    conferenze o presentano i risultati delle loro investigazioni nei circuiti
+    internazionali di convegni e di seminari.Questo articolo tratta dunque dei
+    contorni recenti della professionalizzazione negli ambiti della storia
+    dell’architettura e dell’urbanismo. Esso tenta di recensire le pratiche
+    degli attori e dei gruppi che lavorano nel paese, le loro contribuzioni a
+    differenti livelli e le tensioni tra le orientazioni teoriche conservate o
+    modificate. In filigrana, si tratta di un invito a riflettere sulle
+    interazioni molteplici e fluide che, a ogni epoca ed in ogni luogo, hanno
+    costruito un campo di conoscenza e di azione indissociabile di una storia
+    coniugata e costruita al presente., En los últimos diez años, numerosos
+    estudios en el campo de la arquitectura y el urbanismo se han dado a conocer
+    en Brasil. Una tendencia que se traduce por un aumento creciente de los
+    programas de formación en arquitectura y urbanismo, que proporcionan una
+    cualificación en historia, y también por la creación de editoriales
+    especializadas en dichos ámbitos o la presencia de historiadores y críticos
+    de ambos campos en la prensa de gran difusión. Asimismo ha dado lugar a la
+    organización de congresos y clases magistrales sobre las ciudades y sus
+    historias, privilegiando los estudios de biografías profesionales de
+    arquitectos y urbanistas. Hoy facilita la circulación de decenas de
+    investigadores brasileños que van llenando los auditorios o presentando los
+    resultados de sus investigaciones en los circuitos internacionales de
+    coloquios y seminarios.Este artículo analiza por lo tanto los recientes
+    contornos de profesionalización en el campo de la historia de la
+    arquitectura y el urbanismo, tratando de catalogar las prácticas de los
+    actores y los grupos en actividad en el país, sus contribuciones a distintos
+    niveles y las tensiones entre las orientaciones teóricas mantenidas o
+    desplazadas. También puede verse como una invitación a reflexionar sobre las
+    múltiples y fluidas interacciones que, en cada época y cada lugar, han
+    constituido un campo de conocimiento y acción indisociables de una historia
+    conjugada y elaborada en presente.
+  URL: 'http://journals.openedition.org/perspective/3895'
+  DOI: 10.4000/perspective.3895
+  ISSN: 1777-7852
+  language: fr
+  author:
+    - family: "Silva\_Pereira"
+      given: Margareth
+      non-dropping-particle: da
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+
+- id: 'diener:2013reflexions'
+  type: article-journal
+  title: Réflexions sur la peinture de paysage au Brésil au XIX^e^ siècle
+  container-title: Perspective. Actualité en histoire de l’art
+  page: 365-372
+  issue: '2'
+  source: journals.openedition.org
+  abstract: >-
+    En 1855, Manuel de Araújo Porto-Alegre, alors directeur de l’Academia
+    Imperial de Belas Artes à Rio de Janeiro, rassemblait ses réflexions sur la
+    peinture de paysage au Brésil en vue d’une remise en question de
+    l’enseignement de cette discipline au sein de l’académie. Dans ce texte
+    fondateur pour l’histoire de la critique d’art sur ce genre au Brésil, il
+    procède à un examen attentif de la peinture de paysage telle qu’elle avait
+    été pratiquée au cours des décennies précédentes. Porto-Alegre se...
+  URL: 'http://journals.openedition.org/perspective/3897'
+  DOI: 10.4000/perspective.3897
+  ISSN: 1777-7852
+  language: fr
+  author:
+    - family: Diener
+      given: Pablo
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  accessed:
+    - year: 2018
+      month: 5
+      day: 2
+
+- id: 'diario:1861exposicao'
+  type: article-newspaper
+  title: A exposição no Museo Nacional. II
+  container-title: Diário de Notícias
+  page: '1'
+  edition: 'XLI:246'
+  issued:
+    - year: 1861
+      month: 9
+      day: 9
+  publisher-place: Rio de Janeiro
+
+- id: 'abreu:2001museu'
+  type: chapter
+  title: O Museu Histórico Nacional e a nostalgia de um império idealizado
+  container-title: 'Ciência, civilização e império nos trópicos'
+  publisher: Access
+  page: 247–263
+  source: BnF
+  call-number: 50(81)
+  note: 'OCLC: 49984352'
+  language: Portuguese
+  editor:
+    - family: Heizer
+      given: Alda
+    - family: Videira
+      given: Antonio Augusto Passos
+  author:
+    - family: Abreu
+      given: Regina
+  issued:
+    - year: 2001
+  publisher-place: Rio de Janeiro
+  title-short: A exposição de obras públicas de 1875
+
+- id: 'kury:2001comissao'
+  type: chapter
+  title: >-
+    A Comissão Científica de Exploração (1859–1861). A ciência imperial e a musa
+    cabocla
+  container-title: 'Ciência, civilização e império nos trópicos'
+  publisher: Access
+  page: 29–75
+  source: BnF
+  call-number: 50(81)
+  note: 'OCLC: 49984352'
+  language: Portuguese
+  editor:
+    - family: Heizer
+      given: Alda
+    - family: Videira
+      given: Antonio Augusto Passos
+  author:
+    - family: Kury
+      given: Lorelay
+  issued:
+    - year: 2001
+  publisher-place: Rio de Janeiro
+
+- id: 'turazzi:2001exposicao'
+  type: chapter
+  title: >-
+    A exposição de obras públicas de 1875 e os “produtos da ciência do
+    engenheiro, do geólogo e do naturalista”
+  container-title: 'Ciência, civilização e império nos trópicos'
+  publisher: Access
+  page: 145–163
+  source: BnF
+  call-number: 50(81)
+  note: 'OCLC: 49984352'
+  language: Portuguese
+  editor:
+    - family: Heizer
+      given: Alda
+    - family: Videira
+      given: Antonio Augusto Passos
+  author:
+    - family: Turazzi
+      given: Maria Inez
+  issued:
+    - year: 2001
+  publisher-place: Rio de Janeiro
+  title-short: A exposição de obras públicas de 1875
+
+- id: 'ferreira:2001interpretacao'
+  type: chapter
+  title: Uma interpretação higienista do Brasil Imperial
+  container-title: 'Ciência, civilização e império nos trópicos'
+  publisher: Access
+  page: 207–223
+  source: BnF
+  call-number: 50(81)
+  note: 'OCLC: 49984352'
+  language: Portuguese
+  editor:
+    - family: Heizer
+      given: Alda
+    - family: Videira
+      given: Antonio Augusto Passos
+  author:
+    - family: Ferreira
+      given: Luiz Otávio
+  issued:
+    - year: 2001
+  publisher-place: Rio de Janeiro
+
+- id: 'saliba:2001tempos'
+  type: article-journal
+  title: Nos tempos de Villa Kyrial
+  container-title: Revista USP
+  page: 303-307
+  issue: '50'
+  source: www.revistas.usp.br
+  abstract: nulo
+  URL: 'https://www.revistas.usp.br/revusp/article/view/35699'
+  DOI: 10.11606/issn.2316-9036.v0i50p303-307
+  ISSN: 2316-9036
+  language: pt
+  author:
+    - family: Saliba
+      given: Elias Thomé
+  issued:
+    - year: 2001
+      month: 8
+      day: 30
+  accessed:
+    - year: 2018
+      month: 5
+      day: 7
+
+- id: 'macedo:2005passeio'
+  type: book
+  title: Um passeio pela cidade do Rio de Janeiro
+  publisher: Senado Federal
+  source: Open WorldCat
+  URL: 'http://www2.senado.leg.br/bdsf/handle/id/1100'
+  note: 'OCLC: 62771743'
+  language: Portuguese
+  author:
+    - family: Macedo
+      given: Joaquim Manuel
+      dropping-particle: de
+  issued:
+    - year: 2005
+  accessed:
+    - year: 2018
+      month: 5
+      day: 12
+  publisher-place: Brasília
+
+- id: 'costa:2000alguns'
+  type: article-journal
+  title: >-
+    Alguns aspectos da influência francesa em São Paulo na segunda metade do
+    século XIX
+  container-title: Revista de História
+  page: 277-308
+  issue: 142-143
+  source: www.revistas.usp.br
+  abstract: >-
+    O artigo mostra, com base em uma documentação variada (jornais, almanaques,
+    memórias, relatos de viajantes, etc.), como a cultura francesa tornou-se de
+    tal forma dominante em São Paulo, a partir de meados do século XIX, que
+    passou a modelar os hábitos, o comportamento e a visão de mundo da elite
+    local, suplantando, paradoxalmente, a Inglaterra país do qual éramos
+    econômica e financeira dependentes.
+  URL: 'https://www.revistas.usp.br/revhistoria/article/view/18903'
+  DOI: 10.11606/issn.2316-9141.v0i142-143p277-308
+  ISSN: 2316-9141
+  language: pt
+  author:
+    - family: Costa
+      given: Emília Viotti
+      dropping-particle: da
+  issued:
+    - year: 2000
+      month: 12
+      day: 30
+  accessed:
+    - year: 2018
+      month: 5
+      day: 14
+
+- id: 'denis:1826resume'
+  type: book
+  title: >-
+    Résumé de l'histoire littéraire du Portugal , suivi du résumé de l'histoire
+    littéraire du Brésil, par Ferdinand Denis
+  publisher: Lecointe et Durey
+  number-of-pages: '625'
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  URL: 'http://gallica.bnf.fr/ark:/12148/bpt6k1410551'
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - Z-11956
+  note: in-16.
+  language: fre
+  author:
+    - family: Denis
+      given: Ferdinand
+  issued:
+    - year: 1826
+  accessed:
+    - year: 2018
+      month: 5
+      day: 17
+  publisher-place: Paris
+
+- id: 'taunay:1822bresil'
+  type: book
+  title: >-
+    Le Brésil, ou Histoire, moeurs, usages et coutumes des habitans de ce
+    royaume ; par M. Hippolyte Taunay,... et M. Ferdinand Denis,...
+  publisher: Nepveu
+  number-of-volumes: '6'
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  URL: 'http://gallica.bnf.fr/ark:/12148/bpt6k377553m'
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - SMITH LESOUEF R-4616
+  note: pl. in-32.
+  language: fre
+  author:
+    - family: Taunay
+      given: Hippolyte
+    - family: Denis
+      given: Ferdinand
+  issued:
+    - year: 1822
+  accessed:
+    - year: 2018
+      month: 5
+      day: 17
+  publisher-place: Paris
+
+- id: 'guimaraes:2001empenho'
+  type: chapter
+  title: 'Empenho crítico: Gonzaga Duque na Imprensa'
+  container-title: Impressões de um amador. Textos esparsos de crítica (1882–1909)
+  publisher: 'Editora UFMG : Fundação Casa de Rui Barbosa'
+  author:
+    - family: Guimarães
+      given: Júlio Castañon
+  container-author:
+    - family: Gonzaga Duque
+      given: Luiz
+  issued:
+    - year: 2001
+  publisher-place: 'Belo Horizonte : Rio de Janeiro'
+
+- id: 'lins:2001critico'
+  type: chapter
+  title: O crítico de arte como crítico da cultura
+  container-title: Impressões de um amador. Textos esparsos de crítica (1882–1909)
+  publisher: 'Editora UFMG : Fundação Casa de Rui Barbosa'
+  author:
+    - family: Lins
+      given: Vera
+  container-author:
+    - family: Gonzaga Duque
+      given: Luiz
+  issued:
+    - year: 2001
+  publisher-place: 'Belo Horizonte : Rio de Janeiro'
+
+- id: 'gonzagaduque:2001mestre'
+  type: chapter
+  title: Mestre Valentim
+  container-title: Impressões de um amador. Textos esparsos de crítica (1882–1909)
+  publisher: 'Editora UFMG : Fundação Casa de Rui Barbosa'
+  note: 'Kosmos II (3), mar. 1905'
+  author:
+    - family: Gonzaga Duque
+      given: Luiz
+  issued:
+    - year: 2001
+  publisher-place: 'Belo Horizonte : Rio de Janeiro'
+
+- id: 'gonzagaduque:2001estatuaria'
+  type: chapter
+  title: A estatuária dos jardins públicos
+  container-title: Impressões de um amador. Textos esparsos de crítica (1882–1909)
+  publisher: 'Editora UFMG : Fundação Casa de Rui Barbosa'
+  note: 'Kosmos, IV (12), dez. 1907, ass. G'
+  author:
+    - family: Gonzaga Duque
+      given: Luiz
+  issued:
+    - year: 2001
+  publisher-place: 'Belo Horizonte : Rio de Janeiro'
+
+- id: 'gonzagaduque:2001cantos'
+  type: chapter
+  title: Cantos de arte na cidade
+  container-title: Impressões de um amador. Textos esparsos de crítica (1882–1909)
+  publisher: 'Editora UFMG : Fundação Casa de Rui Barbosa'
+  note: 'Diario do Commercio, 17 jan. 1909'
+  author:
+    - family: Gonzaga Duque
+      given: Luiz
+  issued:
+    - year: 2001
+  publisher-place: 'Belo Horizonte : Rio de Janeiro'
+
+- id: 'guimaraes:2001vicente'
+  type: chapter
+  title: 'Vicente Licínio Cardoso: o exame de consciência do período republicano'
+  container-title: >-
+    Los intelectuales latinoamericanos entre la modernidad y la tradición.
+    Siglos XIX y XX
+  publisher: Iberoamericana
+  page: 77–88
+  author:
+    - family: Guimarães
+      given: Lucia Maria Paschoal
+  editor:
+    - family: Cancino Troncoso
+      given: Hugo
+  issued:
+    - year: 2001
+  publisher-place: Madrid
+
+- id: 'sanglard:2007misericordia'
+  type: chapter
+  title: >-
+    Da misericórdia ao estado: questões de saúde no Brasil na primeira metade do
+    século XIX
+  container-title: >-
+    Paradigmas, culturas y saberes: la transmisión del conocimiento científico a
+    Latinoamérica
+  publisher: Iberoamérica
+  page: 161–185
+  author:
+    - family: Sanglard
+      given: Gisele
+  editor:
+    - family: Prieto
+      given: Natalia
+    - family: Lozano
+      given: Sonia
+  issued:
+    - year: 2007
+  publisher-place: Madrid
+
+- id: 'needell:1987tropical'
+  type: book
+  title: >-
+    A Tropical "belle époque" :  elite culture and society in
+    turn-of-the-century Rio de Janeiro
+  collection-title: Cambridge Latin American studies
+  collection-number: '62'
+  publisher: Cambridge university press
+  number-of-pages: '351'
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  ISBN: 978-0-521-33374-0
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 8-PC-3552 (62)
+  note: ill. 23 cm. Bibliogr. p. 308-326. Index.
+  language: eng
+  author:
+    - family: Needell
+      given: Jeffrey D.
+  issued:
+    - year: 1987
+  publisher-place: Cambridge New York Melbourne
+  title-short: A Tropical "belle époque"
+...
