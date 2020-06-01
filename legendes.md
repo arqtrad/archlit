@@ -1,26 +1,21 @@
 ---
-title: |
-  La critique des styles d'architecture
-  au Brésil
-subtitle:         Un genre littéraire, 1860--1940
+title: >
+  La critique des styles d'architecture au Brésil
+subtitle        : Un genre littéraire, 1860--1940
 author:
-- name:           Pedro Paulo Palazzo
-  affiliaton:     Université de Brasilia
-bibliography:     biblio.yaml
-csl:              styles/iso690-note-fr.csl
-bibliography-title: |
+- name          : Pedro Paulo Palazzo
+  affiliaton    : Université de Brasilia
+bibliography    : bibliography/biblio.bib
+csl             : styles/iso690-note-fr.csl
+bibliography-title: >
   Sources et Bibliographie
-abstract: |
-  
 keywords:
 -                 Romantisme
 -                 Brésil
 -                 Styles (architecture)
 -                 XIX^e^ siècle
-lang:             fr
-dir:              ltr
-date:             2018-04-30
-target:           25k--30k signes
+lang            : fr
+date            : 2018-04-30
 ---
 
 Légendes
