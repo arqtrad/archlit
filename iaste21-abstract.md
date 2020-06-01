@@ -1,10 +1,3 @@
----
-title : >-
-  Literary history as a model for architectural traditionalism in Portugal and Brazil
-author: Pedro Paulo Palazzo
-date  : 
----
-
 The developments in traditionalist architecture in Portugal and Brazil
 since the mid-nineteenth century once derived much of their motivation
 and methodology from literary history and criticism in the Romantic
