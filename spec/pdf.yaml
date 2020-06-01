@@ -1,0 +1,11 @@
+filters:
+- pandoc-citeproc
+fail-if-warnings       : True
+file-scope             : True
+standalone             : True
+from                   : 'markdown'
+table-of-contents      : False
+number-sections        : False
+resource-path:
+- .
+- fig
