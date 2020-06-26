@@ -2,8 +2,6 @@
 
 ![Article](https://github.com/dmcpatrimonio/archlit/workflows/DOCX/badge.svg)
 
-## Abstract accepted for presentation at IASTE 2021
-
 The developments in traditionalist architecture in Portugal and Brazil
 since the mid-nineteenth century once derived much of their motivation
 and methodology from literary history and criticism in the Romantic
