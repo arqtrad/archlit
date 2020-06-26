@@ -1,0 +1,27 @@
+name: DOCX
+
+on: 
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  tdsr-build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: rlespinasse/github-slug-action@2.0.0
+    - name: Debug slug outputs
+      run: |
+        echo "GITHUB_HEAD_REF_SLUG: ${{ env.GITHUB_HEAD_REF_SLUG }}"
+        echo "GITHUB_REPOSITORY_SLUG: ${{ env.GITHUB_REPOSITORY_SLUG }}"
+        echo "GITHUB_ACTOR (default): $GITHUB_ACTOR"
+    - uses: action/checkout@v2
+    - name: Checkout citation styles
+      run: git clone https://github.com/citation-style-language/styles.git
+    - uses: docker://palazzo/pandoc-crossref:2.9.2.1
+      with:
+        args: >
+          -o tdsr-palazzo-30-article.docx
+          -d docx
+             article.md

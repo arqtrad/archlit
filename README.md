@@ -1,5 +1,7 @@
 # Architectural theory as a facet of literary theory in the nineteenth century
 
+![Article](https://github.com/dmcpatrimonio/archlit/workflows/DOCX/badge.svg)
+
 ## Abstract accepted for presentation at IASTE 2021
 
 The developments in traditionalist architecture in Portugal and Brazil
