@@ -24,4 +24,4 @@ jobs:
         args: >
           -o tdsr-palazzo-30-article.docx
           -d docx
-             article.md
+          article.md
