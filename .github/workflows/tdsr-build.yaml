@@ -14,6 +14,7 @@ jobs:
     - name: Debug slug outputs
       run: |
         echo "GITHUB_HEAD_REF_SLUG: ${{ env.GITHUB_HEAD_REF_SLUG }}"
+        echo "GITHUB_REF_SLUG: ${{ env.GITHUB_REF_SLUG }}"
         echo "GITHUB_REPOSITORY_SLUG: ${{ env.GITHUB_REPOSITORY_SLUG }}"
         echo "GITHUB_ACTOR (default): $GITHUB_ACTOR"
     - uses: actions/checkout@v2
