@@ -16,7 +16,7 @@ jobs:
         echo "GITHUB_HEAD_REF_SLUG: ${{ env.GITHUB_HEAD_REF_SLUG }}"
         echo "GITHUB_REPOSITORY_SLUG: ${{ env.GITHUB_REPOSITORY_SLUG }}"
         echo "GITHUB_ACTOR (default): $GITHUB_ACTOR"
-    - uses: action/checkout@v2
+    - uses: actions/checkout@v2
     - name: Checkout citation styles
       run: git clone https://github.com/citation-style-language/styles.git
     - uses: docker://palazzo/pandoc-crossref:2.9.2.1
