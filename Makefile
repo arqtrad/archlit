@@ -22,7 +22,7 @@ _site/%.html : %.md biblio.bib jekyll.yaml
 %.json : %.yaml spec/yaml2json.js
 	docker run --rm -it -v "`pwd`:/usr/src/app" -w /usr/src/app \
 		--user "`id -u`:`id -g`" node:12.18-alpine \
-		yarn && node spec/yaml2json.js
+		yarn && node spec/yaml2json.js $< >> $@
 
 build :
 	docker run --rm -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
