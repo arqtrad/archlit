@@ -1,0 +1,57 @@
+title: Architectural Theory and Literary History
+author:
+  name: Pedro P. Palazzo
+  email: palazzo@unb.br
+description: >
+  Architectural theory as a facet of literary history in the nineteenth century
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%-d %b %Y"
+  # generate social links in footer
+  social_links:
+    twitter: p3palazzo
+    github:  dmcpatrimonio
+
+header_pages:
+  - article.md
+
+# Build settings
+#remote_theme: p3palazzo/minima-scholar
+theme: minima
+permalink: pretty
+timezone: America/Sao_Paulo
+relative_links:
+  enabled         : true
+  collections     : true
+readme_index:
+  enabled         : true
+  remove_originals: true
+  with_frontmatter: true
+kramdown:
+  header_offset   : 1
+  parse_block_html: true
+  parse_span_html : true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+    # The following plugins are always used by GH-Pages
+  - jekyll-coffeescript
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-relative-links
+  # Plugins incompatible with GitHub Pages
+  #- jekyll-scholar
+
+exclude:
+  - LICENSE
+  - Makefile
+  - package.json
+  - spec
+  - yarn.lock
+  - "*.yaml"
