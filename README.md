@@ -1,4 +1,4 @@
-# Architectural theory as a facet of literary history in the nineteenth century
+# The Literary Craft of Architecture: Portuguese-language Theories 1830--1940
 
 ![Article](https://github.com/dmcpatrimonio/archlit/workflows/DOCX/badge.svg)
 
