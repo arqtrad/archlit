@@ -118,67 +118,135 @@ The prescriptive definition of national character in art requires, of
 course, a documented body of knowledge on what national art is to begin
 with. At this point, the two strands of Romanticism tug in opposite
 directions: on one side is the drive for personal originality,
-represented Araújo Porto-Alegre; on the other, nationalist
-traditionalism, represented by his younger contemporary, the poet
-Antonio Gonçalves Dias (1823--1864). The elder master shifts the burden
+represented by Araújo Porto-Alegre; on the other, nationalist
+revivalism, represented by the Portuguese writers, João Baptista da
+Silva Leitão de Almeida Garrett (1799--1854) and Alexandre Herculano
+(1810--1877). The Brazilian master shifts the burden
 of building a Brazilian artistic "School" towards the future and onto
 the Beaux-Arts education provided by the Imperial Academy of Fine Arts
 (AIBA). As its director from 1854 to 1857, he commands a comprehensive
 program reform that puts at its center the Romanticist principle of
 fostering creative originality rather than academic conformity
-[@lima:2016digne, n. 3].
+[@lima:2016digne, n. 3]. Araújo Porto-Alegre's effort will reach its
+culmination under the late-nineteenth-century generation of artists and
+theoreticians, at the forefront of which stands the novelist and art
+critic, Luís Gonzaga Duque Estrada (1863--1911). Due to this focus on
+creative originality as a precondition for an authentic national style,
+Gonzaga Duque will be chiefly interested in the social and cultural
+conditions surrounding the production of art and architecture, rather
+than in architectural forms strictly speaking [@guimaraes:2001empenho,
+23]. Therefore, his anticlerical opinions lead him, in his early history
+of Brazilian art, to dismiss the mannerist style of early Jesuitic
+architecture as "evidently lacking in taste" [@gonzagaduque:1995arte].
+That one of the few opinions on architecture to come out of Araújo
+Porto-Alegre's "spiritual lineage" should be such a curt judgment on the
+subject is evidence of the low value ascribed to primary documentation
+in this critical circle.
 
-Gonçalves Dias, on the other hand, gives greater weight to tradition and
-the study of material culture as sources for contemporary art. He leads
-a "scientific commission of exploration" for the Brazilian Historical
-and Geographic Institute (IHGB) between 1859 and 1861, bound on
-documenting actual examples of popular craft. The commission's work
-focuses on the northeastern provinces of Brazil---the historic crucible
-of Portuguese colonization---and on traditional culture of communities
-descended from either native groups or Portuguese colonists, "far beyond
-the confines of the domain of civilization" [@diario:1861exposicao, 1].
-This work is conducted under the dual mission statement of the IHGB,
-both as the custodian of Brazil's past history and as the collector of
-data for future historians' use [@maleval:2020instituto24, 46]. One
-major Rio newspaper reporting on the exhibit makes it clear that the
-expedition's goal is to foster development arising out of local
-traditions, while lamenting the lack of government support for this
-[@diario:1861exposicao, 1].
+The Portuguese Romanticist writers, on the other hand, place increasing
+emphasis on the documentation of sources not only for historical
+writing, Herculano's lifelong effort, but even for literary creation.
+Almeida Garrett dedicates much of his early work, compiled in the 1843
+*Romanceiro geral,* to reinterpretations of popular poetry
+[@monteiro:2019refiguracoes]. His 1844 poem *Miragaia,* described in the
+foreword as "a true reconstruction of an ancient monument"
+[@almeidagarrett:1844miragaia], is illustrated with compelling etchings
+of Gothic and Islamic architecture by Manuel Bordallo Pinheiro
+(1815--1880), evidencing their interest in a comprehensive historical
+ambiance that ranges from the purported authenticity of the text to its
+pictorial decoration. Another scion of this Romanticist circle, the
+Brazilian-born poet, Antonio Gonçalves Dias (1823--1864) takes this
+interest one step further. After completing his studies in Portugal,
+Gonçalves Dias returns to Brazil thoroughly imbued with the nationalist
+emphasis on documentation promoted by Almeida Garrett and Herculano. In
+1859, Gonçalves Dias is entrusted with the "ethnography and narrative
+section" of the Scientific Commission of Exploration, an expedition to
+the Northeast Brazilian province of Ceará that seeks to document various
+social and natural features of that region. This Commission, established
+under the aegis of the Brazilian Historical and Geographic Institute
+(IHGB), will ultimately expose the conflicts inherent to the framing of
+national identity as something to be both *documented* and *created* in
+a single literary or artistic process.
 
-Despite these encouraging beginnings, the optimistic efforts of Araújo
-Porto-Alegre's and Gonçalves Dias's generation to promote national
-identity by means of distinctive artistic character are all but
-forgotten by the 1860s. The writer Joaquim Manuel de Macedo (1820--1882)
-bemoans in 1862 the derision with which Gonçalves Dias's scientific
-expedition was met in the capital the preceding year, and the
-expedition's ensuing halt due to lack of funding [@aragao:2012passeio,
-27]. Meanwhile, Portugal is emerging from a traumatic political and
-economic reconstruction after the civil war of 1826--1834, and her
-intellectuals are contemplating their country's bleak prospects as a
-waning colonial power. On both shores of the Atlantic, political and
+The crux of the conflict that arises together with ethnographic
+documentation in Portugal and Brazil has to do with the authority
+attributed to sources and methods. The process by which writers have
+traditionally acknowledged authority, based on cross-examination of the
+classics, is challenged by the rising prestige of popular literature,
+championed by Almeida Garrett, as well as by increasing competition
+between historians of literature and natural scientists for the
+legitimacy to describe social and ethnic groups. In this context, it is
+perhaps not surprising Gonçalves Dias should eventually fall out with
+the Expedition's leader, physician and zoologist Manuel Ferreira Lagos
+(1816--1870), who seems to consider the ethnographic section as being
+of lesser importance than zoology, botany, and mineralogy
+[@kury:2001comissao, 39]. Gonçalves Dias's insistence on fulfilling the
+Commission's original goal of studying all of Brazil's northerly
+provinces, even as when the other sections' work is called off after
+documenting a single province, further exposes these conflicts. He
+collects products from communities descended both from native groups and
+from Portuguese colonists, "far beyond the confines of ...
+civilization," as one major Rio newspaper reports [@exposicao:1861-246,
+1], and scours the Amazon region looking for non acculturated native
+communities. This is at odds, however, with what is seen by his
+contemporaries as the Commission's "great merit, which is to evidence
+the existence of the necessary elements for the creation of industry,"
+implying a focus on craft traditions that are already somewhat close to
+modern Brazilian society [@exposicao:1861-246, 1].
+
+Meanwhile, Portugal is emerging from a traumatic political and economic
+restructuring after the civil war of 1828--1832, and her intellectuals
+are contemplating their country's uninspiring prospects as a waning
+colonial power. On both shores of the Atlantic, political and
 infrastructural modernization becomes a concern far more pressing than
 the affirmation of national identity. Nevertheless, modernization
 itself, along with the political crisis of the late nineteenth century,
-are to become a catalyst for a renewed interest in national
+is to become a catalyst for a renewed interest in national
 identity---this time around, in the form of longing for the lost roots
 of cultural identity.
 
 Crisis of Cultural Nation-building
 ==================================
 
-The unstable political and cultural climate of the liberal monarchies
-wears on through the second half of the nineteenth century. In both
+Up until the 1860s, therefore, the actual form of the built environment
+has been of little consequence to the literary debates around national
+character. As the unstable political and cultural climate of the liberal
+monarchies in both Portugal and Brazil wears on through the second half
+of the nineteenth century, however, the tension rises between the
+endeavors of, on the one hand, *documenting* national culture as
+traditionally attested in popular art and, on the other hand, *creating*
+works of high art that are able to express this national culture while
+following modern taste and productive conditions. In both
 Portugal and Brazil, already in the 1860s, literary and artistic elites
 grow insecure about the path of nation-building through which the
-Romantic generation confidently forged ahead. The forward-looking
+Romanticist generation confidently forged ahead. The forward-looking
 "history" of Portuguese-language literature, prevalent from the 1830s to
 50s, thus gives way to a comprehensive search *backwards* for the roots
 of Portuguese ethnicity as well as for markers of originality in
-Brazilian culture. Architects will play a more cautious and derivative
+Brazilian culture. Architects will play a cautious
 role in this process, at some times even stepping back altogether from
 the issue of national character, at other times expressing a derivative,
 aesthetic aspect of debates played out away from their disciplinary
 field.
+
+It is up to another of Brazil's major novelists, Joaquim
+Manuel de Macedo (1820--1882), to nudge the literary discussion of
+architecture 
+
+The reasons Lagos has for picking Ceará as the first and, due to lack of
+funding, only published subject of the IHGB expedition are not clear,
+but it is probably no coincidence. Ceará is located in the historic
+crucible of Portuguese expansion, claiming some of the early hinterland
+cities of the colonial period. It is also a major center of high culture
+in the mid nineteenth century, with such illustrious contemporaries of
+the expedition as writer José de Alencar (1829--1877), in addition to
+several IHGB members at the time.
+
+products collected by the ethnography section eventually make it to the
+Brazilian gallery at the
+1862 International Exhibition in London.
+
+* * * *
 
 Traditionalist Methods and Ethnographic Tools
 =============================================
@@ -202,3 +270,4 @@ Notes and References
 
 [^1]: This shortcoming was, to my knowledge, first pointed out by Macedo
 at a very recent date. [@macedo:2017biblioteca]
+
