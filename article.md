@@ -219,10 +219,23 @@ the affirmation of national identity. Nevertheless, modernization
 itself, along with the political crisis of the late nineteenth century,
 is to become a catalyst for a renewed interest in national
 identity---this time around, in the form of longing for the lost roots
-of cultural identity.
+of cultural identity. The historian of Portuguese anthropology, João
+Leal, suggests this interest is due to Portugal's increasingly
+peripheral status among European powers, pushing nationalist thinkers to
+contend with "a 'classic national problem' ...  that not only favored
+the study of local folk traditions, but also conducted that study as
+part of a search for Portuguese national identity."
+[@leal:1999history26, 10--11]. This "anthropology of nation-building"
+[@stocking:1982afterword47, 172] is therefore akin to that of a newly
+independent country, such as Brazil's own. Now, this operation of
+anthropological nation-building requires as much the making of a
+conceptual scaffold as it needs the primary research to fill it with
+content. Therefore, both in Portugal and in Brazil, initial efforts at
+documentation are somewhat superficial if compared to the crafting of
+basic narrative structures for this documentation to tie into.
 
-Up until the 1860s, therefore, the actual form of the built environment
-has been of little consequence to the literary debates around national
+Up until the 1860s, then, the actual form of the built environment has
+been of little consequence to the literary debates around national
 character. As the unstable political and cultural climate of the liberal
 monarchies in both Portugal and Brazil wears on through the second half
 of the nineteenth century, however, the tension rises between the
@@ -286,27 +299,87 @@ Moreira de Azevedo's note begins with a passionate patriotic digression:
 
 These opening lines set the tone to which the remainder of the biography
 is to be read. Valentim is presented not as the individual and inspiring
-artist of the Vasarian formula, nor as a Romantic inimitable genius, but
-rather as a special case of the "type" of patriotic artist who
+artist of the Vasarian formula, nor as a Romantic, inimitable genius,
+but rather as a special case of the "type" of patriotic artist who
 prefigures political independence through artistic "nationalization."
 His personal achievements are therefore recorded not so much for their
 own sake as to illustrate the general spirit of Brazilian art. Even the
 statement on colonial domination is less of a specific attack on
 Portugal than a standard rhetorical device intended to contrast the
-initial naked ground with the later sprouting of national character. For
-all these moves towards the portrayal of the individual architect as a
-hypostasis of the national character, though, the biographical genre
-still clings to this anecdotal medium to convey a general message.
+initial naked ground with the later sprouting of national spirit.
 
-Traditionalist Methods and Ethnographic Tools
-=============================================
+For all these moves towards the portrayal of the individual architect as
+a hypostasis of national character, though, the biographical genre in
+the late 1860s still clings to its anecdotal medium in order to convey a
+general message. Starting in the 1870s, this genre will split into two
+different research techniques: strict philological and historiographic
+research on individual people and sources, on the one hand, and on the
+other ethnographic documentation and interpretation of popular
+traditions.
+
+Traditionalist Aims and Ethnographic Methods
+============================================
+
+Even as the artist biography is being developed into a medium for
+architectural writers to explore the relationship between particular and
+national characters, the documentation of actual, historical styles of
+architecture in Portugal becomes a legitimate endeavor both as a support
+for revivalist design and as one among many sources of ethnographic
+research. The former goal is spurred by the German-born Prince consort
+(later King) of Portugal, Ferdinand II's lifelong passion, the
+remodeling of the sixteenth-century *mudéjar*-style Pena monastery in
+Sintra into a Summer palace (1838--1885) [@anacleto:1997arquitectura,
+vol. 1, p. 93]. It results in a belated and somewhat derivative Medieval
+revival that spreads through Portugal and Brazil. At first, the capacity
+and demand for revivalist buildings both in Medieval and Classical
+styles is concentrated among foreign designers, such as the Austrian
+baron and industrialist Wilhelm von Eschwege (1777--1855)---who traveled
+extensively through Brazil and Portugal before drawing up the plans for
+the Pena palace---, and foreign patrons, such as the British-dominated
+Oporto Commercial Association (incorporated 1834). By the 1860s,
+however, a growing domestic demand for neo-Medieval and Neo-Islamic
+buildings, as well as for the restoration of existing monuments
+[@anacleto:1997arquitectura, vol. 1, p. 208], drives the operative need
+for the systematic study of historic Portuguese architecture.
+
+The Beaux-Arts architectural method, which by the second half of the
+nineteenth century is well established in the Portuguese-speaking world,
+provides a practical foundation for documenting historic buildings, if
+one accessible only to a small elite of formally educated architects.
+Nevertheless, this practical method does not provide guidance for
+selecting, interpreting, evaluating, and transfiguring the meanings of,
+a body of national heritage that is yet to be grasped in a comprehensive
+way at the time. Conversely, the intent of nineteenth-century literary
+studies, that of constructing an overarching ethnographic narrative of
+national identity cutting across all forms of literary and material
+culture, requires, among other specialties, an understanding of
+architectural principles. These complementary features of architecture
+and ethnography bring the two disciplines once again closer together
+over the last quarter of the century under the umbrella of
+anthropological nation-building.
+
+Around 1870, literary and philological studies stand at the
+methodological fulcrum of ethnography in the Portuguese-speaking world.
+Two books published that same year set the tone for debates that will
+remain active until the early twentieth century. Theophilo Braga's
+*History of Portuguese Literature: an Introduction,* a book so
+influential it will be revised and reedited several times in the
+following decades [@braga:1870historia], is also among the most
+controversial works on ethnological theories and methods. Augusto Filipe
+Simões's *Relics of Romano-Byzantine Architecture in Portugal* marks the
+beginning of a rush to document, interpret, and appropriate Romanesque
+ornament harking back to the very origins of the Portuguese state.
+Although these two books have quite different aims and methodological
+principles, both signal the dominant trends in architectural discourse
+for the remainder of the nineteenth century and, where traditionalist
+movements are concerned, well into the twentieth.
 
 * * * *
 
 Oftentimes, rather than emulating the basic methods of data collection
 performed by ethnographers and literary historians, architectural
 theories will build upon the higher-order interpretations and even upon
-the general conclusions laid out in that scholarship.
+the general conclusions laid out in this scholarship.
 
 Historiography and Authoritarianism
 ===================================
@@ -318,7 +391,6 @@ Notes and References
 ====================
 
 <!-- Figure out how to insert figures after endnotes -->
-
 
 [^1]: This shortcoming was, to my knowledge, first pointed out by Macedo
 at a very recent date. [@macedo:2017biblioteca]
