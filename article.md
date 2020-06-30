@@ -126,8 +126,21 @@ of building a Brazilian artistic "School" towards the future and onto
 the Beaux-Arts education provided by the Imperial Academy of Fine Arts
 (AIBA). As its director from 1854 to 1857, he commands a comprehensive
 program reform that puts at its center the Romanticist principle of
-fostering creative originality rather than academic conformity
-[@lima:2016digne, n. 3]. Araújo Porto-Alegre's effort will reach its
+fostering creative originality rather than academic conformity to a
+traditional body of knowledge [@lima:2016digne, n. 3]. In his articles
+for the journal of the Brazilian Historic and Geographic Institute
+(IHGB), Araújo Porto-Alegre therefore follows the Vasarian biographic
+scheme, describing the artistic developments in the Brazilian capital as
+the accumulated contributions of each individual artist's genius
+[@araujoportoalegre:1841memoriaIII]. As late as 1855, he carries on the
+prospective ideal of art history as spiritual inspiration rather than a
+documental trove constituting a source of aesthetic authority:
+
+> My attempt targeted a national thought, namely that of using these
+> examples to make other [ideas] of higher value bear fruit in the young
+> minds ... [@araujoportoalegre:1855iconographiaXIX, 349]
+
+Araújo Porto-Alegre's effort will reach its
 culmination under the late-nineteenth-century generation of artists and
 theoreticians, at the forefront of which stands the novelist and art
 critic, Luís Gonzaga Duque Estrada (1863--1911). Due to this focus on
@@ -163,10 +176,13 @@ emphasis on documentation promoted by Almeida Garrett and Herculano. In
 section" of the Scientific Commission of Exploration, an expedition to
 the Northeast Brazilian province of Ceará that seeks to document various
 social and natural features of that region. This Commission, established
-under the aegis of the Brazilian Historical and Geographic Institute
-(IHGB), will ultimately expose the conflicts inherent to the framing of
+under the aegis of the 
+IHGB, will ultimately expose the conflicts inherent to the framing of
 national identity as something to be both *documented* and *created* in
 a single literary or artistic process.
+
+Cultural Nation-building in Crisis
+==================================
 
 The crux of the conflict that arises together with ethnographic
 documentation in Portugal and Brazil has to do with the authority
@@ -205,9 +221,6 @@ is to become a catalyst for a renewed interest in national
 identity---this time around, in the form of longing for the lost roots
 of cultural identity.
 
-Crisis of Cultural Nation-building
-==================================
-
 Up until the 1860s, therefore, the actual form of the built environment
 has been of little consequence to the literary debates around national
 character. As the unstable political and cultural climate of the liberal
@@ -215,41 +228,80 @@ monarchies in both Portugal and Brazil wears on through the second half
 of the nineteenth century, however, the tension rises between the
 endeavors of, on the one hand, *documenting* national culture as
 traditionally attested in popular art and, on the other hand, *creating*
-works of high art that are able to express this national culture while
-following modern taste and productive conditions. In both
-Portugal and Brazil, already in the 1860s, literary and artistic elites
-grow insecure about the path of nation-building through which the
+works of high art that are able to express this culture while, at the
+same time, being endowed with the originality of creative genius. In
+both Portugal and Brazil, already in the 1860s, literary and artistic
+elites grow insecure about the path of nation-building through which the
 Romanticist generation confidently forged ahead. The forward-looking
-"history" of Portuguese-language literature, prevalent from the 1830s to
+"history" of Portuguese-language nations, prevalent from the 1830s to
 50s, thus gives way to a comprehensive search *backwards* for the roots
 of Portuguese ethnicity as well as for markers of originality in
-Brazilian culture. Architects will play a cautious
-role in this process, at some times even stepping back altogether from
-the issue of national character, at other times expressing a derivative,
+Brazilian culture. Architects will play a cautious, yet more active role
+in this process, at some times even stepping back altogether from the
+issue of national character, at other times expressing a derivative,
 aesthetic aspect of debates played out away from their disciplinary
 field.
 
-It is up to another of Brazil's major novelists, Joaquim
-Manuel de Macedo (1820--1882), to nudge the literary discussion of
-architecture 
+The conflict between the two contradictory Romanticist
+strands---originality and traditional, popular authority---is resolved,
+at first, into a renewed interest in artists' biographies. Though quite
+similar in form to the Vasarian lives, these biographies, especially
+around the 1860s, are produced in a literary environment that values the
+artist's connections to the social conditions of his craft. Rodrigo José
+Ferreira Brettas (1815--1866), a public official and politician in the
+Brazilian hinterland province of Minas Gerais, writes in 1858 a
+biography of the local rococo architect, Antonio Francisco Lisboa (ca.
+1738--1814), known as "Aleijadinho," that is quite conservative in its
+rhetorical devices [@bretas:1951antonio]. It relies heavily on the
+well-established, by then, Romanticist trope of the tormented prodigy
+whose single-minded obsession with art leads him to experience financial
+hardship and even physical decay [@grammont:2008aleijadinho]; this is
+interspersed with a good measure of classical references to Zeuxis and
+Praxiteles. What is novel in Brettas's work is his repeated highlighting
+of the fact that the protagonist of such a semi-mythical story should be
+an obscurely trained craftsman, black and thus of low social standing in
+hinterland society, rather than a socially respectable and well traveled
+(for education) artist from Rio or Bahia, as were Araújo Porto-Alegre's
+favored characters.[^2]
 
-The reasons Lagos has for picking Ceará as the first and, due to lack of
-funding, only published subject of the IHGB expedition are not clear,
-but it is probably no coincidence. Ceará is located in the historic
-crucible of Portuguese expansion, claiming some of the early hinterland
-cities of the colonial period. It is also a major center of high culture
-in the mid nineteenth century, with such illustrious contemporaries of
-the expedition as writer José de Alencar (1829--1877), in addition to
-several IHGB members at the time.
+Likewise, the 1869 biographical notice on the neoclassical architect
+from Rio, Valentim da Fonseca e Silva (1744--1813) by Manuel Duarte
+Moreira de Azevedo (1832--1903) draws heavily on Araújo Porto-Alegre's
+earlier account of the same artist [@moreiraazevedo:1869valentimXXXII;
+@araujoportoalegre:1956iconographiaXIX], yet introduces a few
+significant details. These have to do, chiefly, with the subject's
+character and material hardship; when confronted with Brettas's
+biography of the Aleijadinho, these passages seem oddly formulaic.
+Missing from Moreira de Azevedo's narrative are Araújo Porto-Alegre's
+specific commentaries on Valentim's mastery of sculptural modeling and
+on the exemplary nature of his work for modern students. Instead,
+Moreira de Azevedo's note begins with a passionate patriotic digression:
 
-products collected by the ethnography section eventually make it to the
-Brazilian gallery at the
-1862 International Exhibition in London.
+> In colonial times, when Brazil was not yet a nation, neither having an
+> existence of her own, nor enjoying liberty or fundamental rights,
+> there appeared some remarkable artists, who were their own masters,
+> enlightening and ennobling the homeland, and who began to nationalize
+> art, endowing their works with a type, a character, a local and
+> particular tone. [@moreiraazevedo:1869valentimXXXII, 235]
 
-* * * *
+These opening lines set the tone to which the remainder of the biography
+is to be read. Valentim is presented not as the individual and inspiring
+artist of the Vasarian formula, nor as a Romantic inimitable genius, but
+rather as a special case of the "type" of patriotic artist who
+prefigures political independence through artistic "nationalization."
+His personal achievements are therefore recorded not so much for their
+own sake as to illustrate the general spirit of Brazilian art. Even the
+statement on colonial domination is less of a specific attack on
+Portugal than a standard rhetorical device intended to contrast the
+initial naked ground with the later sprouting of national character. For
+all these moves towards the portrayal of the individual architect as a
+hypostasis of the national character, though, the biographical genre
+still clings to this anecdotal medium to convey a general message.
 
 Traditionalist Methods and Ethnographic Tools
 =============================================
+
+* * * *
 
 Oftentimes, rather than emulating the basic methods of data collection
 performed by ethnographers and literary historians, architectural
@@ -271,3 +323,8 @@ Notes and References
 [^1]: This shortcoming was, to my knowledge, first pointed out by Macedo
 at a very recent date. [@macedo:2017biblioteca]
 
+[^2]: Some of the artists that figure prominently in Araújo
+Porto-Alegre's accounts, such as Valentim da Fonseca e Silva, were also
+black, but established regular professional and social reputations for
+themselves that afforded them the luxury of not being primarily defined
+by race.
