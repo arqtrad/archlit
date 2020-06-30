@@ -81,14 +81,14 @@ century, something for the "learned enjoyment" of well-to-do men (seldom
 women) of letters. Such is the target audience for João Pacheco's 1734
 compendium of cultural and scientific trivia
 [@pacheco:1734divertimento], a staple of aristocratic libraries for a
-long time thereafter [@macedo:2017biblioteca]. As late as 1823, the
-Portuguese court architect, Cyrillo Volkmar Machado (1748--1823)
-recommends the study of his Vasarian biographies of artists to "polite"
-and "learned" men, that is, to the well-born dilettante
-[@machado:1922colleccao, 1]. Conversely, many professional architects
-shy away from these elevated circles, or else establish a fitting ethos
-in their writing by styling themselves poets, journalists, or
-scientists, rather than men of the trade. Such is the case of the
+long time thereafter [@macedo:2017biblioteca]. As late as 1823, a
+posthumous work by the Portuguese court architect, Cyrillo Volkmar
+Machado (1748--1823) recommends the study of his Vasarian biographies of
+artists to "polite" and "learned" men, that is, to the well-born
+dilettante [@machado:1922colleccao, 1]. Conversely, many professional
+architects shy away from these elevated circles, or else establish a
+fitting ethos in their writing by styling themselves poets, journalists,
+or scientists, rather than men of the trade. Such is the case of the
 Portuguese architect, archaeologist, and academician, Joaquim Possidónio
 Narciso da Silva (1806--1896), as well as of the Brazilian artist, poet,
 and diplomat, Manuel de Araújo Porto-Alegre (1806--1879), both of whom
@@ -121,20 +121,22 @@ directions: on one side is the drive for personal originality,
 represented by Araújo Porto-Alegre; on the other, nationalist
 revivalism, represented by the Portuguese writers, João Baptista da
 Silva Leitão de Almeida Garrett (1799--1854) and Alexandre Herculano
-(1810--1877). The Brazilian master shifts the burden
-of building a Brazilian artistic "School" towards the future and onto
-the Beaux-Arts education provided by the Imperial Academy of Fine Arts
-(AIBA). As its director from 1854 to 1857, he commands a comprehensive
-program reform that puts at its center the Romanticist principle of
-fostering creative originality rather than academic conformity to a
-traditional body of knowledge [@lima:2016digne, n. 3]. In his articles
-for the journal of the Brazilian Historic and Geographic Institute
-(IHGB), Araújo Porto-Alegre therefore follows the Vasarian biographic
-scheme, describing the artistic developments in the Brazilian capital as
-the accumulated contributions of each individual artist's genius
-[@araujoportoalegre:1841memoriaIII]. As late as 1855, he carries on the
-prospective ideal of art history as spiritual inspiration rather than a
-documental trove constituting a source of aesthetic authority:
+(1810--1877) [@botelho:2010historiografia, 121]. The Brazilian master
+shifts the burden of building a Brazilian artistic "School" towards the
+future and onto the Beaux-Arts education provided by the Imperial
+Academy of Fine Arts (AIBA). As its director from 1854 to 1857, he
+commands a comprehensive program reform that puts at its center the
+Romanticist principle of fostering creative originality rather than
+academic conformity to a traditional body of knowledge [@lima:2016digne,
+n. 3]. In his articles for the journal of the Brazilian Historic and
+Geographic Institute (IHGB), Araújo Porto-Alegre therefore follows the
+Vasarian biographic scheme also prevalent in Portugal
+[@rosmaninho:1993historiografia, 3], describing the artistic
+developments in the Brazilian capital as the accumulated contributions
+of each individual artist's genius [@araujoportoalegre:1841memoriaIII].
+As late as 1855, he carries on the prospective ideal of art history as
+spiritual and technical inspiration rather than a documental trove
+constituting a source of aesthetic authority:
 
 > My attempt targeted a national thought, namely that of using these
 > examples to make other [ideas] of higher value bear fruit in the young
@@ -336,27 +338,27 @@ styles is concentrated among foreign designers, such as the Austrian
 baron and industrialist Wilhelm von Eschwege (1777--1855)---who traveled
 extensively through Brazil and Portugal before drawing up the plans for
 the Pena palace---, and foreign patrons, such as the British-dominated
-Oporto Commercial Association (incorporated 1834). By the 1860s,
+Oporto Commercial Association (incorporated 1834).[^3] By the 1860s,
 however, a growing domestic demand for neo-Medieval and Neo-Islamic
 buildings, as well as for the restoration of existing monuments
 [@anacleto:1997arquitectura, vol. 1, p. 208], drives the operative need
 for the systematic study of historic Portuguese architecture.
 
 The Beaux-Arts architectural method, which by the second half of the
-nineteenth century is well established in the Portuguese-speaking world,
-provides a practical foundation for documenting historic buildings, if
-one accessible only to a small elite of formally educated architects.
-Nevertheless, this practical method does not provide guidance for
-selecting, interpreting, evaluating, and transfiguring the meanings of,
-a body of national heritage that is yet to be grasped in a comprehensive
-way at the time. Conversely, the intent of nineteenth-century literary
-studies, that of constructing an overarching ethnographic narrative of
-national identity cutting across all forms of literary and material
-culture, requires, among other specialties, an understanding of
-architectural principles. These complementary features of architecture
-and ethnography bring the two disciplines once again closer together
-over the last quarter of the century under the umbrella of
-anthropological nation-building.
+nineteenth century is well established in the Portuguese-speaking world
+[@franca:1967arte2], provides a practical foundation for documenting
+historic buildings, if one accessible only to a small elite of formally
+educated architects. Nevertheless, this practical method does not afford
+guidance for selecting, interpreting, evaluating, and transfiguring the
+meanings of, a body of national heritage that has yet to be grasped in a
+systematic way at the time [@rosmaninho:1993historiografia]. Conversely,
+the intent of nineteenth-century literary studies, that of constructing
+an overarching ethnographic narrative of national identity cutting
+across all forms of literary and material culture, requires, among other
+specialties, an understanding of architectural principles. These
+complementary features of architecture and ethnography bring the two
+disciplines once again closer together over the last quarter of the
+century under the umbrella of anthropological nation-building.
 
 Around 1870, literary and philological studies stand at the
 methodological fulcrum of ethnography in the Portuguese-speaking world.
@@ -365,14 +367,55 @@ remain active until the early twentieth century. Theophilo Braga's
 *History of Portuguese Literature: an Introduction,* a book so
 influential it will be revised and reedited several times in the
 following decades [@braga:1870historia], is also among the most
-controversial works on ethnological theories and methods. Augusto Filipe
-Simões's *Relics of Romano-Byzantine Architecture in Portugal* marks the
-beginning of a rush to document, interpret, and appropriate Romanesque
-ornament harking back to the very origins of the Portuguese state.
-Although these two books have quite different aims and methodological
-principles, both signal the dominant trends in architectural discourse
-for the remainder of the nineteenth century and, where traditionalist
-movements are concerned, well into the twentieth.
+controversial works on ethnological theories and methods. Braga
+(1843--1924) is concerned, chiefly, with establishing a positivist
+methodological basis for relating Portuguese-language literature to the
+ethnic makeup and historical evolution of the Portuguese people
+[@leal:2000etnografias, 30]. Augusto Filipe Simões's *Relics of
+Romano-Byzantine Architecture in Portugal* [@simoes:1870reliquias]
+provides a solid archaeological footing to the contemporary rush to
+document, interpret, and appropriate Romanesque ornament harking back to
+the very origins of the Portuguese state. Simões (1835--1884) produces,
+at its core, an account of documentation surveys, though one that does
+not shy away from general interpretations. Although these two books have
+quite different aims and methodological principles, both signal the
+dominant trends in architectural discourse for the remainder of the
+nineteenth century and, as far as traditionalist movements are
+concerned, well into the twentieth.
+
+The common point between Braga's broad ethnic brush and 
+
+> Deitando sobre a cultura popular portuguesa um olhar científico,
+> Teófilo Braga fá-lo frequentemente em obediência a um projecto em que
+> aquela [perspectiva romântica] se continua a configurar como um
+> terreno a partir do qual é possível pensar a identidade nacional.
+>
+> É de facto nessa perspectiva que pode ser entendido o modo como nele é
+> recorrente o peso da etnogenia, isto é, de uma perspectiva
+> valorizadora da descoberta e identificação das origens étnicas dos
+> factos da cultura popular portuguesa. O que parece estar no fundo em
+> causa é a possibilidade de dotar Portugal de uma espessura histórica,
+> capaz de enraizar a sua identidade num passado provido dos argumentos
+> da profundidade e da originalidade. [@leal:2006contos, 58]
+
+> Esta dominância da etnogenia cristaliza-se de forma particularmente
+> exuberante na sua reflexão sobre a poesia popular posterior a 1871,
+> data em que são editadas as *Epopeias da Raça Moçárabe* (Braga, 1871).
+> [...] Conhecem-se os resultados contraditórios dessa reflexão: da tese
+> moçárabe, Teófilo Braga evoluirá depois para a tese ligúrica (Braga,
+> 1902). Mas não é tanto sobre esses resultados que convém insistir,
+> como sobre o que eles traduzem: um esforço ímpar de descoberta da
+> etnogenia de um núcleo preciso da tradição popular portuguesa.
+> [@leal:2006contos, 59]
+
+> Como por várias vezes e em tons variados é indicado no próprio texto
+> [dos *Contos*], trata-se de avaliar a literatura erudita portuguesa à
+> luz da sua maior ou menos [sic] fidelidade ao elemento tradicional.
+> Seria essa fidelidade a pedra de toque para decidir dos momentos e
+> autores mais importantes na história literária portuguesa. Seria
+> também à luz dessa fidelidade que se poderia encarar uma regeneração
+> da literatura contemporânea, num sentido que é o do reforço nela do
+> elemento tradicional e nacional. [@leal:2006contos, 60]
 
 * * * *
 
@@ -400,3 +443,7 @@ Porto-Alegre's accounts, such as Valentim da Fonseca e Silva, were also
 black, but established regular professional and social reputations for
 themselves that afforded them the luxury of not being primarily defined
 by race.
+
+[^3]: Botelho concedes, nevertheless, that Volkmar Machado was already
+aware of the burgeoning European debate on Gothic architecture by the
+late eighteenth century. See [@botelho:2010historiografia, 117].
