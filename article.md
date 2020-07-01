@@ -3,6 +3,10 @@ title: "Literary History as a Model for Architectural Traditionalism in Portugal
 # First submission for blind peer review
 # author: "Pedro P. Palazzo"
 # institute: "University of Brasilia School of Architecture"
+# thanks: >
+#   This research was made possible in part thanks to my affiliation to
+#   the University of Coimbra Centre for Social Studies as a visiting
+#   scholar during the year 2019--2020.
 lang: en-US
 csl: "styles/chicago-fullnote-bibliography-with-ibid.csl"
 bibliography: 'bibliography/biblio.bib'
@@ -24,24 +28,34 @@ as a Portuguese-language architectural press emerges during the Belle
 two nations virtually invisible to a historiography still mostly
 concerned with the study of strictly disciplinary texts[^1].
 
-* * * *
+Beginning in the age of liberal monarchies in both countries, around the
+mid-1830s, Romanticist writers are involved with the theoretical
+formulation of a concept of national identity to which aesthetic
+experience is central. This concept increasingly encompasses the various
+artistic disciplines and, more importantly, that gives an ever greater
+role and prestige to popular forms of expression. Novel ways of
+theorizing architecture come about from this process, which evidences
+specific ways of conceiving geographic and professional hierarchies.
 
+As ethnographic aims and methods begin to invest the domain of literary
+nation-building, in the 1860s and 70s, the Romanticist landscape of
+architectural theory gives way to an uneasy coexistence of popular
+traditions and learned interpretations.
 The resulting traditionalist discourses have been based on a stark
 differentiation between popular and high culture, privileging rural
 housing types after the example of ethnographers, who sought the roots
 of national literature in the folk poetry in remote communities. The
 virtual unity of the Portuguese language prompts architectural
-theorists well into the twentieth century to seek likewise a single
+theorists into the twentieth century to seek likewise a single
 stem-type from which to extract either the forms or the spirit of a new
 tradition.
 
 Whereas the notion of a unitary architectural stem has been long
 discredited, it leaves behind an imaginary landscape of regional
-traditions. A cartography of this landscape can not only locate the
-source material leveraged from a variety of vernacular types and
-hybrids, but also trace them to the resulting reconstructions, from
-explicitly “traditionalist” designs to modernist variations on the
-vernacular "spirit."
+traditions and singular landmarks. A cartography of this landscape can
+trace some of the source material collected during the
+nineteenth-century nation-building efforts, and in this way shed light
+onto the theoretical constructs that shaped this collection.
 By envisioning this virtual cartography, I seek to show how architects
 and architectural critics in Portugal and Brazil appropriate the goals
 and perspectives of literary historians even before the rise of
@@ -51,7 +65,20 @@ evidence not of the "failure" of a retrospectively construed concept of
 authenticity, but a way to make sense of a new apparatus of
 architectural criticism.
 
-<!-- Article plan -->
+The cartography of nineteenth-century architectural theory derived from
+literary history and criticism is divided into four sections arranged in
+roughly chronological order, with significant overlap among them. The
+first maps the rise of architectural theory as a literary genre, within
+the ranks of Romanticist writers and a few artists in their midst. The
+second section explores the conflicts that appear within Romanticist
+nation-building and how the methodological responses to these conflicts
+shape an evolving understanding of architecture. In the third section,
+the formation of an imaginary landscape of traditional architecture is
+observed through the consolidation of ethnographic methodologies in
+literary history. Finally, the turn of the century marks the decisive
+irruption of architecture professionals into the theoretical discourse,
+exposing the difficulties of turning this imaginary landscape into a
+repository for design.
 
 Architectural Theory as Literary Genre
 ======================================
@@ -169,7 +196,9 @@ foreword as "a true reconstruction of an ancient monument"
 of Gothic and Islamic architecture by Manuel Bordallo Pinheiro
 (1815--1880), evidencing their interest in a comprehensive historical
 ambiance that ranges from the purported authenticity of the text to its
-pictorial decoration. Another scion of this Romanticist circle, the
+pictorial decoration.
+
+Another scion of this Romanticist circle, the
 Brazilian-born poet, Antonio Gonçalves Dias (1823--1864) takes this
 interest one step further. After completing his studies in Portugal,
 Gonçalves Dias returns to Brazil thoroughly imbued with the nationalist
@@ -331,7 +360,9 @@ Brazilian military engineer and IHGB historian, Francisco
 Adolfo de Varnhagen (1816--1878) [@varnhagen:1842noticia]. This and a
 number of other factors, including King consort Ferdinand II's artistic
 patronage, entail a belated and somewhat derivative Medieval revival
-that spreads through Portugal and Brazil. At first, the capacity and
+that spreads through Portugal and Brazil.
+
+At first, the capacity and
 demand for revivalist buildings both in Medieval and Classical styles is
 concentrated among foreign designers, such as the Austrian baron and
 industrialist Wilhelm von Eschwege (1777--1855)---who traveled
@@ -464,7 +495,9 @@ Such generalizations never go as far as Braga's, however, and in
 Simões's book one is left mainly with some archaeological support for
 the northern origins of Portuguese culture---even if those origins are
 due simply to the circumstances of state formation in the Iberian
-peninsula not some transcendental ethnic scheme. Despite its analytical
+peninsula not some transcendental ethnic scheme.
+
+Despite its analytical
 merits, his work is better understood as part of a general development
 of philological and archaeological art history, even better represented
 by the work of Joaquim de Vasconcellos, which culminates in an ambitious
@@ -574,9 +607,11 @@ housing" in Trás-os-Montes, the far northwestern region of Portugal
 *Arte Portugeza*, written by Pereira with drawings by Casanova
 [@rodrigues:2016origens, 34] expands this comment into a description of
 the main characteristics of such a "Portuguese house," which he holds is
-prevalent also further south, in the Beira Alta region. Foremost, it is
+prevalent also further south, in the Beira Alta region.
+
+It is essentially
 a rural building type with only a few urban derivatives. Two drawings
-with this article and another five with the follow-up [@casa:1895I6]
+with this article and another five with its follow-up [@casa:1895I6]
 accurately illustrate the written descriptions. In keeping with the
 prevailing geographical determinism that underpins regionalist politics
 and, to some degree, even the literary history of the time, it is argued
@@ -659,26 +694,29 @@ immediately familiar to Severo's audience has the secondary effect of
 exposing the rising conflicts in the configuration and appropriation of
 national character in early republican Brazil.
 
-The relative success of Severo's São Paulo-centered survey of
+The relative usefulness of Severo's São Paulo-centered survey of
 traditional architecture in his career as a designer and builder, as
-well as that of Lino's later work, which draws heavily on the manorial
-architecture in the Lisbon region [@rosmaninho:2002casa], exposes the
-difficulties inherent to the architectural translation of a literary
-history based on the diverse authority of popular sources. The
-documentation of regional variety in housing types, proposed by such
+well as the success of Lino's later work, which draws heavily on the
+manorial architecture in the Lisbon region [@rosmaninho:2002casa],
+exposes the difficulties inherent to the architectural translation of a
+literary history based on the diverse authority of popular sources. At
+the turn of the century, there is still a long way to go in the
+documentation of regional variety in housing types, as proposed by such
 early anthropological writers as Adolfo Coelho
-[@coelho:1881ethnographia] and hinted at in Casanova's magazine, is
-still a long way off even as the traditionalist architects have to
-consolidate a visual vocabulary of forms for immediate use. Beaux-Arts
+[@coelho:1881ethnographia] and hinted at in Casanova's magazine,
+even as the traditionalist architects have to
+consolidate a visual vocabulary of forms for immediate use.
+
+Beaux-Arts
 eclecticism supplies the open-ended grammar of design to tie together
 whatever vocabulary is available in the early twentieth century;
 Felisberto Ranzini's pragmatic teaching of various picturesque
 compositions at the São Paulo Polytechnic is paradigmatic of this
-solution [@ficher:2005arquitetos]. This solution is understood
-to be temporary by Severo and many in his audience---such as poet Mário
-de Andrade, a pioneer of historic preservation and documentation in
-Brazil. Nevertheless, the methodological evolution that accompanies
-the expansion and specialization of architectural history, fostered by
+solution [@ficher:2005arquitetos]. This solution is understood to be
+temporary by Severo and many in his audience---such as poet Mário de
+Andrade, a pioneer of historic preservation and documentation in Brazil.
+Nevertheless, the methodological evolution that accompanies the
+expansion and specialization of architectural history, fostered by
 scholars such as Joaquim de Vasconcellos (1849--1936), ends up being
 pitted against this makeshift traditionalist movement, rather than being
 leveraged to fill its gaps in documentation. Modernist theoreticians
