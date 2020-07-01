@@ -554,15 +554,18 @@ Professional Discourse and the Topography of Tradition
 
 Unlike the Romanticist ethnography of Gonçalves Dias's and Almeida
 Garrett's generation, which was *procedural* in nature---stressing the
-reinterpretation of canonical examples---, the ethnographic
-traditionalism of the late nineteenth century is eminently documental
-and iconographic [@vigato:1994l'architecture, 52]. It must be so, first
+free reinterpretation of canonical examples, guided by artistic
+genius---, the ethnographic
+traditionalism of the late nineteenth century is eminently *documental*
+and *iconographic* [@vigato:1994l'architecture, 52]. It must be so, first
 because it requires constructing an "Other" within one's own nation as a
 primeval and authentic source *separate* from the corrupting influence
 of the architect's own formal education, and second because that
 authentic vernacular is devoid of a canonical method, of the kind
 Beaux-Arts classicism provides, and can therefore only be approached in
-the form of a survey of its expressions. Such a survey is demanded by
+the form of a survey of its expressions.
+
+Such a survey is demanded by
 Enrique Casanova (1850--1913), a Spanish painter settled in Lisbon since
 1880, and tentatively undertaken by the engineer turned archaeologist,
 Ricardo Severo (1869--1940), first in his native Portugal, then in
@@ -729,6 +732,50 @@ traditionalists' iconographic appropriation of the built heritage.
 Conclusion
 ==========
 
+The domain of architectural theory in the nineteenth century is a
+notoriously inconstant landscape. In between the dislocation of
+neoclassical normative theory and the consolidation of Modernist
+hegemony, the disciplinary field is pulled around from many directions:
+philosophers, writers, visual artists, engineers, and politicians invest
+the concept of architecture with their own worldviews, interests, and
+operative methods. Among these several perspectives, I picked the
+literary appropriation of architecture as a guiding thread to follow
+this landscape through most of the century.
+
+The view from the vantage point of literary history appears quite
+different from that taken from the standpoint of professional practice,
+or even from a study centered around built objects. Even as architects
+become social scientists and grapple with technological development
+throughout the nineteenth century, the delimitation of their
+disciplinary field moves constantly. In peripheral Western nations, the
+succession of artistic movements, the remaking of professional
+hierarchies, and the shrinking distance between town and country relate
+to one another in unexpected ways.
+
+In the framing of architectural thought, the ascendancy of literary
+history and ethnology over professional discourse in is one such
+unexpected development of the Portuguese-speaking world. The particular
+interests, methods, and frames of knowledge among literary historians
+and ethnologists make conventional critical frameworks in the discipline
+architecture, such as style or technique, seem less relevant.
+Conversely, concepts such as identity and tradition are brought to the
+forefront. The simple educational and professional genealogies of
+practitioners, a long-established narrative device in art history, must
+give way to networks of like minds cutting across disciplinary
+boundaries.
+
+The process of replacing a disciplinary expertise handed down across
+generations with a constant disquiet about the broader cultural
+legitimacy of the discipline is, in fact, something that takes place in
+the field of architectural theory at the very same time it is being
+conceived as a problem of collective identity. As the nineteenth century
+draws to a close, it might well seem that architectural practitioners
+regain the upper hand, so to speak, in the theorization of their own
+field, appropriating internally the scholarly methods and world-views
+that were previously applied on their discipline from the outside. Rather than
+this, however, it would perhaps be the case that the whole of the architectural
+discipline is being subsumed into the conceptual scheme of literary methods.
+
 Notes and References
 ====================
 
@@ -743,7 +790,7 @@ black, but established regular professional and social reputations for
 themselves that afforded them the luxury of not being primarily defined
 by race.
 
-[^3]: Botelho concedes, nevertheless, that Volkmar Machado was already
+[^3]: Botelho points out, nevertheless, that Volkmar Machado was already
 aware of the burgeoning European debate on Gothic architecture by the
 late eighteenth century. See [@botelho:2010historiografia, 117].
 
@@ -752,10 +799,17 @@ between "static" and "dynamic" factors in his writing, it is worth
 noting he also claims Vico as his first theoretical framework.
 [@braga:1867historia, vi].
 
-[^5]: @braga:1870historia, 52--53. Later on, he changes his mind and
+[^5]: [@braga:1870historia, 52--53]. Later on, he changes his mind and
 describes the Mozarabic race as the remnants of old Iberian peoples.
--@braga:1909historia1, 38.
+[-@braga:1909historia1, 38].
 
 [^6]: As is the case of the architectural modernist canon, the literary
 modernist canon is to a great degree a crony, self-appointed, and
 self-congratulatory business, as explained by @kothe:2004canone.
+
+:::
+
+Figures
+=======
+
+:::
