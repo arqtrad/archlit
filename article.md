@@ -164,10 +164,9 @@ of each individual artist's genius [@araujoportoalegre:1841memoriaIII].
 As late as 1855, he carries on the prospective ideal of art history as
 spiritual and technical inspiration rather than a documental trove
 constituting a source of aesthetic authority:
-
-> My attempt targeted a national thought, namely that of using these
-> examples to make other [ideas] of higher value bear fruit in the young
-> minds ... [@araujoportoalegre:1855iconographiaXIX, 349]
+"My attempt targeted a national thought, namely that of using these
+examples to make other [ideas] of higher value bear fruit in the young
+minds." [@araujoportoalegre:1856iconographiaXIX, 349]
 
 Araújo Porto-Alegre's effort will reach its
 culmination under the late-nineteenth-century generation of artists and
@@ -190,7 +189,7 @@ emphasis on the documentation of sources not only for historical
 writing, Herculano's lifelong effort, but even for literary creation.
 Almeida Garrett dedicates much of his early work, compiled in the 1843
 *Romanceiro geral,* to reinterpretations of popular poetry
-[@monteiro:2019refiguracoes]. His 1844 poem *Miragaia,* described in the
+[@monteiro:2019refiguracoes9]. His 1844 poem *Miragaia,* described in the
 foreword as "a true reconstruction of an ancient monument"
 [@almeidagarrett:1844miragaia], is illustrated with compelling etchings
 of Gothic and Islamic architecture by Manuel Bordallo Pinheiro
@@ -256,7 +255,7 @@ increasingly peripheral status among European powers, pushing
 nationalist thinkers to contend with "a 'classic national problem' ...
 that not only favored the study of local folk traditions, but also
 conducted that study as part of a search for Portuguese national
-identity." [@leal:1999history26, 10--11]. This "anthropology of
+identity" [@leal:1999history26, 10--11]. This "anthropology of
 nation-building" [@stocking:1982afterword47, 172] is therefore akin to
 that of a newly independent country, such as Brazil's own. Now, this
 operation of anthropological nation-building requires as much the making
@@ -313,7 +312,7 @@ Likewise, the 1869 biographical notice on the neoclassical architect
 from Rio, Valentim da Fonseca e Silva (1744--1813) by Manuel Duarte
 Moreira de Azevedo (1832--1903) draws heavily on Araújo Porto-Alegre's
 earlier account of the same artist [@moreiraazevedo:1869valentimXXXII;
-@araujoportoalegre:1956iconographiaXIX], yet introduces a few
+@araujoportoalegre:1856iconographiaXIX], yet introduces a few
 significant details. These have to do, chiefly, with the subject's
 character and material hardship; when confronted with Brettas's
 biography of the Aleijadinho, these passages seem oddly formulaic.
@@ -557,7 +556,7 @@ Garrett's generation, which was *procedural* in nature---stressing the
 free reinterpretation of canonical examples, guided by artistic
 genius---, the ethnographic
 traditionalism of the late nineteenth century is eminently *documental*
-and *iconographic* [@vigato:1994l'architecture, 52]. It must be so, first
+and *iconographic* [@vigato:1994larchitecture, 52]. It must be so, first
 because it requires constructing an "Other" within one's own nation as a
 primeval and authentic source *separate* from the corrupting influence
 of the architect's own formal education, and second because that
@@ -807,9 +806,6 @@ describes the Mozarabic race as the remnants of old Iberian peoples.
 modernist canon is to a great degree a crony, self-appointed, and
 self-congratulatory business, as explained by @kothe:2004canone.
 
-:::
-
 Figures
 =======
 
-:::
