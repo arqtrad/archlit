@@ -215,25 +215,25 @@ modern Brazilian society [@exposicao:1861-246, 1].
 Meanwhile, Portugal is emerging from a traumatic political and economic
 restructuring after the civil war of 1828--1832, and her intellectuals
 are contemplating their country's uninspiring prospects as a waning
-colonial power. On both shores of the Atlantic, political and
-infrastructural modernization becomes a concern far more pressing than
-the affirmation of national identity. Nevertheless, modernization
-itself, along with the political crisis of the late nineteenth century,
-is to become a catalyst for a renewed interest in national
-identity---this time around, in the form of longing for the lost roots
-of cultural identity. The historian of Portuguese anthropology, João
-Leal, suggests this interest is due to Portugal's increasingly
-peripheral status among European powers, pushing nationalist thinkers to
-contend with "a 'classic national problem' ...  that not only favored
-the study of local folk traditions, but also conducted that study as
-part of a search for Portuguese national identity."
-[@leal:1999history26, 10--11]. This "anthropology of nation-building"
-[@stocking:1982afterword47, 172] is therefore akin to that of a newly
-independent country, such as Brazil's own. Now, this operation of
-anthropological nation-building requires as much the making of a
-conceptual scaffold as it needs the primary research to fill it with
-content. Therefore, both in Portugal and in Brazil, initial efforts at
-documentation are somewhat superficial if compared to the crafting of
+colonial power [@toussaint:2012arquitectura, 100]. On both shores of the
+Atlantic, political and infrastructural modernization becomes a concern
+far more pressing than the affirmation of national identity.
+Nevertheless, modernization itself, along with the political crisis of
+the late nineteenth century, is to become a catalyst for a renewed
+interest in national identity---this time around, in the form of longing
+for the lost roots of cultural identity. The historian of Portuguese
+anthropology, João Leal, suggests this interest is due to Portugal's
+increasingly peripheral status among European powers, pushing
+nationalist thinkers to contend with "a 'classic national problem' ...
+that not only favored the study of local folk traditions, but also
+conducted that study as part of a search for Portuguese national
+identity." [@leal:1999history26, 10--11]. This "anthropology of
+nation-building" [@stocking:1982afterword47, 172] is therefore akin to
+that of a newly independent country, such as Brazil's own. Now, this
+operation of anthropological nation-building requires as much the making
+of a conceptual scaffold as it needs the primary research to fill it
+with content. Therefore, both in Portugal and in Brazil, initial efforts
+at documentation are somewhat superficial if compared to the crafting of
 basic narrative structures for this documentation to tie into.
 
 Up until the 1860s, then, the actual form of the built environment has
@@ -327,38 +327,42 @@ architectural writers to explore the relationship between particular and
 national characters, the documentation of actual, historical styles of
 architecture in Portugal becomes a legitimate endeavor both as a support
 for revivalist design and as one among many sources of ethnographic
-research. The former goal is spurred by the German-born Prince consort
-(later King) of Portugal, Ferdinand II's lifelong passion, the
-remodeling of the sixteenth-century *mudéjar*-style Pena monastery in
-Sintra into a Summer palace (1838--1885) [@anacleto:1997arquitectura,
-vol. 1, p. 93]. It results in a belated and somewhat derivative Medieval
-revival that spreads through Portugal and Brazil. At first, the capacity
-and demand for revivalist buildings both in Medieval and Classical
-styles is concentrated among foreign designers, such as the Austrian
-baron and industrialist Wilhelm von Eschwege (1777--1855)---who traveled
+research. The former goal is spurred by a detailed description of the
+Jerónimos monastery in Belém, near Lisbon, written in 1842 by the
+Brazilian military engineer and distinguished IHGB historian, Francisco
+Adolfo de Varnhagen (1816--1878) [@varnhagen:1842noticia]. This and a
+number of other factors, including King consort Ferdinand II's artistic
+patronage, entail a belated and somewhat derivative Medieval revival
+that spreads through Portugal and Brazil. At first, the capacity and
+demand for revivalist buildings both in Medieval and Classical styles is
+concentrated among foreign designers, such as the Austrian baron and
+industrialist Wilhelm von Eschwege (1777--1855)---who traveled
 extensively through Brazil and Portugal before drawing up the plans for
 the Pena palace---, and foreign patrons, such as the British-dominated
 Oporto Commercial Association (incorporated 1834).[^3] By the 1860s,
 however, a growing domestic demand for neo-Medieval and Neo-Islamic
 buildings, as well as for the restoration of existing monuments
 [@anacleto:1997arquitectura, vol. 1, p. 208], drives the operative need
-for the systematic study of historic Portuguese architecture.
+for the systematic study of historic Portuguese architecture. The first
+questions in this study are then: where to look for this historic
+architecture, and how to look at it.
 
 The Beaux-Arts architectural method, which by the second half of the
 nineteenth century is well established in the Portuguese-speaking world
-[@franca:1967arte2], provides a practical foundation for documenting
-historic buildings, if one accessible only to a small elite of formally
-educated architects. Nevertheless, this practical method does not afford
-guidance for selecting, interpreting, evaluating, and transfiguring the
-meanings of, a body of national heritage that has yet to be grasped in a
-systematic way at the time [@rosmaninho:1993historiografia]. Conversely,
-the intent of nineteenth-century literary studies, that of constructing
-an overarching ethnographic narrative of national identity cutting
-across all forms of literary and material culture, requires, among other
-specialties, an understanding of architectural principles. These
-complementary features of architecture and ethnography bring the two
-disciplines once again closer together over the last quarter of the
-century under the umbrella of anthropological nation-building.
+[@franca:1967arte2], provides a practical foundation to the second
+question---how to document historic buildings---, if one accessible only
+to a small elite of formally educated architects. Nevertheless, this
+practical method does not afford guidance for selecting, interpreting,
+evaluating, and transfiguring the meanings of, a body of national
+heritage that has yet to be grasped in a systematic way at the time
+[@rosmaninho:1993historiografia]. Conversely, the intent of
+nineteenth-century literary studies, that of constructing an overarching
+ethnographic narrative of national identity cutting across all forms of
+literary and material culture, requires, among other specialties, an
+understanding of architectural principles. These complementary features
+of architecture and ethnography bring the two disciplines once again
+closer together over the last quarter of the century under the umbrella
+of anthropological nation-building.
 
 Around 1870, literary and philological studies stand at the
 methodological fulcrum of ethnography in the Portuguese-speaking world.
@@ -368,64 +372,119 @@ remain active until the early twentieth century. Theophilo Braga's
 influential it will be revised and reedited several times in the
 following decades [@braga:1870historia], is also among the most
 controversial works on ethnological theories and methods. Braga
-(1843--1924) is concerned, chiefly, with establishing a positivist
-methodological basis for relating Portuguese-language literature to the
-ethnic makeup and historical evolution of the Portuguese people
-[@leal:2000etnografias, 30]. Augusto Filipe Simões's *Relics of
-Romano-Byzantine Architecture in Portugal* [@simoes:1870reliquias]
-provides a solid archaeological footing to the contemporary rush to
-document, interpret, and appropriate Romanesque ornament harking back to
-the very origins of the Portuguese state. Simões (1835--1884) produces,
-at its core, an account of documentation surveys, though one that does
-not shy away from general interpretations. Although these two books have
-quite different aims and methodological principles, both signal the
-dominant trends in architectural discourse for the remainder of the
-nineteenth century and, as far as traditionalist movements are
+(1843--1924), formally educated in Philosophy, is concerned with
+establishing a positivistic methodological synthesis of his earlier
+research, relating Portuguese-language literature to the ethnic makeup
+and historical evolution of the Portuguese people [^4]. Augusto Filipe
+Simões's *Relics of Romano-Byzantine Architecture in Portugal*
+[@simoes:1870reliquias] provides a propaedeutics of sorts to the
+contemporary rush to document, interpret, and appropriate Romanesque
+ornament harking back to the very origins of the Portuguese state.
+Simões (1835--1884), a librarian at the venerable University of Coimbra,
+produces, at its core, an interpretation of the architectural heritage
+of his hometown, though one that is firmly grounded in prior scholarship
+as well as in archaeological and formal analysis
+[@botelho:2010historiografia, 140--142]. Although these two books have
+quite opposite starting points and methodological principles, both
+signal the dominant trends in architectural discourse for the remainder
+of the nineteenth century and, as far as traditionalist movements are
 concerned, well into the twentieth.
 
-The common point between Braga's broad ethnic brush and 
+The common point between Braga's broad ethnic brush and Simões's
+detailed archaeological account is a reversal of the conventional
+hierarchies of high art and popular culture. The paradigm of "great men"
+and "great works" that guided earlier writings, from Araújo Porto-Alegre
+to Varnhagen, is replaced by an ultimately collective cultural heritage.
+"The people, writes Braga, is the anonymous one in every great work of
+humanity" [@braga:1867cancioneiro, vi]. Even Almeida Garrett's
+transfiguration of popular poetry at the hands of the Romantic genius
+sounds conservative and elitist by Braga's standards. Though working, as
+his predecessors, from the standpoint of a search for national identity,
+he is chiefly interested, according to Leal, in "evaluating high
+literature in the light of its greater or lesser fidelity to the
+traditional [i.e., vernacular] element." [@leal:2006contos, 60]
+Moreover, this fidelity is to be the "touchstone" of a "regeneration of
+contemporary literature, in the sense of strengthening in it the
+traditional and national element." [@leal:2006contos, 60] These tropes
+will, of course, sound familiar to the student of the traditionalist
+manifestos in architecture that shall take hold in Portugal a few
+decades later, at the turn of the century.
 
-> Deitando sobre a cultura popular portuguesa um olhar científico,
-> Teófilo Braga fá-lo frequentemente em obediência a um projecto em que
-> aquela [perspectiva romântica] se continua a configurar como um
-> terreno a partir do qual é possível pensar a identidade nacional.
->
-> É de facto nessa perspectiva que pode ser entendido o modo como nele é
-> recorrente o peso da etnogenia, isto é, de uma perspectiva
-> valorizadora da descoberta e identificação das origens étnicas dos
-> factos da cultura popular portuguesa. O que parece estar no fundo em
-> causa é a possibilidade de dotar Portugal de uma espessura histórica,
-> capaz de enraizar a sua identidade num passado provido dos argumentos
-> da profundidade e da originalidade. [@leal:2006contos, 58]
+Braga's search for this "traditional and national element" leads him to
+the formulation of one of his most controversial claims about the ethnic
+origins of the Portuguese people: the "theory of *mozarabism*." After
+acknowledging from the start the common linguistic and philological
+knowledge of the early nineteenth century, namely that
+Portuguese-language popular literature can be traced back, in its
+earliest discernible form, to the far north of Portugal in the twelfth
+century [@braga:1867historia, 6], he juxtaposes it to a lesser claim
+found in Herculano's nationalist *History of Portugal,* and makes it
+into a central tenet of his ethnic theory. This claim concerns the
+existence of a *mozarabic race*, made up of the descendants of
+Wisigothic peasants assimilated into the dominant Arab society of the
+eighth to thirteenth centuries [@braga:1870historia, 52--53]. This dual
+origin of Portuguese culture---on the one hand strictly genealogical,
+linguistic, aristocratic, and northern, and on the other hand
+miscegenated, material, popular, and reminiscent of a pan-Mediterranean
+ideal---is so schematic and structured it does not withstand
+confrontation to the complexity of actual literary traditions or
+historical processes. This weakness is exploited by several of Braga's
+often ill-intentioned detractors, among them the Brazilian literary
+historian and white supremacist, Sylvio Romero (1851--1914)
+[@romero:1906patria].
 
-> Esta dominância da etnogenia cristaliza-se de forma particularmente
-> exuberante na sua reflexão sobre a poesia popular posterior a 1871,
-> data em que são editadas as *Epopeias da Raça Moçárabe* (Braga, 1871).
-> [...] Conhecem-se os resultados contraditórios dessa reflexão: da tese
-> moçárabe, Teófilo Braga evoluirá depois para a tese ligúrica (Braga,
-> 1902). Mas não é tanto sobre esses resultados que convém insistir,
-> como sobre o que eles traduzem: um esforço ímpar de descoberta da
-> etnogenia de um núcleo preciso da tradição popular portuguesa.
-> [@leal:2006contos, 59]
+Romero's rejection of *mozarabism* hinges on the Brazilian author's
+insistence on a single strand of national evolution reaching back from
+the origins of Portuguese ethnicity down to modern Brazilian culture.
+Their opposition thus clouds deeper similarities: Romero is of the same
+opinion as Braga regarding the primacy of popular "traditions" over
+"decadent" elitism [@romero:1882introduccao, 11]. Yet, because national
+unity through tradition is Romero's chief concern---not to mention his
+beliefs on racial evolutionism---, he finds it impossible to accept a
+theory that posits two distinct "spirits" of Portuguese-language
+literature. The factual and theoretical fragility of Braga's theory of
+*mozarabism* thus becomes, thanks in part to his detractors' nervous
+refutations [@martins:1953teoriaXXVIII], a source of adaptability.
+Despite the fact that Braga himself eventually reneges on the original
+formulation of his theory, then, it proves to be a rather powerful and
+flexible concept supporting two parallel strands of architectural
+traditionalism in Portugal and Brazil.
 
-> Como por várias vezes e em tons variados é indicado no próprio texto
-> [dos *Contos*], trata-se de avaliar a literatura erudita portuguesa à
-> luz da sua maior ou menos [sic] fidelidade ao elemento tradicional.
-> Seria essa fidelidade a pedra de toque para decidir dos momentos e
-> autores mais importantes na história literária portuguesa. Seria
-> também à luz dessa fidelidade que se poderia encarar uma regeneração
-> da literatura contemporânea, num sentido que é o do reforço nela do
-> elemento tradicional e nacional. [@leal:2006contos, 60]
+Emergence of Professional Discourses
+====================================
 
-* * * *
+The transition from literary debates that imply issues relative to
+architecture and material culture to architectural discourses framed by
+a disciplinary background in architecture, art history, or archaeology
+takes place in the late nineteenth and early twentieth centuries.
+
+Simões's account of Romanesque architecture is a counterpoint to the
+sharply ideological and polarizing work of Braga. Simões's book is a
+true work of art history in the modern disciplinary sense. It combines a
+rigorous critique of written sources with sharp visual analysis of the
+built fabric, and does not shy away from making sweeping, though at
+times unwarranted, generalizations out of this critique and analysis.
+Such generalizations never go as far as Braga's, however, and in
+Simões's book one is left mainly with some archaeological support for
+the northern origins of Portuguese culture---even if those origins are
+due simply to the circumstances of state formation in the Iberian
+peninsula not some transcendental ethnic scheme. Despite its analytical
+merits, his work is better understood as part of a general development
+of philological and archaeological art history, even better represented
+by the work of Joaquim de Vasconcellos, which culminates in an ambitious
+*Artistic ethnography* [@vasconcelos:1916etnografia]. A number of
+architects and engineers gravitate, starting in the late 1870s, towards
+this kind of archaeological scholarship, among them the illustrious
+academician and teacher Possidónio Narciso, who in his ripe old age will
+put forth a synthetic textbook on the history of Western European
+architecture [@silva:1878nocoes]. It will be the final decade of the
+nineteenth century, however, before a clear architectural formulation of
+literary traditionalism emerges.
 
 Oftentimes, rather than emulating the basic methods of data collection
 performed by ethnographers and literary historians, architectural
 theories will build upon the higher-order interpretations and even upon
 the general conclusions laid out in this scholarship.
-
-Historiography and Authoritarianism
-===================================
 
 Conclusion
 ==========
@@ -447,3 +506,8 @@ by race.
 [^3]: Botelho concedes, nevertheless, that Volkmar Machado was already
 aware of the burgeoning European debate on Gothic architecture by the
 late eighteenth century. See [@botelho:2010historiografia, 117].
+
+[^4]: [@leal:2000etnografias, 30]. Against what is perhaps an overuse of
+the term "positivistic" in recent historiographic studies, it is worth
+noting Braga himself claims Vico as his first theoretical framework.
+[@braga:1867historia, vi].
