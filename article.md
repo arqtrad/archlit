@@ -92,7 +92,7 @@ or scientists, rather than men of the trade. Such is the case of the
 Portuguese architect, archaeologist, and academician, Joaquim Possidónio
 Narciso da Silva (1806--1896), as well as of the Brazilian artist, poet,
 and diplomat, Manuel de Araújo Porto-Alegre (1806--1879), both of whom
-were well versed in science and literature, and had inroads to their
+are well versed in science and literature, and have inroads to their
 respective royal and imperial courts.
 
 Architectural culture will nevertheless thrive within literary---and, by
@@ -103,7 +103,7 @@ tradition. A young Araújo Porto-Alegre addresses these questions in what
 is among the earliest studies on Brazilian art, a report read before the
 Institut Historique in Paris in 1834. His account of colonial
 architecture (seventeenth and eighteenth centuries) concocts for it a
-commendable Renaissance genealogy that "evidences .\.. the taste of the
+commendable Renaissance genealogy that "evidences ... the taste of the
 new Roman school of Bramante and Buonarroti" and displays even, in one
 church, "as if a distant reflection of the admirable frescos of the
 Vatican [@magalhaes:1834resume, 50]." Not content with relating
@@ -183,9 +183,6 @@ IHGB, will ultimately expose the conflicts inherent to the framing of
 national identity as something to be both *documented* and *created* in
 a single literary or artistic process.
 
-Cultural Nation-building in Crisis
-==================================
-
 The crux of the conflict that arises together with ethnographic
 documentation in Portugal and Brazil has to do with the authority
 attributed to sources and methods. The process by which writers have
@@ -211,6 +208,9 @@ contemporaries as the Commission's "great merit, which is to evidence
 the existence of the necessary elements for the creation of industry,"
 implying a focus on craft traditions that are already somewhat close to
 modern Brazilian society [@exposicao:1861-246, 1].
+
+Cultural Nation-building in Crisis
+==================================
 
 Meanwhile, Portugal is emerging from a traumatic political and economic
 restructuring after the civil war of 1828--1832, and her intellectuals
@@ -262,22 +262,23 @@ strands---originality and traditional, popular authority---is resolved,
 at first, into a renewed interest in artists' biographies. Though quite
 similar in form to the Vasarian lives, these biographies, especially
 around the 1860s, are produced in a literary environment that values the
-artist's connections to the social conditions of his craft. Rodrigo José
-Ferreira Brettas (1815--1866), a public official and politician in the
-Brazilian hinterland province of Minas Gerais, writes in 1858 a
-biography of the local rococo architect, Antonio Francisco Lisboa (ca.
-1738--1814), known as "Aleijadinho," that is quite conservative in its
-rhetorical devices [@bretas:1951antonio]. It relies heavily on the
-well-established, by then, Romanticist trope of the tormented prodigy
-whose single-minded obsession with art leads him to experience financial
-hardship and even physical decay [@grammont:2008aleijadinho]; this is
-interspersed with a good measure of classical references to Zeuxis and
-Praxiteles. What is novel in Brettas's work is his repeated highlighting
-of the fact that the protagonist of such a semi-mythical story should be
-an obscurely trained craftsman, black and thus of low social standing in
-hinterland society, rather than a socially respectable and well traveled
-(for education) artist from Rio or Bahia, as were Araújo Porto-Alegre's
-favored characters.[^2]
+artist's connections to the social conditions of his craft and that
+begin to break free of attachment to the conventional cradles of "high
+art"---the capitals and major coastal cities in Portugal and Brazil. In
+this spirit, Rodrigo José Ferreira Brettas (1815--1866), a public
+official and politician in the Brazilian hinterland province of Minas
+Gerais, writes in 1858 a biography of the local rococo architect,
+Antonio Francisco Lisboa (ca. 1738--1814), known as "Aleijadinho." It is
+quite conservative in its rhetorical devices [@bretas:1951antonio],
+relying heavily on the well-established, by then, Romanticist trope of
+the tormented prodigy whose single-minded obsession with art leads him
+to experience financial hardship and even physical decay
+[@grammont:2008aleijadinho]. What is novel in Brettas's work is his
+repeated highlighting of the fact that the protagonist of such a
+semi-mythical story should be an obscurely trained craftsman, black and
+thus of low social standing in hinterland society, rather than a
+socially respectable and well traveled (for education) artist from Rio
+or Bahia, as were Araújo Porto-Alegre's favored characters.[^2]
 
 Likewise, the 1869 biographical notice on the neoclassical architect
 from Rio, Valentim da Fonseca e Silva (1744--1813) by Manuel Duarte
@@ -319,9 +320,6 @@ research on individual people and sources, on the one hand, and on the
 other ethnographic documentation and interpretation of popular
 traditions.
 
-Traditionalist Aims and Ethnographic Methods
-============================================
-
 Even as the artist biography is being developed into a medium for
 architectural writers to explore the relationship between particular and
 national characters, the documentation of actual, historical styles of
@@ -329,7 +327,7 @@ architecture in Portugal becomes a legitimate endeavor both as a support
 for revivalist design and as one among many sources of ethnographic
 research. The former goal is spurred by a detailed description of the
 Jerónimos monastery in Belém, near Lisbon, written in 1842 by the
-Brazilian military engineer and distinguished IHGB historian, Francisco
+Brazilian military engineer and IHGB historian, Francisco
 Adolfo de Varnhagen (1816--1878) [@varnhagen:1842noticia]. This and a
 number of other factors, including King consort Ferdinand II's artistic
 patronage, entail a belated and somewhat derivative Medieval revival
@@ -338,14 +336,14 @@ demand for revivalist buildings both in Medieval and Classical styles is
 concentrated among foreign designers, such as the Austrian baron and
 industrialist Wilhelm von Eschwege (1777--1855)---who traveled
 extensively through Brazil and Portugal before drawing up the plans for
-the Pena palace---, and foreign patrons, such as the British-dominated
-Oporto Commercial Association (incorporated 1834).[^3] By the 1860s,
-however, a growing domestic demand for neo-Medieval and Neo-Islamic
-buildings, as well as for the restoration of existing monuments
-[@anacleto:1997arquitectura, vol. 1, p. 208], drives the operative need
-for the systematic study of historic Portuguese architecture. The first
-questions in this study are then: where to look for this historic
-architecture, and how to look at it.
+Ferdinand II's Pena Summer palace---, and foreign patrons, such as the
+British-dominated Oporto Commercial Association (incorporated 1834).[^3]
+By the 1860s, however, a growing domestic demand for neo-Medieval and
+Neo-Islamic buildings, as well as for the restoration of existing
+monuments [@anacleto:1997arquitectura, vol. 1, p. 208], drives the
+operative need for the systematic study of historic Portuguese
+architecture. The first questions in this study are then: where to look
+for this historic architecture, and how to look at it.
 
 The Beaux-Arts architectural method, which by the second half of the
 nineteenth century is well established in the Portuguese-speaking world
@@ -363,6 +361,9 @@ understanding of architectural principles. These complementary features
 of architecture and ethnography bring the two disciplines once again
 closer together over the last quarter of the century under the umbrella
 of anthropological nation-building.
+
+Traditionalist Aims and Ethnographic Methods
+============================================
 
 Around 1870, literary and philological studies stand at the
 methodological fulcrum of ethnography in the Portuguese-speaking world.
@@ -403,8 +404,8 @@ his predecessors, from the standpoint of a search for national identity,
 he is chiefly interested, according to Leal, in "evaluating high
 literature in the light of its greater or lesser fidelity to the
 traditional [i.e., vernacular] element." [@leal:2006contos, 60]
-Moreover, this fidelity is to be the "touchstone" of a "regeneration of
-contemporary literature, in the sense of strengthening in it the
+Furthermore, this fidelity is to be the "touchstone" of a "regeneration
+of contemporary literature, in the sense of strengthening in it the
 traditional and national element." [@leal:2006contos, 60] These tropes
 will, of course, sound familiar to the student of the traditionalist
 manifestos in architecture that shall take hold in Portugal a few
@@ -422,16 +423,15 @@ found in Herculano's nationalist *History of Portugal,* and makes it
 into a central tenet of his ethnic theory. This claim concerns the
 existence of a *mozarabic race*, made up of the descendants of
 Wisigothic peasants assimilated into the dominant Arab society of the
-eighth to thirteenth centuries [@braga:1870historia, 52--53]. This dual
-origin of Portuguese culture---on the one hand strictly genealogical,
-linguistic, aristocratic, and northern, and on the other hand
-miscegenated, material, popular, and reminiscent of a pan-Mediterranean
-ideal---is so schematic and structured it does not withstand
-confrontation to the complexity of actual literary traditions or
-historical processes. This weakness is exploited by several of Braga's
-often ill-intentioned detractors, among them the Brazilian literary
-historian and white supremacist, Sylvio Romero (1851--1914)
-[@romero:1906patria].
+eighth to thirteenth centuries.[^5] This dual origin of Portuguese
+culture---on the one hand strictly genealogical, linguistic,
+aristocratic, and northern, and on the other hand miscegenated,
+material, popular, and reminiscent of a pan-Mediterranean ideal---is so
+schematic and structured it does not withstand confrontation to the
+complexity of actual literary traditions or historical processes. This
+weakness is exploited by several of Braga's often ill-intentioned
+detractors, among them the Brazilian literary historian and white
+supremacist, Sylvio Romero (1851--1914) [@romero:1906patria].
 
 Romero's rejection of *mozarabism* hinges on the Brazilian author's
 insistence on a single strand of national evolution reaching back from
@@ -450,14 +450,10 @@ formulation of his theory, then, it proves to be a rather powerful and
 flexible concept supporting two parallel strands of architectural
 traditionalism in Portugal and Brazil.
 
-Emergence of Professional Discourses
-====================================
-
 The transition from literary debates that imply issues relative to
 architecture and material culture to architectural discourses framed by
 a disciplinary background in architecture, art history, or archaeology
 takes place in the late nineteenth and early twentieth centuries.
-
 Simões's account of Romanesque architecture is a counterpoint to the
 sharply ideological and polarizing work of Braga. Simões's book is a
 true work of art history in the modern disciplinary sense. It combines a
@@ -481,10 +477,216 @@ architecture [@silva:1878nocoes]. It will be the final decade of the
 nineteenth century, however, before a clear architectural formulation of
 literary traditionalism emerges.
 
+The architectural manifestation of traditionalism implies moving away
+from the learned appropriation of historical and global styles. It thus
+establishes a crucial distinction between the theoretical recognition of
+Braga's theory of *mozarabism* as a parochial principle of Portuguese
+identity and the figurative application of Islamicate styles within a
+cosmopolitan spirit, in works of monumental architecture such as the
+Pena palace or the Oporto Commercial Association Building. As the
+prestige and economic standing of the aristocracy and of the wealthy
+industrialists are shaken during the financial crises of the 1870s to
+80s, that cosmopolitan spirit decisively gives way to the parochial
+leanings of traditionalism and regionalism. The focus therefore shifts,
+of necessity, from monumental architecture to dwellings: though
+technically anonymous, the builders of Simões's Romanesque churches are
+anything but popular as far as the nineteenth-century acknowledgment of
+their achievements is concerned. Moreover, the pan-European genealogy of
+architectural styles within which Portuguese Romanesque is inserted
+[@silva:1878nocoes] clearly speaks of Braga's aristocratic strand rather
+than of the "traditional" culture.
+
+Traditionalist architecture is usually not a direct
+transposition of the literary and ethnographic methods, however, since
+its built expression is still not obvious in the late nineteenth
+century.
 Oftentimes, rather than emulating the basic methods of data collection
 performed by ethnographers and literary historians, architectural
 theories will build upon the higher-order interpretations and even upon
-the general conclusions laid out in this scholarship.
+the general conclusions laid out in this scholarship. Moreover, at the
+turn of the century, it is still more often than not a discourse that
+attempts to *persuade* the architect, rather than a discourse *produced
+by* the professional architect. "After all, Michel Toussaint suggests,
+the architects' job was to design as artists, ... not to reflect. This
+was someone else's job: art historians, aesthetic theorists, or even
+engineers." [@toussaint:2012arquitectura, 145] This discourse is then,
+at any rate, somewhat derivative of the literary theories and histories.
+Thus, the early built work by Raul Lino (1879--1974) constitutes an
+essentially formal reinterpretation of the Medieval architectural
+elements codified in publications such as Simões's
+[@lino:1900projectoI].
+
+Professional Discourse and the Topography of Tradition
+======================================================
+
+Unlike the Romanticist ethnography of Gonçalves Dias's and Almeida
+Garrett's generation, which was *procedural* in nature---stressing the
+reinterpretation of canonical examples---, the ethnographic
+traditionalism of the late nineteenth century is eminently documental
+and iconographic [@vigato:1994l'architecture, 52]. It must be so, first
+because it requires constructing an "Other" within one's own nation as a
+primeval and authentic source *separate* from the corrupting influence
+of the architect's own formal education, and second because that
+authentic vernacular is devoid of a canonical method, of the kind
+Beaux-Arts classicism provides, and can therefore only be approached in
+the form of a survey of its expressions. Such a survey is demanded by
+Enrique Casanova (1850--1913), a Spanish painter settled in Lisbon since
+1880, and tentatively undertaken by the engineer turned archaeologist,
+Ricardo Severo (1869--1940), first in his native Portugal, then in
+Brazil. The similarity between these two men goes beyond their
+architectural interests into the realm of politics, both being forced
+into political exile. They are representative of a project of cultural
+secularization, which leads them to shun Church and royal built heritage
+in favor of popular dwelling. Traditionalist regionalism, an eminently
+political movement with roots in the Catalan autonomic movement
+[@sola-morales:1980eclecticismo] as well as in French "right-wing
+socialism," [@vigato:1994larchitecture, 18] is therefore a privileged
+arena for the expression of anti-establishment opinions.
+
+A significant outcome of this dislocation of literary discourse into
+politics will have to do with the geographic *locus* of tradition.
+Braga's legacy is that of a latent tension between the nationalist
+search for a hierarchical genealogy of traditional architecture and the
+emerging regionalist argument for a constellation of popular traditions,
+irreconcilable to a single point of origin. This tension bursts out onto
+a debate around the topic of the "Portuguese house," contemporary with
+other traditionalist movements throughout Europe [@rosmaninho:2002casa]
+but particularly close to Spanish *andalucismo* and *mudejarismo*
+[@rodriguezdomingo:1999neomudejar]. In late nineteenth-century Portugal,
+there emerges, according to Regina Anacleto, an ideological argument as
+to "the persistence of a grammar ... with *mudéjar* roots,"
+[@anacleto:1997arquitectura, vol. 1, p. 400] distinct from the "facile
+'Alhambrism' and ... gudgeon Orientalism, more visual than formal"
+[@anacleto:1997arquitectura, vol. 1, p. 436] of high-art eclecticism.
+
+Several years before the more famous manifestos by Raul Lino , a number
+of short notices and journal articles tackle the matter with seemingly
+cursory commentaries on the character of certain
+vernacular dwellings in particular regions of Portugal. Casanova plays a
+decisive part in this process, publishing two articles in the
+short-lived 1895 magazine *Arte Portugueza,* which he co-edits with
+Gabriel Pereira (1847--1911). The article published in the first issue
+begins with the verbatim quotation of a now famous footnote in Henrique
+das Neves's 1893 book, *A cava de Viriato.* [@neves:1893cava] Neves
+nonchalantly mentions that "there seems to be a Portuguese type of
+housing" in Trás-os-Montes, the far northwestern region of Portugal
+[@casa:1895I1, 21], and leaves it at that. The first short piece in
+*Arte Portugeza*, written by Pereira with drawings by Casanova
+[@rodrigues:2016origens, 34] expands this comment into a description of
+the main characteristics of such a "Portuguese house," which he holds is
+prevalent also further south, in the Beira Alta region. Foremost, it is
+a rural building type with only a few urban derivatives. Two drawings
+with this article and another five with the follow-up [@casa:1895I6]
+accurately illustrate the written descriptions. In keeping with the
+prevailing geographical determinism that underpins regionalist politics
+and, to some degree, even the literary history of the time, it is argued
+that "the house with balcony or veranda is much more pleasant and
+appropriate to our changing climate than many other private houses seen
+around here, which are expensive to maintain." [@casa:1895I1, 22] The
+first article ends with a note of caution regarding generalization:
+
+> The house varies, adapting to the climate, as well as to the
+> inhabitant's uses. When studying the Portuguese house, we should
+> distinguish the rural from the urban one. The [house] from Minho, with
+> its *eido* [court], differs from the Alentejo *casal* [house cluster],
+> with its backyard or its *quinchoso* [lightwell]: they differ in their
+> aspect, in their hearth and chimney, in the lack or abundance of
+> whitewashing, in the verandas, which in the South are like terraces.
+> [@casa:1895I1, 22]
+
+The terms that are shown emphasized in the quotation above are unusual,
+archaic even, in their Portuguese original. This choice of words
+evidences a conscious attempt to relate a writing style to the object
+described, tributary of the naturalistic fiction of its time. By using
+this device, the writer highlights the conceptual as well as geographic
+distance between the traditional rural or small-town house and the
+reader, presumed to be an educated and cosmopolitan urbanite.
+The tension between nationalist unity and regionalist diversity in turn
+plays out in the architectural and anthropological contrast between
+Portuguese and Brazilian regions. In Portugal, it is the opposition in
+climate and geography between North and South. In Brazil, the contrast
+of Rio de Janeiro and Bahia, traditional centers of high culture,
+against the remainder of the country, is being superseded, in the early
+twentieth century, by a new discourse positing São Paulo both as the
+historic colonial frontier, preserving a repository of traditional rural
+houses, and as the frontier of modernity where this mythical history can
+be reinterpreted into the professional architect's renewed links to
+tradition.
+
+The literary, political, and archaeological aspects of traditionalist
+theory all come together in explicitly architectural form as a series of
+lectures Ricardo Severo gives in São Paulo, his home in exile,
+from 1911 to 1915. By then, Severo is already an acclaimed designer and
+archaeologist, having edited and contributed his own research for the
+1899--1908 ethnographic journal *Portugalia* [@severo:1899portugalia].
+His own house in Porto, completed in 1904, is featured prominently in
+the magazine *Construcção Moderna.* He leaves his hometown in 1908,
+during the economic crisis that precedes the fall of the Portuguese
+monarchy, and settles in São Paulo, a city where he had previously lived
+as a republican refugee [@mascaro:2011ricardo; see also
+@mello:2007ricardo]. The lectures are Severo's attempt at gaining access
+to the notoriously exclusive and, to some degree, hereditary circles of
+Paulista patrician society, perhaps both out of a yearning for scholarly
+recognition and as a way of networking with potential clients for his
+construction work. He is, therefore, speaking to a class of educated men
+and women who style themselves sophisticated patrons of the arts; some
+of them are successful writers in their own right who will go on to make
+up much of the canon of Brazilian modernist literature.[^6]
+
+Severo's lectures are, therefore, a carefully crafted crescendo of
+concepts leading his dilettante audience step by step into the specifics
+of architectural theory.
+The first lecture, *Origins of the Portuguese Nation*, is delivered in
+1911 and published (in Portugal) the following year. In it, he posits a
+"homogeneous" Portuguese people that "remains an ethnic formula [sic]
+with a distinct constitution" [@severo:1912origens, 32] largely
+determined by the geographic features and seclusion of its land
+[@severo:1912origens, 10]. There follows a series of two lectures
+generally titled *Traditional Art in Brazil*, delivered between 1914 and
+1915, and published as two separate articles. The 1914 lecture bears the
+suggestive subtitle *The House and the Temple* and defends that, as
+Brazil descends, in her linguistic and "moral being"
+[@severo:1916arte, 7], from Portugal, so, too, her architecture must
+express that descent [@severo:1916arte, 42]. The general tone of
+Severo's writing is more reminiscent of Almeida Garrett's
+transfiguration of traditional poetry into the modern writer's creation,
+though, than of Braga's collection of raw popular sources. The 1914 and
+1915 lectures are similar in spirit, with the latter [@severo:1917arte]
+substituting photographs of specific historic buildings in São Paulo and
+environs for most of the generic, typological sketches that illustrated
+the former. This explicit reliance on a built heritage that is more
+immediately familiar to Severo's audience has the secondary effect of
+exposing the rising conflicts in the configuration and appropriation of
+national character in early republican Brazil.
+
+The relative success of Severo's São Paulo-centered survey of
+traditional architecture in his career as a designer and builder, as
+well as that of Lino's later work, which draws heavily on the manorial
+architecture in the Lisbon region [@rosmaninho:2002casa], exposes the
+difficulties inherent to the architectural translation of a literary
+history based on the diverse authority of popular sources. The
+documentation of regional variety in housing types, proposed by such
+early anthropological writers as Adolfo Coelho
+[@coelho:1881ethnographia] and hinted at in Casanova's magazine, is
+still a long way off even as the traditionalist architects have to
+consolidate a visual vocabulary of forms for immediate use. Beaux-Arts
+eclecticism supplies the open-ended grammar of design to tie together
+whatever vocabulary is available in the early twentieth century;
+Felisberto Ranzini's pragmatic teaching of various picturesque
+compositions at the São Paulo Polytechnic is paradigmatic of this
+solution [@ficher:2005arquitetos]. This solution is understood
+to be temporary by Severo and many in his audience---such as poet Mário
+de Andrade, a pioneer of historic preservation and documentation in
+Brazil. Nevertheless, the methodological evolution that accompanies
+the expansion and specialization of architectural history, fostered by
+scholars such as Joaquim de Vasconcellos (1849--1936), ends up being
+pitted against this makeshift traditionalist movement, rather than being
+leveraged to fill its gaps in documentation. Modernist theoreticians
+such as Lucio Costa in Brazil [@costa:1937documentacao1] and Francisco
+Keil do Amaral in Portugal [@ollero:2010depois] seize this opportunity
+to claim a pretense of methodological superiority [@comas:2010passado]
+for their own abstract understanding of tradition over the
+traditionalists' iconographic appropriation of the built heritage.
 
 Conclusion
 ==========
@@ -507,7 +709,15 @@ by race.
 aware of the burgeoning European debate on Gothic architecture by the
 late eighteenth century. See [@botelho:2010historiografia, 117].
 
-[^4]: [@leal:2000etnografias, 30]. Against what is perhaps an overuse of
-the term "positivistic" in recent historiographic studies, it is worth
-noting Braga himself claims Vico as his first theoretical framework.
+[^4]: [@leal:2000etnografias, 30]. Though Braga uses a Comtean division
+between "static" and "dynamic" factors in his writing, it is worth
+noting he also claims Vico as his first theoretical framework.
 [@braga:1867historia, vi].
+
+[^5]: @braga:1870historia, 52--53. Later on, he changes his mind and
+describes the Mozarabic race as the remnants of old Iberian peoples.
+-@braga:1909historia1, 38.
+
+[^6]: As is the case of the architectural modernist canon, the literary
+modernist canon is to a great degree a crony, self-appointed, and
+self-congratulatory business, as explained by @kothe:2004canone.
