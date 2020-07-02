@@ -11,7 +11,16 @@ lang: en-US
 csl: "styles/chicago-fullnote-bibliography-with-ibid.csl"
 bibliography: 'bibliography/biblio.bib'
 suppress-bibliography: true
-abstract: # ≤ 100 words content, structure, findings. No KW.
+abstract: > # ≤ 100 words content, structure, findings. No KW.
+  This article outlines a history of architectural theory in Portugal
+  and Brazil during the nineteenth century, arguing that such theory is
+  contained within the social circle and methodological scope of
+  literary history. It does so by following the architectural
+  discoourses of writers, literary critics, and ethnographers. This
+  results in an evolving landscape of architectural references and of
+  methods with which to approach the built environment, while also
+  raising challenges for the cross-disciplinary appropriation of
+  architectural theories.
 ---
 
 <!-- ≅ 7,500 words -->
@@ -52,8 +61,8 @@ tradition.
 
 Whereas the notion of a unitary architectural stem has been long
 discredited, it leaves behind an imaginary landscape of regional
-traditions and singular landmarks. A cartography of this landscape can
-trace some of the source material collected during the
+traditions and singular landmarks ([@Fig:map]). A cartography of this
+landscape can trace some of the source material collected during the
 nineteenth-century nation-building efforts, and in this way shed light
 onto the theoretical constructs that shaped this collection.
 By envisioning this virtual cartography, I seek to show how architects
@@ -117,10 +126,10 @@ architects shy away from these elevated circles, or else establish a
 fitting ethos in their writing by styling themselves poets, journalists,
 or scientists, rather than men of the trade. Such is the case of the
 Portuguese architect, archaeologist, and academician, Joaquim Possidónio
-Narciso da Silva (1806--1896), as well as of the Brazilian artist, poet,
-and diplomat, Manuel de Araújo Porto-Alegre (1806--1879), both of whom
-are well versed in science and literature, and have inroads to their
-respective royal and imperial courts.
+Narciso da Silva (1806--1896), as well as of the Brazilian architect,
+poet, and diplomat, Manuel de Araújo Porto-Alegre (1806--1879), both of
+whom are well versed in science and literature, and have inroads to
+their respective royal and imperial courts.
 
 Architectural culture will nevertheless thrive within literary---and, by
 extension, historical---circles throughout the nineteenth century, and
@@ -133,8 +142,9 @@ architecture (seventeenth and eighteenth centuries) concocts for it a
 commendable Renaissance genealogy that "evidences ... the taste of the
 new Roman school of Bramante and Buonarroti" and displays even, in one
 church, "as if a distant reflection of the admirable frescos of the
-Vatican [@magalhaes:1834resume, 50]." Not content with relating
-Brazilian architecture directly to Italian sources, Araújo Porto-Alegre
+Vatican" [@magalhaes:1834resume, 50] ([@Fig:riocolonia]). Not content with
+relating Brazilian architecture directly to Italian sources, Araújo
+Porto-Alegre
 goes so far as to frame its achievements as an unlikely triumph over the
 hindrance of Portuguese philistinism [@magalhaes:1834resume, 50]. This
 claim sets in motion a nationalist debate on the relationship between
@@ -192,6 +202,7 @@ Almeida Garrett dedicates much of his early work, compiled in the 1843
 [@monteiro:2019refiguracoes9]. His 1844 poem *Miragaia,* described in the
 foreword as "a true reconstruction of an ancient monument"
 [@almeidagarrett:1844miragaia], is illustrated with compelling etchings
+([@Fig:miragaia])
 of Gothic and Islamic architecture by Manuel Bordallo Pinheiro
 (1815--1880), evidencing their interest in a comprehensive historical
 ambiance that ranges from the purported authenticity of the text to its
@@ -223,7 +234,9 @@ perhaps not surprising Gonçalves Dias should eventually fall out with
 the Expedition's leader, physician and zoologist Manuel Ferreira Lagos
 (1816--1870), who seems to consider the ethnographic section as being
 of lesser importance than zoology, botany, and mineralogy
-[@kury:2001comissao, 39]. Gonçalves Dias's insistence on fulfilling the
+[@kury:2001comissao, 39].
+
+Gonçalves Dias's insistence on fulfilling the
 Commission's original goal of studying all of Brazil's northerly
 provinces, even as when the other sections' work is called off after
 documenting a single province, further exposes these conflicts. He
@@ -354,8 +367,8 @@ national characters, the documentation of actual, historical styles of
 architecture in Portugal becomes a legitimate endeavor both as a support
 for revivalist design and as one among many sources of ethnographic
 research. The former goal is spurred by a detailed description of the
-Jerónimos monastery in Belém, near Lisbon, written in 1842 by the
-Brazilian military engineer and IHGB historian, Francisco
+monastery of the Hieronymites in Belém ([@Fig:belem]), near Lisbon, written in
+1842 by the Brazilian military engineer and IHGB historian, Francisco
 Adolfo de Varnhagen (1816--1878) [@varnhagen:1842noticia]. This and a
 number of other factors, including King consort Ferdinand II's artistic
 patronage, entail a belated and somewhat derivative Medieval revival
@@ -366,7 +379,7 @@ demand for revivalist buildings both in Medieval and Classical styles is
 concentrated among foreign designers, such as the Austrian baron and
 industrialist Wilhelm von Eschwege (1777--1855)---who traveled
 extensively through Brazil and Portugal before drawing up the plans for
-Ferdinand II's Pena Summer palace---, and foreign patrons, such as the
+Ferdinand II's Pena Summer palace ([@Fig:pena])---, and foreign patrons, such as the
 British-dominated Oporto Commercial Association (incorporated 1834).[^3]
 By the 1860s, however, a growing domestic demand for neo-Medieval and
 Neo-Islamic buildings, as well as for the restoration of existing
@@ -484,8 +497,9 @@ The transition from literary debates that imply issues relative to
 architecture and material culture to architectural discourses framed by
 a disciplinary background in architecture, art history, or archaeology
 takes place in the late nineteenth and early twentieth centuries.
-Simões's account of Romanesque architecture is a counterpoint to the
-sharply ideological and polarizing work of Braga. Simões's book is a
+Simões's account of Romanesque architecture ([@Fig:simoes]) is a
+counterpoint to the sharply ideological and polarizing work of Braga.
+Simões's book is a
 true work of art history in the modern disciplinary sense. It combines a
 rigorous critique of written sources with sharp visual analysis of the
 built fabric, and does not shy away from making sweeping, though at
@@ -594,7 +608,7 @@ to "the persistence of a grammar ... with *mudéjar* roots,"
 'Alhambrism' and ... gudgeon Orientalism, more visual than formal"
 [@anacleto:1997arquitectura, vol. 1, p. 436] of high-art eclecticism.
 
-Several years before the more famous manifestos by Raul Lino , a number
+Several years before the more famous manifestos by Raul Lino, a number
 of short notices and journal articles tackle the matter with seemingly
 cursory commentaries on the character of certain
 vernacular dwellings in particular regions of Portugal. Casanova plays a
@@ -607,9 +621,10 @@ nonchalantly mentions that "there seems to be a Portuguese type of
 housing" in Trás-os-Montes, the far northwestern region of Portugal
 [@casa:1895I1, 21], and leaves it at that. The first short piece in
 *Arte Portugeza*, written by Pereira with drawings by Casanova
-[@rodrigues:2016origens, 34] expands this comment into a description of
-the main characteristics of such a "Portuguese house," which he holds is
-prevalent also further south, in the Beira Alta region.
+[@rodrigues:2016origens, 34] ([@Fig:casanova]) expands this comment into
+a description of the main characteristics of such a "Portuguese house,"
+which he holds is prevalent also further south, in the Beira Alta
+region.
 
 It is essentially
 a rural building type with only a few urban derivatives. Two drawings
@@ -656,8 +671,9 @@ lectures Ricardo Severo gives in São Paulo, his home in exile,
 from 1911 to 1915. By then, Severo is already an acclaimed designer and
 archaeologist, having edited and contributed his own research for the
 1899--1908 ethnographic journal *Portugalia* [@severo:1899portugalia].
-His own house in Porto, completed in 1904, is featured prominently in
-the magazine *Construcção Moderna.* He leaves his hometown in 1908,
+His own house in Porto, completed in 1904 ([@Fig:conde]), is featured
+prominently in the magazine *Construcção Moderna.* He leaves his
+hometown in 1908,
 during the economic crisis that precedes the fall of the Portuguese
 monarchy, and settles in São Paulo, a city where he had previously lived
 as a republican refugee [@mascaro:2011ricardo; see also
@@ -809,3 +825,18 @@ self-congratulatory business, as explained by @kothe:2004canone.
 Figures
 =======
 
+![Map of places and regions mentioned in the text](https://www.integra.unb.br/s/WNoEXW2QgPC2mr4/preview){#fig:map}
+
+![José Custódio de Sá e Faria, Santa Cruz dos Militares Church, Rio de Janeiro, 1780--1811. Glass photograph by Marc Ferrez. Public domain / Instituto Moreira Salles Collection](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Igreja_de_Santa_Cruz_dos_Militares_-_3.jpg/817px-Igreja_de_Santa_Cruz_dos_Militares_-_3.jpg){#fig:riocolonia}
+
+![Manuel Bordallo Pinheiro, title image for the first chapter of the first edition of Almeida Garrett's *Miragaia*, 1844](http://www.gutenberg.org/files/24411/24411-h/images/cap1.jpg){#fig:miragaia}
+
+![Hieronymite monastery of S. Maria, Belém, begun 1501. Print from Varnhagen's book, 1842](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mosteiro_de_Belem.jpg/1024px-Mosteiro_de_Belem.jpg){#fig:belem}
+
+![Pena palace, after 1838. Print by Pannemaker from Édouard Charton, *Le tour du monde* (Paris: Hachette, 1860)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Le_tour_du_monde_-_nouveau_journal_des_voyages_%281860%29_%2814793882763%29.jpg/1024px-Le_tour_du_monde_-_nouveau_journal_des_voyages_%281860%29_%2814793882763%29.jpg){#fig:pena}
+
+![São Cristóvão Church in Coimbra. Jorge Mariz, in Augusto Filipe Simões, *Reliquias da architectura romano-byzantina em Portugal...*, 1870, pl. 2](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Frontispicio%2C_capiteis_e_planta_da_egreja_de_S._Christovam_em_Coimbra.jpg/514px-Frontispicio%2C_capiteis_e_planta_da_egreja_de_S._Christovam_em_Coimbra.jpg){#fig:simoes}
+
+![Enrique Casanova, drawings for the "Casa portugueza" article series. *Arte portugueza* I, no. 1 and no. 6, 1895](https://upload.wikimedia.org/wikipedia/commons/d/de/Enrique_Casanova%2C_Casa_portugueza%2C_1895.jpg){#fig:casanova}
+
+![Ricardo Severo, house at rua do Conde, Oporto, 1904. From "Casa Portugueza," *Revista de Turismo* no. 13, 5 Jan. 1917, 104](https://upload.wikimedia.org/wikipedia/commons/8/88/RevistadeTurismoVol1N13_0008_branca_t0-crop.jpg){#fig:conde}
