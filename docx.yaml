@@ -6,7 +6,6 @@ standalone      : True
 toc             : False
 number-sections : False
 data-dir        : 'spec'
-reference-doc   : 'spec/tdsr.docx'
 resource-path:
 - .
 - figures

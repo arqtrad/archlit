@@ -1,5 +1,8 @@
-styles
 *.docx
+.jekyll-cache
+_site
+node_modules
+styles
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

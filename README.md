@@ -1,6 +1,19 @@
-# Architectural theory as a facet of literary theory in the nineteenth century
+# The Literary Craft of Architecture: Portuguese-language Theories 1830--1940
 
 ![Article](https://github.com/dmcpatrimonio/archlit/workflows/DOCX/badge.svg)
+
+## Table of Contents
+
+- In print or under review
+  - [La critique des styles d'architecture au Brésil: un genre littéraire, 1860--1940](romantisme_critique.md)
+  - [Literary History as a Model for Architectural Traditionalism in Portugal and Brazil](article.md)
+- Snippets
+  - [Indianisme comme nationalisme](indianismo.md)
+  - [Culturalisme philosophique](culturalisme_philo.md)
+  - [Médicaliser la ville et l'architecture](hygiene_rio_imperial.md)
+  - [Le XIX<sup>e</sup> siècle à l'aune de la Belle Époque](imperio_republica.md)
+
+## Abstract
 
 The developments in traditionalist architecture in Portugal and Brazil
 since the mid-nineteenth century once derived much of their motivation
@@ -38,6 +51,19 @@ regional traditions into unitary images of national architecture is
 evidence not of the “failure” of a retrospectively construed concept of
 authenticity, but a way to make sense of a new apparatus of
 architectural criticism.
+
+## Biographical notice
+
+Assistant professor at the University of Brasilia School of Architecture
+and Urbanism and visiting scholar at the University of Coimbra Centre
+for Social Studies (2019–2020). Architect, with a Ph.D. in aesthetics
+and semiology of architecture. His research on the history of
+architectural historiography and in late traditional architecture led to
+the co-editing of the book Times and scales of the city and urbanism
+(University of Brasilia, 2014), and to the chapter « Building typology
+in the vernacular architecture of Beirã, » in in *A project for the
+future of Beirã (Marvão),* ed. Alejandro García Hermida (Lisbon,
+Fundação Serra Henriques)
 
 ## License
 
