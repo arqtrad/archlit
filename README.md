@@ -8,6 +8,8 @@
   - [The Missing 'Brazilianness' of Nineteenth-century Brazilian Art and Architecture](https://www.routledge.com/Whose-Tradition-Discourses-on-the-Built-Environment/AlSayyad-Gillem-Moffat/p/book/9780367140960) with Ana Amélia de Paula Moura
   - [La critique des styles d'architecture au Brésil: un genre littéraire, 1860--1940](romantisme_critique.md)
   - [Literary History as a Model for Architectural Traditionalism in Portugal and Brazil](article.md)
+- Presentations
+  - [Teoria da arquitetura como género literário no século XIX](arq-lit.md)
 - Snippets
   - [Indianisme comme nationalisme](indianismo.md)
   - [Culturalisme philosophique](culturalisme_philo.md)
@@ -132,9 +134,11 @@ século XIX e nos contatos entre o classicismo e a modernidade. Organizou
 o livro *Tempos e escalas da cidade e do urbanismo* (Editora da
 Universidade de Brasília, 2014) e é autor de « Tipologia da edificação
 na arquitectura vernácula da Beirã », in *Um projecto de futuro para a
-Beirã (Marvão)* (Lisboa: Fundação Serra Henriques, 2018) e « The Missing
-‘Brazilianness’ of Nineteenth-century Brazilian Art and Architecture »,
-in *Whose tradition?* (London: Routledge, 2017).
+Beirã (Marvão)* (Lisboa: Fundação Serra Henriques, 2018). É coautor de
+« The Missing ‘Brazilianness’ of Nineteenth-century Brazilian Art and
+Architecture », in *Whose tradition?* (London: Routledge, 2017) e do
+verbete sobre o arquiteto e construtor carioca Heitor de Mello no *Grove
+Dictionary of Art* (2019).
 
 ## License
 
