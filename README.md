@@ -9,7 +9,7 @@
   - [La critique des styles d'architecture au Brésil: un genre littéraire, 1860--1940](romantisme_critique.md)
   - [Literary History as a Model for Architectural Traditionalism in Portugal and Brazil](article.md)
 - Presentations
-  - [Teoria da arquitetura como género literário no século XIX](arq-lit.md)
+  - [Teoria da arquitetura como género literário no século XIX](arq-lit.md) — Centro de Estudos Sociais, Universidade de Coimbra
 - Snippets
   - [Indianisme comme nationalisme](indianismo.md)
   - [Culturalisme philosophique](culturalisme_philo.md)
