@@ -16,7 +16,7 @@ abstract: > # ≤ 100 words content, structure, findings. No KW.
   and Brazil during the nineteenth century, arguing that such theory is
   contained within the social circle and methodological scope of
   literary history. It does so by following the architectural
-  discoourses of writers, literary critics, and ethnographers. This
+  discourses of writers, literary critics, and ethnographers. This
   results in an evolving landscape of architectural references and of
   methods with which to approach the built environment, while also
   raising challenges for the cross-disciplinary appropriation of
@@ -35,66 +35,79 @@ Moreover, it plays out to a great extent within literary circles, even
 as a Portuguese-language architectural press emerges during the Belle
 Époque. This context has made the rise of architectural theory in these
 two nations virtually invisible to a historiography still mostly
-concerned with the study of strictly disciplinary texts[^1].
+concerned with the study of strictly disciplinary texts.[^1]
 
 Beginning in the age of liberal monarchies in both countries, around the
 mid-1830s, Romanticist writers are involved with the theoretical
 formulation of a concept of national identity to which aesthetic
-experience is central. This concept increasingly encompasses the various
-artistic disciplines and, more importantly, that gives an ever greater
-role and prestige to popular forms of expression. Novel ways of
-theorizing architecture come about from this process, which evidences
-specific ways of conceiving geographic and professional hierarchies.
+experience is central. This concept slowly extends to encompass the
+visual and building arts. Along the way, writers grapple with the
+articulation between the civilizational goals of Beaux-Arts education,
+on one hand, and the cultural legitimacy of nonacademic forms of
+expression documented in ethnographic research, on the other. This
+process, spurred by nationalist Romanticism in the 1840s and 50s, peaks
+in the ethnographic and biographical writings produced by the
+"generation of 1870" [@alonso:2002ideias]. By the turn of the century,
+this literary buildup of approaches to art history and national
+character irrupts into texts that deal specifically with architecture.
 
-As ethnographic aims and methods begin to invest the domain of literary
-nation-building, in the 1860s and 70s, the Romanticist landscape of
-architectural theory gives way to an uneasy coexistence of popular
-traditions and learned interpretations.
-The resulting traditionalist discourses have been based on a stark
-differentiation between popular and high culture, privileging rural
-housing types after the example of ethnographers, who sought the roots
-of national literature in the folk poetry in remote communities. The
-virtual unity of the Portuguese language prompts architectural
-theorists into the twentieth century to seek likewise a single
-stem-type from which to extract either the forms or the spirit of a new
-tradition.
+This last stage has been profusely studied in recent scholarship,
+exposing the social and professional networks that support
+traditionalist architects such as Ricardo Severo and Raul Lino, as well
+as the beginnings of historic preservation [@mello:2007ricardo;
+@fernandes:2016olhando23; @pinheiro:2006historia].
+Conversely, the historical and literary discourses of nationalist
+Romanticists (1840s--50s) and of the 1870 generation (up to the turn of
+the century) have long been a staple subject in the history of ideas
+during the age of constitutional monarchies in Portugal and Brazil
+[@guimaraes:1988nacao1; @carvalho:2013construcao; @boto:2001cultura35;
+@torgal:1998historia]. Such works have shown how specifically
+Brazilian concerns regarding the creation of a national identity through
+historiography in the mid-nineteenth century
+[@guimaraes:2002amadorismo3] resonate with contemporary Portuguese
+nationalist writers [@dalge:1999relacoes3]. They also have shed light on
+the turn-of-the-century debates on the causal relationships among race,
+language, and Luso-Brazilian identity [@pereira:1992racas14;
+@paredes:2006querela32; @rodriguez:2017moral].
 
-Whereas the notion of a unitary architectural stem has been long
-discredited, it leaves behind an imaginary landscape of regional
-traditions and singular landmarks ([@Fig:map]). A cartography of this
-landscape can trace some of the source material collected during the
-nineteenth-century nation-building efforts, and in this way shed light
-onto the theoretical constructs that shaped this collection.
-By envisioning this virtual cartography, I seek to show how architects
-and architectural critics in Portugal and Brazil appropriate the goals
-and perspectives of literary historians even before the rise of
-traditionalist architectural styles. I argue the conflation of diverse
-regional traditions into unitary images of national architecture is
-evidence not of the "failure" of a retrospectively construed concept of
-authenticity, but a way to make sense of a new apparatus of
-architectural criticism.
+However, Portuguese-language architectural theory in the strict sense is
+generally held to be a late bloomer when compared to literary
+history.[^7] Because of this, the traditionalist movement of the early
+twentieth century has been tacitly assumed to spring, fully armed, from
+its contemporary context of modernization in Portugal's and Brazil's
+late monarchical and early Republican period (roughly 1890--1910). This
+assumption is compounded by a projection of present-day disciplinary
+boundaries upon earlier periods; according to a prevalent view, if any
+sources of architectural theory are to be found in the nineteenth
+century, these must be sought in discourses about urban reforms
+[@salgueiro:2001cidades; @lisboa:2002engenheiros] not historical
+writing. This view has reserved an uneasy place for traditionalist
+architecture. Though it is understood to play a role in the ideological
+underpinning of Republican nationalism [@mello:2007ricardo], it is
+difficult to shake off the interpretation that, in hindsight,
+traditionalism was somehow doomed from the start to be a methodological
+dead end [@comas:2010passado; @rosmaninho:2002casa].
 
-The cartography of nineteenth-century architectural theory derived from
-literary history and criticism is divided into four sections arranged in
-roughly chronological order, with significant overlap among them. The
-first maps the rise of architectural theory as a literary genre, within
-the ranks of Romanticist writers and a few artists in their midst. The
-second section explores the conflicts that appear within Romanticist
-nation-building and how the methodological responses to these conflicts
-shape an evolving understanding of architecture. In the third section,
-the formation of an imaginary landscape of traditional architecture is
-observed through the consolidation of ethnographic methodologies in
-literary history. Finally, the turn of the century marks the decisive
-irruption of architecture professionals into the theoretical discourse,
-exposing the difficulties of turning this imaginary landscape into a
-repository for design.
+What I seek to show in this article is how traditionalist architecture
+in Portugal and Brazil has a longer historical background and clearer
+theoretical roots than most of the scholarship tends to assume.
+Portuguese-speaking architects and architectural critics appropriate the
+goals and perspectives by literary historians, formulated long before
+the rise of traditionalist architectural styles. This appropriation can
+be seen in an implicit dialog between Belle Époque architectural
+traditionalism and ethnographic portrayals of national character
+construed throughout the second half of the nineteenth century. The
+traditionalist movement's claim to authority thus rests on a double
+reach for the past: on the one hand, it places itself within a
+respectable apparatus of literary and historical criticism; on the other
+hand, such methods enable architectural theory to posit (if not quite
+demonstrate) the actuality and unity of the national traditions it seeks
+to reestablish.
 
 Architectural Theory as Literary Genre
 ======================================
 
-The scope and role of literary discourses on architecture during the
-nineteenth century are scarcely acknowledged in the scholarship of
-Portuguese and Brazilian architecture. The literary milieu is quite
+The literary milieu is quite
 distinct from that of the engineering and infrastructure debates arising
 around the same time, and far less popular among, or methodologically
 accessible to, architectural historians. The disciplinary corps of
@@ -131,7 +144,7 @@ poet, and diplomat, Manuel de Araújo Porto-Alegre (1806--1879), both of
 whom are well versed in science and literature, and have inroads to
 their respective royal and imperial courts.
 
-Architectural culture will nevertheless thrive within literary---and, by
+Architectural culture nevertheless thrives within literary---and, by
 extension, historical---circles throughout the nineteenth century, and
 muster from it a methodological apparatus as well as a set of historical
 references pertaining to the questions of national character and
@@ -142,14 +155,13 @@ architecture (seventeenth and eighteenth centuries) concocts for it a
 commendable Renaissance genealogy that "evidences ... the taste of the
 new Roman school of Bramante and Buonarroti" and displays even, in one
 church, "as if a distant reflection of the admirable frescos of the
-Vatican" [@magalhaes:1834resume, 50] ([@Fig:riocolonia]). Not content with
-relating Brazilian architecture directly to Italian sources, Araújo
-Porto-Alegre
-goes so far as to frame its achievements as an unlikely triumph over the
-hindrance of Portuguese philistinism [@magalhaes:1834resume, 50]. This
-claim sets in motion a nationalist debate on the relationship between
-Portuguese tradition and Brazilian particularity that will last for
-upwards of a century.
+Vatican" [@magalhaes:1834resume, 50] ([@Fig:riocolonia]). Not content
+with relating Brazilian architecture directly to Italian sources, Araújo
+Porto-Alegre goes so far as to frame its achievements as an unlikely
+triumph over the hindrance of Portuguese philistinism
+[@magalhaes:1834resume, 50]. This claim sets in motion a nationalist
+debate on the relationship between Portuguese tradition and Brazilian
+particularity that will last for upwards of a century.
 
 The prescriptive definition of national character in art requires, of
 course, a documented body of knowledge on what national art is to begin
@@ -794,18 +806,40 @@ discipline is being subsumed into the conceptual scheme of literary methods.
 Notes and References
 ====================
 
+::: {#refs}
+:::
+
 <!-- Figure out how to insert figures after endnotes -->
+
+Figures
+=======
+
+![Map of places and regions mentioned in the text. Not to scale](https://www.integra.unb.br/s/WNoEXW2QgPC2mr4/preview){#fig:map}
+
+![José Custódio de Sá e Faria, Santa Cruz dos Militares Church, Rio de Janeiro, 1780--1811. Glass photograph by Marc Ferrez. Public domain / Instituto Moreira Salles Collection](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Igreja_de_Santa_Cruz_dos_Militares_-_3.jpg/817px-Igreja_de_Santa_Cruz_dos_Militares_-_3.jpg){#fig:riocolonia}
+
+![Manuel Bordallo Pinheiro, title image for the first chapter of the first edition of Almeida Garrett's *Miragaia*, 1844](http://www.gutenberg.org/files/24411/24411-h/images/cap1.jpg){#fig:miragaia}
+
+![Hieronymite monastery of S. Maria, Belém, begun 1501. Print from Varnhagen's book, 1842](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mosteiro_de_Belem.jpg/1024px-Mosteiro_de_Belem.jpg){#fig:belem}
+
+![Pena palace, after 1838. Print by Pannemaker from Édouard Charton, *Le tour du monde* (Paris: Hachette, 1860)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Le_tour_du_monde_-_nouveau_journal_des_voyages_%281860%29_%2814793882763%29.jpg/1024px-Le_tour_du_monde_-_nouveau_journal_des_voyages_%281860%29_%2814793882763%29.jpg){#fig:pena}
+
+![São Cristóvão Church in Coimbra. Jorge Mariz, in Augusto Filipe Simões, *Reliquias da architectura romano-byzantina em Portugal...*, 1870, pl. 2](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Frontispicio%2C_capiteis_e_planta_da_egreja_de_S._Christovam_em_Coimbra.jpg/514px-Frontispicio%2C_capiteis_e_planta_da_egreja_de_S._Christovam_em_Coimbra.jpg){#fig:simoes}
+
+![Enrique Casanova, drawings for the "Casa portugueza" article series. *Arte portugueza* I, no. 1 and no. 6, 1895](https://upload.wikimedia.org/wikipedia/commons/d/de/Enrique_Casanova%2C_Casa_portugueza%2C_1895.jpg){#fig:casanova}
+
+![Ricardo Severo, house at rua do Conde, Oporto, 1904. From "Casa Portugueza," *Revista de Turismo* no. 13, 5 Jan. 1917, 104](https://upload.wikimedia.org/wikipedia/commons/8/88/RevistadeTurismoVol1N13_0008_branca_t0-crop.jpg){#fig:conde}
 
 [^1]: This shortcoming was, to my knowledge, first pointed out by Macedo
 at a very recent date. [@macedo:2017biblioteca]
 
 [^2]: Some of the artists that figure prominently in Araújo
-Porto-Alegre's accounts, such as Valentim da Fonseca e Silva, were also
-black, but established regular professional and social reputations for
-themselves that afforded them the luxury of not being primarily defined
+Porto-Alegre's accounts, such as Valentim da Fonseca e Silva, are also
+black, but establish regular professional and social reputations for
+themselves that afford them the luxury of not being primarily defined
 by race.
 
-[^3]: Botelho points out, nevertheless, that Volkmar Machado was already
+[^3]: Botelho pointed out, nevertheless, that Volkmar Machado is already
 aware of the burgeoning European debate on Gothic architecture by the
 late eighteenth century. See [@botelho:2010historiografia, 117].
 
@@ -822,21 +856,9 @@ describes the Mozarabic race as the remnants of old Iberian peoples.
 modernist canon is to a great degree a crony, self-appointed, and
 self-congratulatory business, as explained by @kothe:2004canone.
 
-Figures
-=======
+[^7]: Hanno-Walter Kruft's assertion that Latin America has no proper
+architectural theory to speak of until the twentieth century
+([-@kruft:1985geschichte]) has been often criticized, yet the dearth of
+studies on its mid-nineteenth-century roots shows it is still tacitly
+accepted to some degree, for example by @rocha-peixoto:2006tratados.
 
-![Map of places and regions mentioned in the text](https://www.integra.unb.br/s/WNoEXW2QgPC2mr4/preview){#fig:map}
-
-![José Custódio de Sá e Faria, Santa Cruz dos Militares Church, Rio de Janeiro, 1780--1811. Glass photograph by Marc Ferrez. Public domain / Instituto Moreira Salles Collection](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Igreja_de_Santa_Cruz_dos_Militares_-_3.jpg/817px-Igreja_de_Santa_Cruz_dos_Militares_-_3.jpg){#fig:riocolonia}
-
-![Manuel Bordallo Pinheiro, title image for the first chapter of the first edition of Almeida Garrett's *Miragaia*, 1844](http://www.gutenberg.org/files/24411/24411-h/images/cap1.jpg){#fig:miragaia}
-
-![Hieronymite monastery of S. Maria, Belém, begun 1501. Print from Varnhagen's book, 1842](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mosteiro_de_Belem.jpg/1024px-Mosteiro_de_Belem.jpg){#fig:belem}
-
-![Pena palace, after 1838. Print by Pannemaker from Édouard Charton, *Le tour du monde* (Paris: Hachette, 1860)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Le_tour_du_monde_-_nouveau_journal_des_voyages_%281860%29_%2814793882763%29.jpg/1024px-Le_tour_du_monde_-_nouveau_journal_des_voyages_%281860%29_%2814793882763%29.jpg){#fig:pena}
-
-![São Cristóvão Church in Coimbra. Jorge Mariz, in Augusto Filipe Simões, *Reliquias da architectura romano-byzantina em Portugal...*, 1870, pl. 2](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Frontispicio%2C_capiteis_e_planta_da_egreja_de_S._Christovam_em_Coimbra.jpg/514px-Frontispicio%2C_capiteis_e_planta_da_egreja_de_S._Christovam_em_Coimbra.jpg){#fig:simoes}
-
-![Enrique Casanova, drawings for the "Casa portugueza" article series. *Arte portugueza* I, no. 1 and no. 6, 1895](https://upload.wikimedia.org/wikipedia/commons/d/de/Enrique_Casanova%2C_Casa_portugueza%2C_1895.jpg){#fig:casanova}
-
-![Ricardo Severo, house at rua do Conde, Oporto, 1904. From "Casa Portugueza," *Revista de Turismo* no. 13, 5 Jan. 1917, 104](https://upload.wikimedia.org/wikipedia/commons/8/88/RevistadeTurismoVol1N13_0008_branca_t0-crop.jpg){#fig:conde}
