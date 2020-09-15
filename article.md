@@ -66,13 +66,18 @@ Brazilian concerns regarding the creation of a national identity through
 historiography in the mid-nineteenth century
 [@guimaraes:2002amadorismo3] resonate with contemporary Portuguese
 nationalist writers [@dalge:1999relacoes3]. They also have shed light on
-the turn-of-the-century debates on the causal relationships among race,
-language, and Luso-Brazilian identity [@pereira:1992racas14;
-@paredes:2006querela32; @rodriguez:2017moral].
+turn-of-the-century debates on the causal relationships among race,
+language, and cultural identity [@pereira:1992racas14;
+@rodriguez:2017moral]. Going beyond the expected affirmation of national
+identity in each country, these debates evidence the workings of a
+transatlantic *republic of letters* bridging the conceptual and
+ideological divide caused by Brazilian independence
+[@paredes:2006querela32].
 
-However, Portuguese-language architectural theory in the strict sense is
-generally held to be a late bloomer when compared to literary
-history.[^7] Because of this, the traditionalist movement of the early
+Compared to this flourishing universe of literary history,
+Portuguese-language architectural theory in the strict sense, and
+especially Brazilian theory, is generally held to be a late
+bloomer.[^7] Because of this, the traditionalist movement of the early
 twentieth century has been tacitly assumed to spring, fully armed, from
 its contemporary context of modernization in Portugal's and Brazil's
 late monarchical and early Republican period (roughly 1890--1910). This
@@ -88,9 +93,9 @@ difficult to shake off the interpretation that, in hindsight,
 traditionalism was somehow doomed from the start to be a methodological
 dead end [@comas:2010passado; @rosmaninho:2002casa].
 
-What I seek to show in this article is how traditionalist architecture
+I seek to show in this article how traditionalist architecture
 in Portugal and Brazil has a longer historical background and clearer
-theoretical roots than most of the scholarship tends to assume.
+theoretical roots than some of the scholarship tends to assume.
 Portuguese-speaking architects and architectural critics appropriate the
 goals and perspectives by literary historians, formulated long before
 the rise of traditionalist architectural styles. This appropriation can
@@ -98,11 +103,11 @@ be seen in an implicit dialog between Belle Époque architectural
 traditionalism and ethnographic portrayals of national character
 construed throughout the second half of the nineteenth century. The
 traditionalist movement's claim to authority thus rests on a double
-reach for the past: on the one hand, it places itself within a
-respectable apparatus of literary and historical criticism; on the other
-hand, such methods enable architectural theory to posit (if not quite
-demonstrate) the actuality and unity of the national traditions it seeks
-to reestablish.
+reach for the past: first, it requires "traditional architecture" to
+pre-exist its turn-of-the-century reconstruction in Portugal and Brazil,
+exhibiting stability through space and time; to prove this claim, it
+reaches for a respectable apparatus of literary and historical
+criticism, crafted throughout the nineteenth century.
 
 Architectural Theory as Literary Genre
 ======================================
