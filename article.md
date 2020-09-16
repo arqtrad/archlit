@@ -12,18 +12,16 @@ csl: "styles/chicago-fullnote-bibliography-with-ibid.csl"
 bibliography: 'bibliography/biblio.bib'
 suppress-bibliography: true
 abstract: > # ≤ 100 words content, structure, findings. No KW.
-  This article outlines a history of architectural theory in Portugal
+  This article outlines the formation of architectural theory in Portugal
   and Brazil during the nineteenth century, arguing that such theory is
-  contained within the social circle and methodological scope of
+  initially contained within the social circle and methodological scope of
   literary history. It does so by following the architectural
   discourses of writers, literary critics, and ethnographers. This
-  results in an evolving landscape of architectural references and of
+  results in an evolving set of architectural references and of
   methods with which to approach the built environment, while also
   raising challenges for the cross-disciplinary appropriation of
   architectural theories.
 ---
-
-<!-- ≅ 7,500 words -->
 
 Introduction
 ============
@@ -33,9 +31,22 @@ mid-nineteenth to the early twentieth centuries derives much of its
 motivation and methodology from literary history and criticism.
 Moreover, it plays out to a great extent within literary circles, even
 as a Portuguese-language architectural press emerges during the Belle
-Époque. This context has made the rise of architectural theory in these
-two nations virtually invisible to a historiography still mostly
-concerned with the study of strictly disciplinary texts.[^1]
+Époque.
+I seek to show in this article how traditionalist architecture
+in Portugal and Brazil has a longer historical background and clearer
+theoretical roots than some of the scholarship tends to assume.
+Portuguese-speaking architects and architectural critics appropriate the
+goals and perspectives by literary historians, formulated long before
+the rise of traditionalist architectural styles. This appropriation can
+be seen in an implicit dialog between Belle Époque architectural
+traditionalism and ethnographic portrayals of national character
+construed throughout the second half of the nineteenth century. The
+traditionalist movement's claim to authority thus rests on a double
+reach for the past: first, it requires "traditional architecture" to
+pre-exist its turn-of-the-century reconstruction in Portugal and Brazil,
+exhibiting stability through space and time; to prove this claim, it
+reaches for a respectable apparatus of literary and historical
+criticism, crafted throughout the nineteenth century.
 
 Beginning in the age of liberal monarchies in both countries, around the
 mid-1830s, Romanticist writers are involved with the theoretical
@@ -66,7 +77,7 @@ Brazilian concerns regarding the creation of a national identity through
 historiography in the mid-nineteenth century
 [@guimaraes:2002amadorismo3] resonate with contemporary Portuguese
 nationalist writers [@dalge:1999relacoes3]. They also have shed light on
-turn-of-the-century debates on the causal relationships among race,
+*fin de siècle* debates on the causal relationships among race,
 language, and cultural identity [@pereira:1992racas14;
 @rodriguez:2017moral]. Going beyond the expected affirmation of national
 identity in each country, these debates evidence the workings of a
@@ -74,6 +85,15 @@ transatlantic *republic of letters* bridging the conceptual and
 ideological divide caused by Brazilian independence
 [@paredes:2006querela32].
 
+The disciplinary corps of architectural scholarship so far has 
+focused overwhelmingly on the technical and political aspects of urban
+reform [@lisboa:2002engenheiros; @salgueiro:2001cidades] or, at best, on
+the built outcomes of socioeconomic change [@lemos:1999republica;
+@depaoli:2013entre]. More recently, a growing number of social and literary
+historians have sought to interpret writers' experiences of the urban
+environment [@acerbi:2014long; @aragao:2012passeio;
+@colonetti:2007selecao3; @pedruzzi:2008rio3; @resende:2016lima;
+@schwarcz:2017minha31; @staudt:2009rio].
 Compared to this flourishing universe of literary history,
 Portuguese-language architectural theory in the strict sense, and
 especially Brazilian theory, is generally held to be a late
@@ -87,51 +107,17 @@ sources of architectural theory are to be found in the nineteenth
 century, these must be sought in discourses about urban reforms
 [@salgueiro:2001cidades; @lisboa:2002engenheiros] not historical
 writing. This view has reserved an uneasy place for traditionalist
-architecture. Though it is understood to play a role in the ideological
+architecture; though it is understood to play a role in the ideological
 underpinning of Republican nationalism [@mello:2007ricardo], it is
 difficult to shake off the interpretation that, in hindsight,
 traditionalism was somehow doomed from the start to be a methodological
 dead end [@comas:2010passado; @rosmaninho:2002casa].
 
-I seek to show in this article how traditionalist architecture
-in Portugal and Brazil has a longer historical background and clearer
-theoretical roots than some of the scholarship tends to assume.
-Portuguese-speaking architects and architectural critics appropriate the
-goals and perspectives by literary historians, formulated long before
-the rise of traditionalist architectural styles. This appropriation can
-be seen in an implicit dialog between Belle Époque architectural
-traditionalism and ethnographic portrayals of national character
-construed throughout the second half of the nineteenth century. The
-traditionalist movement's claim to authority thus rests on a double
-reach for the past: first, it requires "traditional architecture" to
-pre-exist its turn-of-the-century reconstruction in Portugal and Brazil,
-exhibiting stability through space and time; to prove this claim, it
-reaches for a respectable apparatus of literary and historical
-criticism, crafted throughout the nineteenth century.
+Literary culture and the Beaux-Arts tradition
+=============================================
 
-Architectural Theory as Literary Genre
-======================================
-
-The literary milieu is quite
-distinct from that of the engineering and infrastructure debates arising
-around the same time, and far less popular among, or methodologically
-accessible to, architectural historians. The disciplinary corps of
-architecture, ever on the lookout for "pioneers" of modernity, has
-focused overwhelmingly on the technical and political aspects of urban
-reform [@lisboa:2002engenheiros; @salgueiro:2001cidades] or, at best, on
-the built outcomes of socioeconomic change [@lemos:1999republica;
-@depaoli:2013entre]. Even as a growing body of social and literary
-historians have sought to interpret writers' experiences of the urban
-environment [@acerbi:2014long; @aragao:2012passeio;
-@colonetti:2007selecao3; @pedruzzi:2008rio3; @resende:2016lima;
-@schwarcz:2017minha31; @staudt:2009rio], the influence of literary
-history, as well as of the methods of ethnographic critique that stem
-from it in the late nineteenth century, in shaping a theory of
-architecture is still mostly overlooked.
-
-It is true that, in contrast to the world of civil and social
-engineering, architectural theory remains, well into the nineteenth
-century, something for the "learned enjoyment" of well-to-do men (seldom
+In late *Ancien Régime* Portuguese empire, artistic culture and theory
+is something for the "learned enjoyment" of well-to-do men (seldom
 women) of letters. Such is the target audience for João Pacheco's 1734
 compendium of cultural and scientific trivia
 [@pacheco:1734divertimento], a staple of aristocratic libraries for a
@@ -139,45 +125,46 @@ long time thereafter [@macedo:2017biblioteca]. As late as 1823, a
 posthumous work by the Portuguese court architect, Cyrillo Volkmar
 Machado (1748--1823) recommends the study of his Vasarian biographies of
 artists to "polite" and "learned" men, that is, to the well-born
-dilettante [@machado:1922colleccao, 1]. Conversely, many professional
-architects shy away from these elevated circles, or else establish a
-fitting ethos in their writing by styling themselves poets, journalists,
-or scientists, rather than men of the trade. Such is the case of the
-Portuguese architect, archaeologist, and academician, Joaquim Possidónio
-Narciso da Silva (1806--1896), as well as of the Brazilian architect,
-poet, and diplomat, Manuel de Araújo Porto-Alegre (1806--1879), both of
-whom are well versed in science and literature, and have inroads to
-their respective royal and imperial courts.
+dilettante [@machado:1922colleccao, 1].
 
-Architectural culture nevertheless thrives within literary---and, by
-extension, historical---circles throughout the nineteenth century, and
-muster from it a methodological apparatus as well as a set of historical
-references pertaining to the questions of national character and
-tradition. A young Araújo Porto-Alegre addresses these questions in what
-is among the earliest studies on Brazilian art, a report read before the
-Institut Historique in Paris in 1834. His account of colonial
+The creation of Beaux-Arts schools---1816/26 in Brazil, 1836 in
+Portugal---exposes a contradiction between the aspiration of
+Luso-Brazilian architects to a social status akin to that of French
+Academicians and the enduring Portuguese, and especially Brazilian,
+makeup of the elites as an "island of men of letters," scions of the
+landed oligarchy schooled in Law or Medicine [@carvalho:2013construcao].
+To overcome this contradiction, some professional architects establish a
+fitting ethos by styling themselves writers or scientists, rather than
+men of the trade. Such is the case of the Portuguese architect,
+archaeologist, and academician, Joaquim Possidónio Narciso da Silva
+(1806--1896), as well as of the Brazilian painter, architect, poet, and
+diplomat, Manuel de Araújo Porto-Alegre (1806--1879)
+[@martins:2001estudos4; @kovensky:2014araujo].
+
+Mastering the methodological apparatus of historical and literary
+criticism thus becomes a crucial skill for these Beaux-Arts
+practitioners. A young Araújo Porto-Alegre is eager to prove his
+credentials in one of the earliest studies on Brazilian art, a report read
+before the Institut Historique in Paris in 1834. His account of colonial
 architecture (seventeenth and eighteenth centuries) concocts for it a
-commendable Renaissance genealogy that "evidences ... the taste of the
-new Roman school of Bramante and Buonarroti" and displays even, in one
+commendable Renaissance genealogy that "evidence[d] ... the taste of the
+new Roman school of Bramante and Buonarroti" and even displayed, in one
 church, "as if a distant reflection of the admirable frescos of the
-Vatican" [@magalhaes:1834resume, 50] ([@Fig:riocolonia]). Not content
-with relating Brazilian architecture directly to Italian sources, Araújo
-Porto-Alegre goes so far as to frame its achievements as an unlikely
-triumph over the hindrance of Portuguese philistinism
-[@magalhaes:1834resume, 50]. This claim sets in motion a nationalist
-debate on the relationship between Portuguese tradition and Brazilian
-particularity that will last for upwards of a century.
+Vatican" [@magalhaes:1834resume, 50]. Comparing the, predominantly late
+baroque, monumental architecture of Rio de Janeiro ([@Fig:riocolonia])
+to the Italian high Renaissance might not be as far-fetched as it first
+appears. Araújo Porto-Alegre's genealogy demonstrates, in fact, a clear
+understanding of contemporary stylistic hierarchies. He leverages to his
+own advantage the French Beaux-Arts narrative that bypasses the
+undesirable debt owed to Italian baroque in favor of a claim of
+privileged, spiritual access to Renaissance principles
+[@boudon:1990regard].
 
-The prescriptive definition of national character in art requires, of
-course, a documented body of knowledge on what national art is to begin
-with. At this point, the two strands of Romanticism tug in opposite
-directions: on one side is the drive for personal originality,
-represented by Araújo Porto-Alegre; on the other, nationalist
-revivalism, represented by the Portuguese writers, João Baptista da
-Silva Leitão de Almeida Garrett (1799--1854) and Alexandre Herculano
-(1810--1877) [@botelho:2010historiografia, 121]. The Brazilian master
-shifts the burden of building a Brazilian artistic "School" towards the
-future and onto the Beaux-Arts education provided by the Imperial
+In this view, the past is a collection of sources the Beaux-Arts
+tradition can freely appropriate or renege according to the values of
+the present. Accordingly, Araújo Porto-Alegre shifts the burden of
+constituting a Brazilian artistic "School" towards the
+future and onto the education provided by the Imperial
 Academy of Fine Arts (AIBA). As its director from 1854 to 1857, he
 commands a comprehensive program reform that puts at its center the
 Romanticist principle of fostering creative originality rather than
@@ -189,57 +176,129 @@ Vasarian biographic scheme also prevalent in Portugal
 developments in the Brazilian capital as the accumulated contributions
 of each individual artist's genius [@araujoportoalegre:1841memoriaIII].
 As late as 1855, he carries on the prospective ideal of art history as
-spiritual and technical inspiration rather than a documental trove
-constituting a source of aesthetic authority:
+sources to be freely appropriated by spiritual and technical inspiration:
 "My attempt targeted a national thought, namely that of using these
 examples to make other [ideas] of higher value bear fruit in the young
 minds." [@araujoportoalegre:1856iconographiaXIX, 349]
 
-Araújo Porto-Alegre's effort will reach its
-culmination under the late-nineteenth-century generation of artists and
-theoreticians, at the forefront of which stands the novelist and art
-critic, Luís Gonzaga Duque Estrada (1863--1911). Due to this focus on
-creative originality as a precondition for an authentic national style,
-Gonzaga Duque will be chiefly interested in the social and cultural
-conditions surrounding the production of art and architecture, rather
-than in architectural forms strictly speaking [@guimaraes:2001empenho,
-23]. Therefore, his anticlerical opinions lead him, in his early history
-of Brazilian art, to dismiss the mannerist style of early Jesuitic
-architecture as "evidently lacking in taste" [@gonzagaduque:1995arte].
+Araújo Porto-Alegre's effort at creating national art reaches its
+culmination under a *fin de siècle* generation of artists and
+theoreticians affiliated with the Beaux-Arts mindset. At its
+forefront stands the novelist and art critic, Luís Gonzaga
+Duque Estrada (1863--1911). Due to this focus on creative originality as
+a precondition for an authentic national style, Gonzaga Duque is chiefly
+interested in the social and cultural conditions surrounding the
+production of art and architecture, rather than in architectural forms
+strictly speaking [@guimaraes:2001empenho, 23]. Therefore, his
+anticlerical opinions lead him, in his early history of Brazilian art,
+to dismiss the mannerist style of early Jesuitic architecture as
+"evidently lacking in taste" [@gonzagaduque:1995arte].
 That one of the few opinions on architecture to come out of Araújo
 Porto-Alegre's "spiritual lineage" should be such a curt judgment on the
 subject is evidence of the low value ascribed to primary documentation
-in this critical circle.
+in this critical circle. To the Beaux-Arts critic, a national artistic
+school is not a description of historical facts, but a prescriptive
+label to be fashioned out of the means provided by history, or, as
+Gonzaga Duque argues late in his life, out of those yet to be provided
+by the future development of national culture
+[@gonzagaduque:1929contemporaneos, 255].
 
-The Portuguese Romanticist writers, on the other hand, place increasing
-emphasis on the documentation of sources not only for historical
-writing, Herculano's lifelong effort, but even for literary creation.
+The *fin de siècle* apex of Romantic eclecticism in Brazil under Gonzaga
+Duque and his protégé artists [@needell:1987tropical] may well be one of
+the reasons why the traditionalist movement of the 1900s and 1910s has
+appeared, to architectural historians, as a sudden and unexpected break
+with the Beaux-Arts lineage. Nonetheless, a competing strain of
+nationalist Romanticism is developing in Portugal since the end of the
+liberal civil war (1832--1834). Contrasting with the Brazilian Academic
+circles' emphasis on personal originality, the Portuguese writers, João
+Baptista da Silva Leitão de Almeida Garrett (1799--1854) and Alexandre
+Herculano (1810--1877) promote the documentation of popular traditions
+as the proper foundation for national art [@botelho:2010historiografia,
+121].
+
+National artists and collective spirit
+======================================
+
 Almeida Garrett dedicates much of his early work, compiled in the 1843
 *Romanceiro geral,* to reinterpretations of popular poetry
 [@monteiro:2019refiguracoes9]. His 1844 poem *Miragaia,* described in the
 foreword as "a true reconstruction of an ancient monument"
 [@almeidagarrett:1844miragaia], is illustrated with compelling etchings
-([@Fig:miragaia])
-of Gothic and Islamic architecture by Manuel Bordallo Pinheiro
-(1815--1880), evidencing their interest in a comprehensive historical
-ambiance that ranges from the purported authenticity of the text to its
-pictorial decoration.
+of Medieval architecture by Manuel Bordallo Pinheiro
+(1815--1880). The first chapter heading ([@Fig:miragaia]) displays an
+evocative combination of an Almohad door and a Gothic window, evidencing
+their interest in crafting a historical ambiance that ranges from the
+purported authenticity of the text to its pictorial decoration. The
+architectural setting, reminiscent of the twelfth century, is, however,
+anachronistic with respect to the tale, predicated on the tenth-century
+position of the border between Christian and Islamic kingdoms. This
+carelessness highlights a sharp distinction between the concept of
+historical time in the "modern" world and a sort of eternal present
+projected upon ancient times, where all traditional styles can overlap.
+Alongside the absence of historical process in this imagined ancient
+world, Almeida Garrett posits the absence of individual authorship in
+the literature he "reconstructs" as a guarantee of cultural
+authenticity.
 
-Another scion of this Romanticist circle, the
-Brazilian-born poet, Antonio Gonçalves Dias (1823--1864) takes this
-interest one step further. After completing his studies in Portugal,
+The emerging tension between what are then seen as modern and
+traditional modes of relating to the passage of time and to artistic
+originality is singled out in an architectural complex that stands
+precisely at the perceived hinge between tradition and modernity: the
+Hieronymite monastery at Belém, near Lisbon, begun in 1497
+([@Fig:belem]). The Brazilian military engineer and historian, Francisco
+Adolfo de Varnhagen (1816--1878), an occasional collaborator of
+Herculano's, writes a detailed description of this monastery, published
+in Herculano's *Panorama* magazine in 1842. Varnhagen virtually begins
+his account with a somewhat unrelated anecdote; he chastises the
+Spanish-born Renaissance architect, João de Castilho (1470--1552), for
+introducing classical compositions in the Gothic Batalha monastery,
+departing from the building's dominant character
+[@varnhagen:1842mosteiro1, 60]. Varnhagen goes on to enlist Victor
+Hugo's support in criticizing modern attempts to "correct" the asymmetry
+of Medieval buildings [@varnhagen:1842mosteiro1, 75]. Overall, he
+attributes a sense of primeval "chaos" to that transition from the
+impersonal and static character of Gothic craftsmanship to the creative
+impulses of singular Renaissance artists [@varnhagen:1842mosteiro1, 67],
+as if the birth of History itself were visible in the monastery's built
+fabric.
+
+Almeida Garrett's and Varnhagen's preference for anonymous traditions is
+not only at odds with Araújo Porto-Alegre's emphasis on original
+artistic creation; it signals a fundamentally different understanding of
+the nature of tradition itself. Within the Beaux-Arts method, ever since
+the *Querelle des anciens et des modernes*, a tradition is understood to
+be the *outcome* of selective appropriations of the past by modern
+artists, mediated through debate within the artistic community
+functioning as a *republic of letters* [@lecoq:2001querelle]. Contrary
+to this understanding, Almeida Garrett's "reconstructions" of popular
+poetry and Varnhagen's opposition between modernity and tradition both
+require, conceptually, such traditions to *pre-exist* the Romanticist
+writer's appropriation thereof.
+
+The conflict between these two camps within Romanticism play out in the
+Brazilian process of literary and scientific nation-building during the
+mid-nineteenth century, and nowhere more clearly so than in the work of
+a man in Almeida Garrett's and Herculano's social and cultural circle.
+The Brazilian-born poet, Antonio Gonçalves Dias (1823--1864), is a scion
+of the landed oligarchy that the historian José Murilo de Carvalho calls
+the "island of men of letters." After completing his studies in Portugal,
 Gonçalves Dias returns to Brazil thoroughly imbued with the nationalist
 emphasis on documentation promoted by Almeida Garrett and Herculano. In
 1859, Gonçalves Dias is entrusted with the "ethnography and narrative
 section" of the Scientific Commission of Exploration, an expedition to
 the Northeast Brazilian province of Ceará that seeks to document various
-social and natural features of that region. This Commission, established
-under the aegis of the 
-IHGB, will ultimately expose the conflicts inherent to the framing of
-national identity as something to be both *documented* and *created* in
-a single literary or artistic process.
+social and natural features of that region. This Commission is
+established under the aegis of the Brazilian Historic and Geographic
+Institute (IHGB), a government-funded organization entrusted with
+providing Brazil with a proper "national" history. This project works
+backwards from the Micheletian ideal; instead of starting from the
+concept of nation as a transcendental and pre-existing reality, the IHGB
+endeavors to fashion a nation out of the writing of its history
+[@guimaraes:1988nacao1]. This will ultimately expose the conflicts
+inherent to the framing of national identity as something to be both
+*documented* and *created* in a single literary or artistic process.
 
-The crux of the conflict that arises together with ethnographic
+The crux of the conflict arising together with ethnographic
 documentation in Portugal and Brazil has to do with the authority
 attributed to sources and methods. The process by which writers have
 traditionally acknowledged authority, based on cross-examination of the
@@ -250,8 +309,29 @@ legitimacy to describe social and ethnic groups. In this context, it is
 perhaps not surprising Gonçalves Dias should eventually fall out with
 the Expedition's leader, physician and zoologist Manuel Ferreira Lagos
 (1816--1870), who seems to consider the ethnographic section as being
-of lesser importance than zoology, botany, and mineralogy
-[@kury:2001comissao, 39].
+of lesser importance [@kury:2001comissao, 39].
+
+On both shores of the Atlantic, political and infrastructural
+modernization, along with the political crisis of
+the late nineteenth century, is to become a catalyst for a renewed
+interest in national identity---this time around, in the form of longing
+for the lost roots of cultural identity. The historian of Portuguese
+anthropology, João Leal, has suggested this interest is due to Portugal's
+increasingly peripheral status among European powers, pushing
+nationalist thinkers to contend with "a 'classic national problem' ...
+that not only favors the study of local folk traditions, but also
+conducted that study as part of a search for Portuguese national
+identity" [@leal:1999history26, 10--11]. This "anthropology of
+nation-building" [@stocking:1982afterword47, 172] is therefore akin to
+that of a newly independent country, such as Brazil's own. Now, this
+operation of anthropological nation-building requires as much the making
+of a conceptual scaffold as it needs the primary research to fill it
+with content. Therefore, both in Portugal and in Brazil, initial efforts
+at documentation are somewhat superficial if compared to the crafting of
+basic narrative structures for this documentation to tie into.
+
+Remove this section
+-------------------
 
 Gonçalves Dias's insistence on fulfilling the
 Commission's original goal of studying all of Brazil's northerly
@@ -267,32 +347,10 @@ the existence of the necessary elements for the creation of industry,"
 implying a focus on craft traditions that are already somewhat close to
 modern Brazilian society [@exposicao:1861-246, 1].
 
-Cultural Nation-building in Crisis
-==================================
-
 Meanwhile, Portugal is emerging from a traumatic political and economic
-restructuring after the civil war of 1828--1832, and her intellectuals
+restructuring after the civil war of 1832--1834, and her intellectuals
 are contemplating their country's uninspiring prospects as a waning
-colonial power [@toussaint:2012arquitectura, 100]. On both shores of the
-Atlantic, political and infrastructural modernization becomes a concern
-far more pressing than the affirmation of national identity.
-Nevertheless, modernization itself, along with the political crisis of
-the late nineteenth century, is to become a catalyst for a renewed
-interest in national identity---this time around, in the form of longing
-for the lost roots of cultural identity. The historian of Portuguese
-anthropology, João Leal, suggests this interest is due to Portugal's
-increasingly peripheral status among European powers, pushing
-nationalist thinkers to contend with "a 'classic national problem' ...
-that not only favored the study of local folk traditions, but also
-conducted that study as part of a search for Portuguese national
-identity" [@leal:1999history26, 10--11]. This "anthropology of
-nation-building" [@stocking:1982afterword47, 172] is therefore akin to
-that of a newly independent country, such as Brazil's own. Now, this
-operation of anthropological nation-building requires as much the making
-of a conceptual scaffold as it needs the primary research to fill it
-with content. Therefore, both in Portugal and in Brazil, initial efforts
-at documentation are somewhat superficial if compared to the crafting of
-basic narrative structures for this documentation to tie into.
+colonial power [@toussaint:2012arquitectura, 100].
 
 Up until the 1860s, then, the actual form of the built environment has
 been of little consequence to the literary debates around national
@@ -315,8 +373,11 @@ issue of national character, at other times expressing a derivative,
 aesthetic aspect of debates played out away from their disciplinary
 field.
 
+Interlude: Artists' biographies
+===============================
+
 The conflict between the two contradictory Romanticist
-strands---originality and traditional, popular authority---is resolved,
+strands---informed originality and traditional authority---is resolved,
 at first, into a renewed interest in artists' biographies. Though quite
 similar in form to the Vasarian lives, these biographies, especially
 around the 1860s, are produced in a literary environment that values the
@@ -375,23 +436,18 @@ the late 1860s still clings to its anecdotal medium in order to convey a
 general message. Starting in the 1870s, this genre will split into two
 different research techniques: strict philological and historiographic
 research on individual people and sources, on the one hand, and on the
-other ethnographic documentation and interpretation of popular
-traditions.
+other ethnographic documentation and interpretation of populations as a
+whole and their traditions.
+
+Traditionalist Aims and Ethnographic Methods
+============================================
 
 Even as the artist biography is being developed into a medium for
 architectural writers to explore the relationship between particular and
-national characters, the documentation of actual, historical styles of
+national characters, the documentation of historical styles of
 architecture in Portugal becomes a legitimate endeavor both as a support
 for revivalist design and as one among many sources of ethnographic
-research. The former goal is spurred by a detailed description of the
-monastery of the Hieronymites in Belém ([@Fig:belem]), near Lisbon, written in
-1842 by the Brazilian military engineer and IHGB historian, Francisco
-Adolfo de Varnhagen (1816--1878) [@varnhagen:1842noticia]. This and a
-number of other factors, including King consort Ferdinand II's artistic
-patronage, entail a belated and somewhat derivative Medieval revival
-that spreads through Portugal and Brazil.
-
-At first, the capacity and
+research. At first, the capacity and
 demand for revivalist buildings both in Medieval and Classical styles is
 concentrated among foreign designers, such as the Austrian baron and
 industrialist Wilhelm von Eschwege (1777--1855)---who traveled
@@ -399,7 +455,7 @@ extensively through Brazil and Portugal before drawing up the plans for
 Ferdinand II's Pena Summer palace ([@Fig:pena])---, and foreign patrons, such as the
 British-dominated Oporto Commercial Association (incorporated 1834).[^3]
 By the 1860s, however, a growing domestic demand for neo-Medieval and
-Neo-Islamic buildings, as well as for the restoration of existing
+neo-Islamic buildings, as well as for the restoration of existing
 monuments [@anacleto:1997arquitectura, vol. 1, p. 208], drives the
 operative need for the systematic study of historic Portuguese
 architecture. The first questions in this study are then: where to look
@@ -422,12 +478,17 @@ of architecture and ethnography bring the two disciplines once again
 closer together over the last quarter of the century under the umbrella
 of anthropological nation-building.
 
-Traditionalist Aims and Ethnographic Methods
-============================================
-
 Around 1870, literary and philological studies stand at the
 methodological fulcrum of ethnography in the Portuguese-speaking world.
-Two books published that same year set the tone for debates that will
+The consolidation of Brazilian independence and the maturing work of the
+IHGB [@sa:2017guardioes7] obviated the need for anti-Portuguese
+sentiment among Brazilian elites; at the same time, a number of issues
+ranging from positivist philosophy to national infrastructure and
+ethnographic methods draw young Portuguese and Brazilian intellectuals
+closer together, in one last glimmer of the transatlantic republic of
+letters before the end of the century.
+
+Two books published in 1870 set the tone for debates that will 
 remain active until the early twentieth century. Theophilo Braga's
 *History of Portuguese Literature: an Introduction,* a book so
 influential it will be revised and reedited several times in the
@@ -514,21 +575,21 @@ The transition from literary debates that imply issues relative to
 architecture and material culture to architectural discourses framed by
 a disciplinary background in architecture, art history, or archaeology
 takes place in the late nineteenth and early twentieth centuries.
-Simões's account of Romanesque architecture ([@Fig:simoes]) is a
-counterpoint to the sharply ideological and polarizing work of Braga.
-Simões's book is a
+Simões's account of Romanesque architecture is a counterpoint to the
+sharply ideological and polarizing work of Braga. Simões's book is a
 true work of art history in the modern disciplinary sense. It combines a
-rigorous critique of written sources with sharp visual analysis of the
-built fabric, and does not shy away from making sweeping, though at
-times unwarranted, generalizations out of this critique and analysis.
+rigorous critique of written sources with sharp visual analysis
+([@Fig:simoes]) of the built fabric, and does not shy away from making
+sweeping, though at times unwarranted, generalizations out of this
+critique and analysis.
 Such generalizations never go as far as Braga's, however, and in
 Simões's book one is left mainly with some archaeological support for
 the northern origins of Portuguese culture---even if those origins are
 due simply to the circumstances of state formation in the Iberian
 peninsula not some transcendental ethnic scheme.
 
-Despite its analytical
-merits, his work is better understood as part of a general development
+Despite its analytical merits, Simões's work is better understood as
+part of a general development 
 of philological and archaeological art history, even better represented
 by the work of Joaquim de Vasconcellos, which culminates in an ambitious
 *Artistic ethnography* [@vasconcelos:1916etnografia]. A number of
@@ -582,12 +643,14 @@ elements codified in publications such as Simões's
 Professional Discourse and the Topography of Tradition
 ======================================================
 
-Unlike the Romanticist ethnography of Gonçalves Dias's and Almeida
-Garrett's generation, which was *procedural* in nature---stressing the
-free reinterpretation of canonical examples, guided by artistic
-genius---, the ethnographic
-traditionalism of the late nineteenth century is eminently *documental*
-and *iconographic* [@vigato:1994larchitecture, 52]. It must be so, first
+The Romanticist ethnography of Gonçalves Dias's and Almeida
+Garrett's generation was *procedural* in nature, stressing the
+reinterpretation of tradition into new works of art. The ethnographic
+traditionalism of the late nineteenth century, on the other hand, is
+eminently *documental* and *iconographic* [@vigato:1994larchitecture, 52].
+It purports to classify and to reproduce, at first, the works it
+documents, rather than to reinterpret then into an evolving tradition.
+It must be so, first
 because it requires constructing an "Other" within one's own nation as a
 primeval and authentic source *separate* from the corrupting influence
 of the architect's own formal education, and second because that
@@ -603,9 +666,10 @@ Brazil. The similarity between these two men goes beyond their
 architectural interests into the realm of politics, both being forced
 into political exile. They are representative of a project of cultural
 secularization, which leads them to shun Church and royal built heritage
-in favor of popular dwelling. Traditionalist regionalism, an eminently
-political movement with roots in the Catalan autonomic movement
-[@sola-morales:1980eclecticismo] as well as in French "right-wing
+in favor of popular dwelling [@silva:2019construcao35]. Traditionalist
+regionalism, an eminently political movement with roots in the Catalan
+autonomic movement and its Gothic revival
+[@sola-morales:1980eclecticismo], as well as in French "right-wing
 socialism," [@vigato:1994larchitecture, 18] is therefore a privileged
 arena for the expression of anti-establishment opinions.
 
@@ -729,6 +793,9 @@ immediately familiar to Severo's audience has the secondary effect of
 exposing the rising conflicts in the configuration and appropriation of
 national character in early republican Brazil.
 
+Remove
+------
+
 The relative usefulness of Severo's São Paulo-centered survey of
 traditional architecture in his career as a designer and builder, as
 well as the success of Lino's later work, which draws heavily on the
@@ -773,7 +840,6 @@ the concept of architecture with their own worldviews, interests, and
 operative methods. Among these several perspectives, I picked the
 literary appropriation of architecture as a guiding thread to follow
 this landscape through most of the century.
-
 The view from the vantage point of literary history appears quite
 different from that taken from the standpoint of professional practice,
 or even from a study centered around built objects. Even as architects
@@ -795,6 +861,14 @@ forefront. The simple educational and professional genealogies of
 practitioners, a long-established narrative device in art history, must
 give way to networks of like minds cutting across disciplinary
 boundaries.
+Through the nineteenth century, the concept of tradition is transformed.
+At first understood, under the Beaux-Arts system, as an ongoing
+construct created by qualified aesthetic debate, it is increasingly
+taken for a pre-existing, mostly static, substratum that ought to
+condition architectural practice and its repertoire of possible
+solutions. This latter normative understanding of tradition draws its
+theoretical framework from literary and historiographic nation-building
+efforts carried out during the mid-nineteenth century.
 
 The process of replacing a disciplinary expertise handed down across
 generations with a constant disquiet about the broader cultural
@@ -835,8 +909,10 @@ Figures
 
 ![Ricardo Severo, house at rua do Conde, Oporto, 1904. From "Casa Portugueza," *Revista de Turismo* no. 13, 5 Jan. 1917, 104](https://upload.wikimedia.org/wikipedia/commons/8/88/RevistadeTurismoVol1N13_0008_branca_t0-crop.jpg){#fig:conde}
 
-[^1]: This shortcoming was, to my knowledge, first pointed out by Macedo
-at a very recent date. [@macedo:2017biblioteca]
+<!--
+   -[^1]: This shortcoming was, to my knowledge, first pointed out by Macedo
+   -at a very recent date. [@macedo:2017biblioteca]
+   -->
 
 [^2]: Some of the artists that figure prominently in Araújo
 Porto-Alegre's accounts, such as Valentim da Fonseca e Silva, are also
