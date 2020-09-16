@@ -9,21 +9,21 @@ SRC  = $(filter-out README.md,$(wildcard *.md))
 palazzo-tdsr-30-article.docx : article.md biblio.bib docx.yaml spec/tdsr.docx
 	@test -e styles || git clone https://github.com/citation-style-language/styles.git
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 $< -d docx.yaml \
+		pandoc/crossref:2.10 $< -d docx.yaml \
 		--reference-doc=spec/tdsr.docx -o $@
 
 %.pdf : %.md biblio.bib pdf.yaml
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 $< -d pdf.yaml -o $@
+		pandoc/crossref:2.10 $< -d pdf.yaml -o $@
 
 %.docx : %.md biblio.bib docx.yaml
 	@test -e styles || git clone https://github.com/citation-style-language/styles.git
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 $< -d docx.yaml -o $@
+		pandoc/crossref:2.10 $< -d docx.yaml -o $@
 
 _site/%.html : %.md biblio.bib jekyll.yaml
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-crossref:2.9.2.1 $< -d jekyll.yaml -o $@
+		pandoc/crossref:2.10 $< -d jekyll.yaml -o $@
 
 %.json : %.yaml spec/yaml2json.js
 	docker run --rm -it -v "`pwd`:/usr/src/app" -w /usr/src/app \
