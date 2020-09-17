@@ -8,7 +8,7 @@ SRC  = $(filter-out README.md,$(wildcard *.md))
 
 docs/index.html : slides.md revealjs.yaml biblio.bib | styles
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		pandoc/crossref:2.10 $< -d spec/revealjs.yaml -o $@
+		pandoc/crossref:2.10 $< -d revealjs.yaml -o $@
 
 palazzo-tdsr-30-article.docx : article.md biblio.bib docx.yaml spec/tdsr.docx | styles
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
