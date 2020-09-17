@@ -1,11 +1,14 @@
 filters:
+- pandoc-crossref
 - pandoc-citeproc
-fail-if-warnings       : True
+fail-if-warnings       : False
 file-scope             : True
 standalone             : True
 from                   : 'markdown'
+to                     : 'latex'
 table-of-contents      : False
 number-sections        : False
+data-dir               : 'spec'
 resource-path:
 - .
-- fig
+- figures
