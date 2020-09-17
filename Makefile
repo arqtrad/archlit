@@ -6,11 +6,17 @@ vpath default.% lib
 
 SRC  = $(filter-out README.md,$(wildcard *.md))
 
-palazzo-tdsr-30-article.docx : article.md biblio.bib docx.yaml spec/tdsr.docx
-	@test -e styles || git clone https://github.com/citation-style-language/styles.git
+index.html : slides.md revealjs.yaml biblio.bib | styles
+	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
+		pandoc/crossref:2.10 $< -d spec/revealjs.yaml -o $@
+
+palazzo-tdsr-30-article.docx : article.md biblio.bib docx.yaml spec/tdsr.docx | styles
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
 		pandoc/crossref:2.10 $< -d docx.yaml \
 		--reference-doc=spec/tdsr.docx -o $@
+
+styles :
+	@test -e styles || git clone https://github.com/citation-style-language/styles.git
 
 %.pdf : %.md biblio.bib pdf.yaml
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
@@ -31,8 +37,13 @@ _site/%.html : %.md biblio.bib jekyll.yaml
 		yarn && node spec/yaml2json.js $< >> $@
 
 build :
-	docker run --rm -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
+	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+
+serve :
+	docker run -v "`pwd`:/srv/jekyll" -h 127.0.0.1 -p 4000:4000 \
+		jekyll/jekyll:4.1.0 \
+		/bin/bash -c "jekyll serve --skip-initial-build"
 
 clean :
 	-rm -rf styles

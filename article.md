@@ -793,9 +793,6 @@ immediately familiar to Severo's audience has the secondary effect of
 exposing the rising conflicts in the configuration and appropriation of
 national character in early republican Brazil.
 
-Remove
-------
-
 The relative usefulness of Severo's São Paulo-centered survey of
 traditional architecture in his career as a designer and builder, as
 well as the success of Lino's later work, which draws heavily on the

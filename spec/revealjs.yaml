@@ -1,0 +1,32 @@
+from        : markdown
+to          : revealjs
+standalone  : true
+file-scope  : true
+slide-level : 2
+bibliography: bibliography/biblio.bib
+cite-method : citeproc
+toc         : false
+css         : "assets/css/slide.css"
+template    : "_lib/default.revealjs"
+fail-if-warnings: true
+filters:
+  - pandoc-crossref
+  - pandoc-citeproc
+variables:
+  revealjs-url: "reveal.js"
+  controls: 'false'
+  progress: 'false'
+  hash: 'true'
+  hashOneBasedIndex: 'true'
+  width: '1280'
+  height: '720'
+metadata:
+  lang: pt-BR
+  figureTitle: Figura
+  tableTitle : Tabela
+  cssLabelSep: "&ndash;"
+  csl: "styles/chicago-author-date.csl"
+  suppress-bibliography: false
+  title-slide-attributes:
+    data-background-image: https://www.integra.unb.br/s/R8zSFmCYENHqtR6/preview
+    data-background-size: cover

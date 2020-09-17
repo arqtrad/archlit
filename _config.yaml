@@ -5,6 +5,9 @@ author:
 description: >
   Architectural theory as a facet of literary history in the nineteenth century
 show_excerpts: false # set to true to show excerpts on the homepage
+baseurl: "/archlit"
+url: "https://dmcpatrimonio.github.io"
+lang: en-US
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -23,11 +26,15 @@ header_pages:
 theme: minima
 permalink: pretty
 timezone: America/Sao_Paulo
+sass_dir:
+  load_paths:
+    - _sass
+    - reveal.js/css/theme/template
 relative_links:
   enabled         : true
   collections     : true
 readme_index:
-  enabled         : true
+  enabled         : false
   remove_originals: true
   with_frontmatter: true
 kramdown:
@@ -51,7 +58,11 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
+  - downloads
   - package.json
   - spec
+  - styles
   - yarn.lock
   - "*.yaml"
+include:
+  - README.md

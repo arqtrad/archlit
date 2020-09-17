@@ -1,12 +1,14 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.1"
 #gem "minima"
-gem "minima-scholar", "~> 2.5.3"
+gem "minima"
 #gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"#, "~> 0.11"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  # Sassc is preferred to the legacy ruby-sass
+  gem "sassc"
   # Required GitHub Pages plugins below
   gem "jekyll-coffeescript"
   gem "jekyll-optional-front-matter"
@@ -14,9 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
   # Gems incompatible with GitHub Pages below
-  gem "jekyll-scholar"
-  # Sassc is preferred to the legacy ruby-sass
-  gem "sassc"
+  #gem "jekyll-scholar"
   # Gems required by Jekyll 4
   gem "stringex"
 end
