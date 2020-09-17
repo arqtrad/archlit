@@ -6,7 +6,7 @@ vpath default.% lib
 
 SRC  = $(filter-out README.md,$(wildcard *.md))
 
-index.html : slides.md revealjs.yaml biblio.bib | styles
+docs/index.html : slides.md revealjs.yaml biblio.bib | styles
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
 		pandoc/crossref:2.10 $< -d spec/revealjs.yaml -o $@
 
