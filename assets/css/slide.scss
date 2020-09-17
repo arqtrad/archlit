@@ -3,8 +3,8 @@
 
 // Reveal.js -----------------------------------
 // Default mixins and settings -----------------
-@import "mixins";
-@import "settings";
+@import "reveal.js/css/theme/template/mixins";
+@import "reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
 
@@ -142,5 +142,5 @@ div.subfigures>p {
 }
 
 // Theme template ------------------------------
-@import "theme";
+@import "reveal.js/css/theme/template/theme";
 // ---------------------------------------------
