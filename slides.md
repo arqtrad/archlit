@@ -1,7 +1,7 @@
 ---
 title : 'Teoria da arquitetura como género literário no século XIX'
 author: 'Pedro P. Palazzo'
-date  : 'Seminário no CES--UC'
+date  : 'Centro de Estudos Sociais e Departamento de Arquitetura --- Universidade de Coimbra'
 lang  : pt-PT
 ---
 
