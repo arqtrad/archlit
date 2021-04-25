@@ -2,18 +2,19 @@ from        : markdown
 to          : revealjs
 standalone  : true
 file-scope  : true
+self-contained: true
 slide-level : 2
 bibliography: bibliography/biblio.bib
 cite-method : citeproc
 toc         : false
-css         : "assets/css/slide.css"
+css         : "docs/assets/css/slide.css"
 template    : "_lib/default.revealjs"
 fail-if-warnings: true
 filters:
   - pandoc-crossref
   - pandoc-citeproc
 variables:
-  revealjs-url: "reveal.js"
+  revealjs-url: "docs/reveal.js"
   controls: 'false'
   progress: 'false'
   hash: 'true'

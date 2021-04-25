@@ -5,7 +5,7 @@ date  : 'Centro de Estudos Sociais › Departamento de Arquitetura › Universid
 lang  : pt-PT
 ---
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/alpiarca_casa_patudos.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/FGx54DYJ3tGLAis/preview"}
 
 # Cultura literária e a tradição académica
 
@@ -35,7 +35,7 @@ lang  : pt-PT
 
 ## {data-background-image="https://www.integra.unb.br/s/PmAD67gJtet8w4W/preview"}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/arrufos.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/PkCGj4zgjLJsCw2/preview"}
 
 # Artistas nacionais e espírito coletivo
 
@@ -52,19 +52,19 @@ lang  : pt-PT
 
 * * * *
 
-![Frontispício de *Miragaia*](https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/03.jpg){.stretch}
+![Frontispício de *Miragaia*](https://www.integra.unb.br/s/iPPMxBNCzn6L78m/preview){.stretch}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/04.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/QkjdNFc59oz6Cri/preview"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Capelas_Imperfeitas_del_Monasterio_de_Batalha.jpg/1280px-Capelas_Imperfeitas_del_Monasterio_de_Batalha.jpg"}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/Vista_do_Mosteiro_e_Praia_de_Belem_Filipe_Lobo.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/PW8jfrXJs6azGgi/preview"}
 
 * * * *
 
 ![Antonio Gonçalves Dias (1823--1864)](https://upload.wikimedia.org/wikipedia/commons/1/16/Gon%C3%A7alves_Dias.jpg){.stretch}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/Ultimatum%255Bpontii%255D3.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/JqGB2TgeNatLeR2/preview"}
 
 # Interlúdio: biografias de artistas
 
@@ -75,7 +75,7 @@ lang  : pt-PT
 ![Aleijadinho (1738?--1814)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Suposto_retrato_de_Aleijadinho.jpg/1200px-Suposto_retrato_de_Aleijadinho.jpg){width=100%} 
 :::
 ::: {.column width=50%}
-![Risco da igreja de São Francisco de Assis em São João del Rei, c. 1777](https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/aleijadinho.jpg){width=100%}
+![Risco da igreja de São Francisco de Assis em São João del Rei, c. 1777](https://www.integra.unb.br/s/AESA6YGFBjdETkD/preview){width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -86,7 +86,7 @@ lang  : pt-PT
 ![Valentim da Fonseca e Silva (1744--1813)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2018_Rio_de_Janeiro_-_Passeio_P%C3%BAblico_-_Busto_de_Mestre_Valentim.jpg/576px-2018_Rio_de_Janeiro_-_Passeio_P%C3%BAblico_-_Busto_de_Mestre_Valentim.jpg){width=100%}
 :::
 ::: {.column width=50%}
-![Chafariz do largo do Paço, Rio de Janeiro](https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/valentim.jpg){width=100%}
+![Chafariz do largo do Paço, Rio de Janeiro](https://www.integra.unb.br/s/QqJT48Kn7az9xo4/preview){width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -96,7 +96,7 @@ lang  : pt-PT
 
 ## {data-background-image="https://cdn.tripplannera.com/media/images/original/st/do/st/a/st/stock-exchange-palace-1.jpg"}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/1280px-Ayuntamiento,_Sintra,_Portugal,_2019-05-25,_DD_01.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/x9ey6aFHAkkaRaH/preview"}
 
 * * * *
 
@@ -117,7 +117,7 @@ lang  : pt-PT
 
 ![Sílvio Romero (1851--1914)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Silvio_Romero.jpg/673px-Silvio_Romero.jpg){.stretch}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/muxarabie.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/kk53rRBnQdDjHxm/preview"}
 
 # Discurso profissional e lugar da tradição
 
@@ -125,13 +125,13 @@ lang  : pt-PT
 
 ![Enrique Casanova (1850--1913)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Retrato_de_Enrique_Casanova_-_G%C3%A1rate_y_Clavero_%28Pal%C3%A1cio_Nacional_da_Ajuda%29.png/546px-Retrato_de_Enrique_Casanova_-_G%C3%A1rate_y_Clavero_%28Pal%C3%A1cio_Nacional_da_Ajuda%29.png){.stretch}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/1280px-Rutes_Historiques_a_Horta-Guinardo-hospitalstpau02.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/C4QbQH6tEsgjJDq/preview"}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/casanova.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/mpmYEema6bS3iBD/preview"}
 
 ## {data-background-image="https://www.integra.unb.br/s/g6WKWR4Af9GBWBM/preview"}
 
 ## {data-background-image="http://www.jornaldesintra.com/wp-content/uploads/2014/03/Picture.jpg"}
 
-## {data-background-image="https://unbbr-my.sharepoint.com/personal/palazzo_unb_br/Documents/pesquisa/archlit/numa_de_oliveira.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/j3j5Q6sQsoKw8oY/preview"}
 
