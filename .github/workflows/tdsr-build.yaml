@@ -10,7 +10,7 @@ jobs:
   tdsr-build:
     runs-on: ubuntu-latest
     steps:
-    - uses: rlespinasse/github-slug-action@2.0.0
+    - uses: rlespinasse/github-slug-action@2.1.1
     - name: Debug slug outputs
       run: |
         echo "GITHUB_HEAD_REF_SLUG: ${{ env.GITHUB_HEAD_REF_SLUG }}"
